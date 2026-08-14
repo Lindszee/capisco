@@ -14,8 +14,15 @@ segmentation into study cards, translation, per-card audio clipping, and
 building/deploying the app).
 
 Setup (one-time), in your Mac's Terminal.app:
-    pip3 install yt-dlp requests
+    curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o yt-dlp
+    chmod +x yt-dlp
+    pip3 install requests
     brew install ffmpeg          # if you don't already have it
+
+This downloads yt-dlp as a standalone program straight from GitHub (no pip/PyPI
+involved for it at all) and runs it as a subprocess — sidesteps any local
+pip/package-index weirdness entirely. Keep the "yt-dlp" file in the same
+folder as this script (or pass --yt-dlp-bin to point elsewhere).
 
 Usage:
     python3 process_episode.py "https://youtu.be/GHIXwFF7w38" \\
@@ -41,46 +48,52 @@ def die(msg):
     print(f"\n✗ {msg}", file=sys.stderr)
     sys.exit(1)
 
-def check_deps():
-    try:
-        import yt_dlp  # noqa: F401
-    except ImportError:
-        die("Missing dependency 'yt-dlp'. Run:  pip3 install yt-dlp requests")
+def check_deps(yt_dlp_bin):
+    if not os.path.exists(yt_dlp_bin):
+        die(f"yt-dlp binary not found at '{yt_dlp_bin}'. Run:\n"
+            f"  curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o yt-dlp\n"
+            f"  chmod +x yt-dlp")
+    if not os.access(yt_dlp_bin, os.X_OK):
+        die(f"'{yt_dlp_bin}' isn't executable. Run:  chmod +x {yt_dlp_bin}")
     try:
         import requests  # noqa: F401
     except ImportError:
-        die("Missing dependency 'requests'. Run:  pip3 install yt-dlp requests")
+        die("Missing dependency 'requests'. Run:  pip3 install requests")
     if subprocess.run(["which", "ffmpeg"], capture_output=True).returncode != 0:
         die("ffmpeg not found. Run:  brew install ffmpeg")
     if subprocess.run(["which", "ffprobe"], capture_output=True).returncode != 0:
         die("ffprobe not found (usually comes with ffmpeg). Run:  brew install ffmpeg")
 
 
-def download_audio(url, out_dir):
-    import yt_dlp
-    audio_path = os.path.join(out_dir, "audio")
-    ydl_opts = {
-        "format": "bestaudio/best",
-        "outtmpl": audio_path + ".%(ext)s",
-        "postprocessors": [{
-            "key": "FFmpegExtractAudio",
-            "preferredcodec": "mp3",
-            "preferredquality": "192",
-        }],
-        "quiet": False,
-        "no_warnings": True,
-    }
-    print("→ Downloading audio via yt-dlp...")
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(url, download=True)
-    final_path = audio_path + ".mp3"
+def download_audio(url, out_dir, yt_dlp_bin):
+    audio_base = os.path.join(out_dir, "audio")
+    output_template = audio_base + ".%(ext)s"
+    cmd = [
+        yt_dlp_bin, "-x", "--audio-format", "mp3", "--audio-quality", "192K",
+        "--print-json", "--no-warnings", "-o", output_template, url,
+    ]
+    print("→ Downloading audio via standalone yt-dlp binary...")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    print(result.stdout)
+    if result.returncode != 0:
+        print(result.stderr, file=sys.stderr)
+        die("yt-dlp failed to download the video. See output above.")
+    info = None
+    for line in result.stdout.strip().splitlines():
+        line = line.strip()
+        if line.startswith("{"):
+            try:
+                info = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+    final_path = audio_base + ".mp3"
     if not os.path.exists(final_path):
         die(f"Expected downloaded file at {final_path} but it's missing.")
     meta = {
         "sourceUrl": url,
-        "title": info.get("title"),
-        "uploader": info.get("uploader"),
-        "duration": info.get("duration"),
+        "title": info.get("title") if info else None,
+        "uploader": info.get("uploader") if info else None,
+        "duration": info.get("duration") if info else None,
     }
     return final_path, meta
 
@@ -138,15 +151,16 @@ def main():
     p.add_argument("--out", default="./output", help="Output base folder")
     p.add_argument("--lang", default="it", help="Language code for transcription (default: it)")
     p.add_argument("--chunk-minutes", type=float, default=15.0, help="Chunk length in minutes for the Whisper API's 25MB limit")
+    p.add_argument("--yt-dlp-bin", default="./yt-dlp", help="Path to the standalone yt-dlp binary (default: ./yt-dlp)")
     args = p.parse_args()
 
-    check_deps()
+    check_deps(args.yt_dlp_bin)
     import requests
 
     out_dir = os.path.join(args.out, f"{args.show}-{args.episode}")
     os.makedirs(out_dir, exist_ok=True)
 
-    audio_path, meta = download_audio(args.url, out_dir)
+    audio_path, meta = download_audio(args.url, out_dir, args.yt_dlp_bin)
     duration = get_duration(audio_path)
     print(f"→ Audio downloaded: {duration/60:.1f} minutes")
 
