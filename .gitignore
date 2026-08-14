@@ -1,0 +1,4 @@
+pipeline/output/
+_to_delete/
+*.zip
+.DS_Store
