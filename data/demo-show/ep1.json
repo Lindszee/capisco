@@ -1,0 +1,37 @@
+{
+  "id": "ep1",
+  "title": "Episode 1 (placeholder audio)",
+  "sourceUrl": "https://youtu.be/GHIXwFF7w38",
+  "blocks": [
+    {
+      "id": "block-1",
+      "label": "0:00 – 0:12 (demo)",
+      "cards": [
+        {
+          "id": "card-1",
+          "italian": "Non ho mai pensato che potesse succedere una cosa del genere, onestamente, ancora adesso fatico a crederci.",
+          "english": "I never thought something like that could happen — honestly, even now I still find it hard to believe.",
+          "audio": "audio/demo-show/ep1/block-1/card-1.mp3",
+          "start": 0,
+          "end": 4
+        },
+        {
+          "id": "card-2",
+          "italian": "Quando i miei genitori me l'hanno detto, sono rimasta completamente senza parole per almeno un minuto intero.",
+          "english": "When my parents told me, I was completely speechless for at least a full minute.",
+          "audio": "audio/demo-show/ep1/block-1/card-2.mp3",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "id": "card-3",
+          "italian": "Comunque, alla fine è andato tutto bene, anche se all'inizio sembrava una situazione senza via d'uscita.",
+          "english": "Anyway, in the end everything worked out fine, even though at first it seemed like a hopeless situation.",
+          "audio": "audio/demo-show/ep1/block-1/card-3.mp3",
+          "start": 0,
+          "end": 6
+        }
+      ]
+    }
+  ]
+}
