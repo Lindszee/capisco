@@ -144,6 +144,2526 @@
           "audio": "audio/non-ho-mai/ep1/block-1/card-17.mp3"
         }
       ]
+    },
+    {
+      "id": "block-2",
+      "label": "5:00–10:00",
+      "cards": [
+        {
+          "italian": "Dice che impegno hai dopo, per cui ti sei venuta così. No, vado a casa, giuro. Così che impegno vieni. Era un appuntamento di lavoro di un certo livello, con un bono.",
+          "start": 300.32,
+          "end": 311.36,
+          "id": "card-1",
+          "english": "\"What's the thing you've got after this, that you got dressed up like that?\" \"No, I'm going home, I swear.\" \"Dressed like that just to go home?\" It was a work meeting of a certain caliber, with a hottie.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-1.mp3"
+        },
+        {
+          "italian": "Vi fa sorridere, sai che c'è il trend di TikTok? Che belle quelle ragazze, chissà con che macchina sono venute, sono tutte vestite eleganti e poi con una macchina scassata.",
+          "start": 313.28,
+          "end": 320.6,
+          "id": "card-2",
+          "english": "Does it make you smile — you know that TikTok trend? \"Those girls look so nice, wonder what car they came in\" — all dressed up elegant, and then it's some beat-up old car.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-2.mp3"
+        },
+        {
+          "italian": "Tu che sei venuta col car sharing, hai detto che dovevi parcheggiare, ti ho immaginato che parcheggiavi e poi sei uscita una fata dalla macchina.",
+          "start": 321.16,
+          "end": 329.4,
+          "id": "card-3",
+          "english": "You showed up in a car-share, said you had to go park, and I pictured you parking it and then stepping out of the car like some fairy.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-3.mp3"
+        },
+        {
+          "italian": "Dobbiamo chiedere anche a Costanza come va, perché c'è una cosa che dobbiamo raccontare, io ve lo dico subito, questa puntata non può iniziare con il racconto del misfatto dell'estate.",
+          "start": 330.76,
+          "end": 340.96,
+          "id": "card-4",
+          "english": "We also need to ask Costanza how she's doing, because there's something we have to tell you — I'll just say it now, this episode can't start without the story of the summer mishap.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-4.mp3"
+        },
+        {
+          "italian": "L'estate è iniziata con un fattaccio. Una mamma in rehab si chiamerà a questi episodi. Riguarda la nostra magica autrice Costanza. E' l'ultima volta che ci siamo visti? Sì, esattamente.",
+          "start": 342.16,
+          "end": 358.48,
+          "id": "card-5",
+          "english": "Summer started with a whole incident. Let's call these episodes \"A Mom in Rehab.\" It's about our magical writer Costanza. Was that the last time we saw each other? Yes, exactly.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-5.mp3"
+        },
+        {
+          "italian": "Sentiti libero di raccontare. Allora faccio una piccola introduzione, do il mio pov e poi tu racconti il tuo. Oggi sei messa la blusa da signora per bene. Le friulane, proprio mamma milanese ricca.",
+          "start": 359.02,
+          "end": 372.74,
+          "id": "card-6",
+          "english": "Feel free to tell it. So I'll do a little intro, give my point of view, then you tell yours. You've got the proper-lady blouse on today. The espadrilles — total rich Milanese-mom look.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-6.mp3"
+        },
+        {
+          "italian": "Secondo primo week-end di giugno, 7-8 giugno. Festa della radio DJ. Di radio DJ, Party Like a DJ, di cui fa parte questo gruppo, questo podcast, noi stiamo registrando dal palazzo di radio DJ.",
+          "start": 374.8,
+          "end": 385.88,
+          "id": "card-7",
+          "english": "So, first weekend of June, the 7th-8th. Radio DJ's party. Radio DJ's \"Party Like a DJ,\" which this group, this podcast, is part of — we're recording from the Radio DJ building.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-7.mp3"
+        },
+        {
+          "italian": "Giusto per fare un bell'inciso di quelli di cui abbiamo sempre bisogno. Costanza in quanto collaboratrice di questo palazzo, io in quanto residente di questo palazzo veniamo invitati.",
+          "start": 386.34,
+          "end": 395.58,
+          "id": "card-8",
+          "english": "Just to make one of those little asides we always seem to need: Costanza, as staff at this building, and me, as a resident here, both get invited.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-8.mp3"
+        },
+        {
+          "italian": "E la sera di domenica c'era la festa rap e ci incontriamo all'ingresso. Oh Costi come stai? Dai faccia un'serata. C'era l'open bar, c'era il buffet.",
+          "start": 395.58,
+          "end": 405.06,
+          "id": "card-9",
+          "english": "And Sunday night there was the rap party and we run into each other at the entrance. \"Oh Costi, how are you?\" Come on, let's have a night out. There was an open bar, there was a buffet.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-9.mp3"
+        },
+        {
+          "italian": "Eravamo sotto palco perché era nella zona di noi VIP dell'Hospitality. E' quel giorno che hai fatto tutte quelle storie di cantanti che non conosco?",
+          "start": 405.52,
+          "end": 411.7,
+          "id": "card-10",
+          "english": "We were right by the stage, in the VIP hospitality area. Was that the day you were posting all those stories about singers I don't even know?",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-10.mp3"
+        },
+        {
+          "italian": "E' quel giorno lì, bravissima. Sì sì, è il giorno in cui tu non avresti saputo nulla di quello che stava succedendo. Tu mettevi tag simpatici quindi non capivo.",
+          "start": 411.88,
+          "end": 417.62,
+          "id": "card-11",
+          "english": "That's the day, exactly. Yeah, yeah, the day you had no idea what was actually going on. You were tagging cute stuff so I couldn't tell.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-11.mp3"
+        },
+        {
+          "italian": "E' perché oramai quella è la mia quota. Perché è facile taggare Mischilla e non V-mercate, perché lui è di V-mercate. C'eravamo anche detti, facciamo anche una bella storina per Giulia che è il Primavera Sound.",
+          "start": 417.76,
+          "end": 430.24,
+          "id": "card-12",
+          "english": "That's just my thing at this point. It's easy to tag Mischilla and not Vimercate, because he's from Vimercate. We'd also said we should do a cute little story for Giulia too, since it's Primavera Sound.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-12.mp3"
+        },
+        {
+          "italian": "Mentre noi qua ci spacchiamo la merda dall'Arco della Pace. A un certo punto inizia questa festa, poi però ci perdiamo di vista perché comunque c'era tanta gente così.",
+          "start": 430.52,
+          "end": 437.78,
+          "id": "card-13",
+          "english": "Meanwhile we're over here losing it at Arco della Pace. At some point this party kicks off, but then we lose track of each other because there were just so many people.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-13.mp3"
+        },
+        {
+          "italian": "A un certo punto io dico, fammi andare a cercare Costanza perché era un po' che non la vedeva, io ero sotto palco così. Mi muovo a location, scusate, Arco della Pace Milano, ok? Palco sotto l'Arco della Pace.",
+          "start": 438.28,
+          "end": 447.68,
+          "id": "card-14",
+          "english": "At some point I say, let me go find Costanza, since I hadn't seen her in a while — I was down by the stage. Quick location note: Arco della Pace in Milan, okay? Stage right under the arch.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-14.mp3"
+        },
+        {
+          "italian": "Noi eravamo diciamo in una di queste strutture che sono di fianco che sono chiamate i Dazzi. Vado verso questa struttura e cerco Costanza, quindi il mio sguardo è alto.",
+          "start": 448.18,
+          "end": 457.38,
+          "id": "card-15",
+          "english": "We were, let's say, in one of these side structures called the Dazi. I head over toward it looking for Costanza, so I'm scanning up high.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-15.mp3"
+        },
+        {
+          "italian": "Aspetta che arriva, arriva. A un certo punto dovevo entrare, vedo sugli scalini d'ingresso un capannello di gente, di soccorritori, quelli con la pettorina gialla.",
+          "start": 457.68,
+          "end": 465.92,
+          "id": "card-16",
+          "english": "Wait, it's coming, it's coming. At some point I'm about to go in, and on the entrance steps I see a little crowd — paramedics, the ones in yellow vests.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-16.mp3"
+        },
+        {
+          "italian": "No, il capannello no. Un capannello di gente che stava soccorrendo qualcuno e io penso, vabbè, salto supero questa persona e vado dentro a cercare Costanza.",
+          "start": 466.02,
+          "end": 473.86,
+          "id": "card-17",
+          "english": "No, not just a crowd — a crowd of people helping someone, and I think, whatever, I'll just step around this person and go inside to find Costanza.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-17.mp3"
+        },
+        {
+          "italian": "La classica sfigata che sta male ai concerti. Passo lateralmente al capannello di gente e sotto i miei piedi vedo la testa di una persona.",
+          "start": 473.88,
+          "end": 482.44,
+          "id": "card-18",
+          "english": "The classic unlucky girl who gets sick at concerts. I step around the side of the crowd and right under my feet I see someone's head.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-18.mp3"
+        },
+        {
+          "italian": "Era Costanza. E come mai? Era proprio io. Cosa ti sei pigliata che ti ha dato una brutta reazione? Subito i soccorritori mi hanno detto dai che cosa hai preso.",
+          "start": 482.76,
+          "end": 490.6,
+          "id": "card-19",
+          "english": "It was Costanza. How come? It really was me. \"What did you take that gave you a bad reaction?\" Right away the paramedics were asking me what I'd taken.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-19.mp3"
+        },
+        {
+          "italian": "Ti sei drogata, ecco cosa sei, drogata. Quale droga abbiamo preso? Ho solo un bel caldo di pressione. Che non facevano nemmeno caldì. Facciamo un cazzo di caldo.",
+          "start": 490.84,
+          "end": 502.1,
+          "id": "card-20",
+          "english": "\"You got high, that's what you are, high.\" What drugs, though? I just had a bad low-blood-pressure heat thing. It wasn't even that hot out. It was ridiculously hot, actually.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-20.mp3"
+        },
+        {
+          "italian": "Svenuta, come mi piace fare di solito. È un po' una gag che succede. Vistesa, era Enrico Ormortis, vistesa sugli scalini del Dazio dell'Arco della Pace.",
+          "start": 502.84,
+          "end": 512.52,
+          "id": "card-21",
+          "english": "Fainted — like I love to do, apparently. It's kind of my running gag. Laid right out, full drama, right there on the steps of the Dazio at Arco della Pace.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-21.mp3"
+        },
+        {
+          "italian": "Ma ti hanno portata via? In barella. Ma il pubblico? In pubblico davanti a tutti, ho visto colleghi, ho visto persone. Di chi volevi salutare prima?",
+          "start": 513.08,
+          "end": 520.7,
+          "id": "card-22",
+          "english": "Did they carry you off? On a stretcher. In public? In front of everyone — I saw coworkers, I saw people. Who did you want to say hi to first?",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-22.mp3"
+        },
+        {
+          "italian": "L'ultima persona che ho visto prima di svenire era Pablo Trincia e poi il Nero. Ma ti hanno buttata per terra con le gambe su e poi ti hanno portata via?",
+          "start": 521.78,
+          "end": 529.68,
+          "id": "card-23",
+          "english": "The last person I saw before I passed out was Pablo Trincia, and then it just went black. Did they lay you on the ground with your legs propped up and then carry you off?",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-23.mp3"
+        },
+        {
+          "italian": "E tu in tutto questo lasso di tempo non hai memoria? No, ho memoria di essere stata messa in barella. Mi ricordo anche Claudio che dice questa frase.",
+          "start": 529.82,
+          "end": 537.56,
+          "id": "card-24",
+          "english": "And through all that time you don't remember any of it? No, I remember being put on the stretcher. I also remember Claudio saying this one line.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-24.mp3"
+        },
+        {
+          "italian": "Ah, ero passata di qui e ho detto vabbè scavalco la solita sfigata che sviene ai concerti. Ed era lei. Assurdo. A te non è mai capitato di fare questa figura?",
+          "start": 538.36,
+          "end": 546.82,
+          "id": "card-25",
+          "english": "\"Ah, I was walking by and thought, whatever, I'll just step over the usual girl who faints at concerts.\" And it was her. Unbelievable. Has that kind of thing ever happened to you?",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-25.mp3"
+        },
+        {
+          "italian": "Che poi per carità non è colpa sua, ha avuto un... No. No? La macchina perfetta non ha mai avuto... Sì, una volta sono svenuta in spiaggia, però non c'era nessuno.",
+          "start": 547.12,
+          "end": 555.66,
+          "id": "card-26",
+          "english": "I mean, to be fair, it's not her fault, she's had a... No. No? Miss Perfect over here has never had... Yeah, once I fainted on the beach, but nobody was around.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-26.mp3"
+        },
+        {
+          "italian": "E quindi si è risolta... Sola. Chi sei? Si è poi alzata da sola. No, no, ero al bar e avevo sentito che stavo per svenire perché non mangiavo da giorni perché...",
+          "start": 555.66,
+          "end": 567.66,
+          "id": "card-27",
+          "english": "So it just resolved itself... Alone. Who are you? She just got up on her own afterward. No, no — I was at the bar and felt like I was about to faint because I hadn't eaten in days, because...",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-27.mp3"
+        },
+        {
+          "italian": "Perché avevi pure di andare in bagno. Perché così volevo dare un po' di... Mi si era rotto il cucinotto. Stavo facendo un'estate lavorativa a Santa Francia, avevo una lira.",
+          "start": 568.66,
+          "end": 577.7,
+          "id": "card-28",
+          "english": "Because you also needed to use the bathroom. Because I wanted to give a bit of... My little kitchenette had broken. I was doing a summer work stint in the south of France, I didn't have a cent to my name.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-28.mp3"
+        },
+        {
+          "italian": "Mi si era rotto il cucinotto, ho detto vabbè, mangio quello che trovo. Bacche, muschi, licheni. Quando sei giovane dici ma sì, sto bene. E poi sono svenuta.",
+          "start": 578.06,
+          "end": 589.46,
+          "id": "card-29",
+          "english": "My kitchenette had broken, so I figured, fine, I'll eat whatever I can find. Berries, moss, lichen. When you're young you just think, nah, I'm fine. And then I fainted.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-29.mp3"
+        },
+        {
+          "italian": "Vabbè ragazzi, che dite. Quindi iniziamo, parleremo d'estate in questa puntata. Estate, cose belle. Solo cose belle. Vado io? Sì. Ah, io ho preso le pulci, ve l'ho detto nel frattempo.",
+          "start": 589.64,
+          "end": 600.46,
+          "id": "card-30",
+          "english": "Anyway guys, what do you say. Let's get started — we'll be talking about summer this episode. Summer, nice things. Only nice things. Should I go first? Yeah. Oh, and I got bed bugs, by the way — already mentioned that.",
+          "audio": "audio/non-ho-mai/ep1/block-2/card-30.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-3",
+      "label": "10:00–15:00",
+      "cards": [
+        {
+          "italian": "Dai fermi tutti, allora mi tiro fuori subito. Sì, sono tornata a Barcellona con le pulci. Pensavo le avessi prese durante il primavera per darti una bottarella di...",
+          "start": 600.68,
+          "end": 610.68,
+          "id": "card-1",
+          "english": "Okay, hold on everyone, let me get this out of the way first. Yeah, I got back from Barcelona with fleas. I thought you'd picked them up back in spring, to give you a heads-up about...",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-1.mp3"
+        },
+        {
+          "italian": "Sono tornata, mi sono svegliata e ho detto Cosa sono queste 45 punture? Le famose cimici dei letti? Le famose punese. Racconta un po'... E niente, mi sveglio e dico Cosa sono queste 45 punture sulla schiena Pericolosamente grandi e una in fila all'altra?",
+          "start": 610.68,
+          "end": 623.58,
+          "id": "card-2",
+          "english": "I got back, woke up and said, what are these 45 bites? The famous bed bugs? The famous little biters. Tell us a bit... And yeah, I wake up and go, what are these 45 bites down my back, dangerously big and lined up one after another?",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-2.mp3"
+        },
+        {
+          "italian": "Ops, dato che le ho prese già due volte. Che poi da una sbatta perché l'ho visto anche su Instagram Devi fare tutto il... Ah, le lenzuola.",
+          "start": 623.68,
+          "end": 631.66,
+          "id": "card-3",
+          "english": "Oops, given I've already had them twice now. It's such a hassle too, because I saw it on Instagram — you have to do the whole... Ah, the sheets.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-3.mp3"
+        },
+        {
+          "italian": "Sì. Vabbè, in realtà è stato veloce. Ho chiamato il disinfettatore, è arrivato, ha spruzzato tutto. Ho lavato le lenzuola a 60 gradi, i vestiti che erano fuori, che erano 4.",
+          "start": 632.0,
+          "end": 638.98,
+          "id": "card-4",
+          "english": "Yeah. Well, actually it was quick. I called the exterminator, he came, sprayed everything. I washed the sheets at 60 degrees, the clothes that were out, there were four of them.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-4.mp3"
+        },
+        {
+          "italian": "Sì. E ho detto, speriamo. È andata bene. Vabbè, quindi diciamo un fattaccio che si è risolto. Vabbè, ho la sicurezza che comunque è un po' distante.",
+          "start": 638.98,
+          "end": 647.62,
+          "id": "card-5",
+          "english": "Yeah. And I thought, let's hope for the best. It worked out fine. So anyway, a whole ordeal that got resolved. I've got some peace of mind now that it's more or less behind me.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-5.mp3"
+        },
+        {
+          "italian": "Sì, infatti se possiamo... S'è risolto. Però non si aura comunque. Minchia, no, deve essere una roba. Quindi tu il misfatto dell'estate è tuo? Ce l'abbiamo?",
+          "start": 647.96,
+          "end": 657.1,
+          "id": "card-6",
+          "english": "Yeah, exactly, if we can... It's resolved. But it's not exactly guaranteed either. Damn, no, that must be awful. So is the \"summer mishap\" yours? Do we even have one?",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-6.mp3"
+        },
+        {
+          "italian": "Il mio è il tuo? No, non dir niente che devi partire, non voglio portare sfida. No, infatti, non è ancora... Oddio, sì, non sono successo.",
+          "start": 657.22,
+          "end": 663.6,
+          "id": "card-7",
+          "english": "Mine's yours? No, don't say anything, you're about to leave, I don't want to jinx it. No, right, it hasn't... God, yeah, nothing's happened.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-7.mp3"
+        },
+        {
+          "italian": "Però niente di così eclatante, quindi meglio non... Speriamo, magari farò una postilla in aggiunta a questa puntata. Di, oh ragazzi, comunque alla fine è successo questo.",
+          "start": 663.82,
+          "end": 672.5,
+          "id": "card-8",
+          "english": "But nothing that dramatic, so better not to... Let's hope. Maybe I'll add a little postscript to this episode — like, \"oh guys, anyway, this ended up happening.\"",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-8.mp3"
+        },
+        {
+          "italian": "L'extra dell'extra. Andiamo. Anche perché dobbiamo essere positivi in questa puntata. Perché dobbiamo parlare delle cose brutte che sono successe. Esatto, via, via, via. Ok, non ho mai avuto una crush estiva.",
+          "start": 672.62,
+          "end": 681.98,
+          "id": "card-9",
+          "english": "The extra of the extra. Let's move on. Also because we need to stay positive this episode. Because we have to talk about all the bad stuff that happened. Exactly, away, away, away. Okay — I've never had a summer crush.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-9.mp3"
+        },
+        {
+          "italian": "It's just a little crush. Every time we touch. It's just... Non lo so. Dipenso new, dice solamente il film. Dipenso new. Non so chi sia.",
+          "start": 683.16,
+          "end": 697.08,
+          "id": "card-10",
+          "english": "\"It's just a little crush. Every time we touch. It's just...\" I don't know. That's just what the movie says. I don't even know who that is.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-10.mp3"
+        },
+        {
+          "italian": "Bravo, Jennifer Page. Crush, 1998, versione remix. Ebbe grande successo negli Stati Uniti. Grazie alle radio che le trasmisero a bomba quell'estate lì. Perché è una canzone che mettiamo su M2O, quindi...",
+          "start": 697.6,
+          "end": 707.62,
+          "id": "card-11",
+          "english": "Nice — Jennifer Paige. \"Crush,\" 1998, remix version. It was a huge hit in the US, thanks to radio stations blasting it nonstop that summer. Because it's a song we play on M2O, so...",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-11.mp3"
+        },
+        {
+          "italian": "Hey! Seguitemi, eh, questa estate. Ho avuto un assaggio di Claudio, un annunciatore. Esatto. Una crush estiva? No, mai. No? No. Zero? Sì, certo, fatto.",
+          "start": 707.76,
+          "end": 717.16,
+          "id": "card-12",
+          "english": "Hey! Follow me this summer, alright. I got a little taste of Claudio, an announcer. Exactly. A summer crush? No, never. No? No. Zero? Yeah, for sure, done.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-12.mp3"
+        },
+        {
+          "italian": "Mai fatto, mai. Perché? Eh, perché, essendo di Parma, non è che vado tutti gli anni nello stesso posto come tu e poi magari vai al mare e torna a quella del tuo paesello.",
+          "start": 717.3,
+          "end": 725.4,
+          "id": "card-13",
+          "english": "Never had one, never. Why? Well, because being from Parma, it's not like I go to the same place every year like you do, and then maybe go to the beach and reconnect with the girl from your hometown.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-13.mp3"
+        },
+        {
+          "italian": "Non avevo mai considerato questa cosa di chi non ha fatto l'infanzia al mare. Eh no, cambiando sempre posto, non conosci mai le persone. Hai ragione.",
+          "start": 725.68,
+          "end": 732.08,
+          "id": "card-14",
+          "english": "I'd never really thought about that — people who didn't grow up spending their childhood summers at the beach. Yeah, moving around all the time, you never really get to know people. You're right.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-14.mp3"
+        },
+        {
+          "italian": "Io, timida, fredda, non parlo con nessuno. Cioè, capito? Vabbè. Eh no, però una vacanza con gli amici. Eh, tipo sai che hai conosciuto uno in vacanza.",
+          "start": 732.36,
+          "end": 741.06,
+          "id": "card-15",
+          "english": "Me, shy, cold, I don't talk to anyone. Like, you get it? Whatever. Well no, but a vacation with friends is different. Like, you know how you meet someone on vacation.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-15.mp3"
+        },
+        {
+          "italian": "Dopo i 18, cioè quella cosa... no. Ti sei persa una cosa molto bella, secondo me. Eh, lo so, immagino. Mannaggia. Perché allora, io effettivamente parto dal presupposto che ogni estate, a parte che era il periodo più bello del mondo, perché vivendo al mare, diciamo che hai già un accenno di vacanza in più",
+          "start": 741.18,
+          "end": 755.04,
+          "id": "card-16",
+          "english": "After 18, like that whole thing... no. You missed out on something really nice, in my opinion. Yeah, I know, I can imagine. Darn it. Because honestly, my whole thing is that every summer — aside from it being the best time of the year — living at the beach basically gives you a head start on vacation",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-16.mp3"
+        },
+        {
+          "italian": "che con tutto il rispetto che posso avere per Parma. Nooo. Non credo che il 15 di agosto sia... Una conca infernale. Quindi sì, cioè io poi ho avuto la fortuna di vivere in un residence di villette a Taranto, dove tuttora vivono i miei,",
+          "start": 755.04,
+          "end": 767.88,
+          "id": "card-17",
+          "english": "compared to, with all due respect to Parma... Noo. I don't think August 15th there is... a total dead zone. So yeah, I was actually lucky enough to live in this little vacation-home community in Taranto, where my parents still live now,",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-17.mp3"
+        },
+        {
+          "italian": "con tutti dei ragazzi della mia età e ragazze della mia età che bazzicavano. Quindi era tipo una specie di villaggetto turistico che soprattutto in estate si animava con persone che arrivavano, venivano.",
+          "start": 768.24,
+          "end": 778.6,
+          "id": "card-18",
+          "english": "with a bunch of kids my age, boys and girls, always hanging around. So it was like a little tourist village that especially in summer would come alive with people arriving, passing through.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-18.mp3"
+        },
+        {
+          "italian": "Quindi era il via di lingue, non lingue, di robe varie. E poi tu eri il local, quindi... Sì, poi eravamo quasi tutti vicini a casa, la verità.",
+          "start": 778.6,
+          "end": 786.88,
+          "id": "card-19",
+          "english": "So it was this whole mix of languages, all kinds of stuff. And you were the local, so... Yeah, though we were basically all close to home too, honestly.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-19.mp3"
+        },
+        {
+          "italian": "Però c'erano i satelliti che arrivavano, sai, l'amichetto che viene a trovare l'amichetta e la sera si esce nel residence, ci si ordina la pizza, si mangia.",
+          "start": 787.0,
+          "end": 795.22,
+          "id": "card-20",
+          "english": "But there were also the \"satellites\" who'd show up — you know, the friend visiting their friend — and in the evening everyone goes out around the community, orders pizza, eats.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-20.mp3"
+        },
+        {
+          "italian": "E poi si va in spiaggia a sgomare. No, quello no dai, eravamo ancora piccoli. Ah, era... Era proprio la crash estiva, quella delle medie tipo.",
+          "start": 795.82,
+          "end": 804.28,
+          "id": "card-21",
+          "english": "And then heads to the beach to make out. No, not that, come on, we were still little kids. Ah, it was... it was really just middle-school-level summer crush stuff.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-21.mp3"
+        },
+        {
+          "italian": "Ah, innocente. Sì, sì. E dopo invece una che ti è rimasta un po' nel cuore, con cui magari c'è stata... Però dopo non è successo, sto pensando.",
+          "start": 804.52,
+          "end": 811.86,
+          "id": "card-22",
+          "english": "Ah, innocent. Yeah, yeah. And later, was there one that kind of stuck with you, where maybe something happened... But then nothing came of it, let me think.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-22.mp3"
+        },
+        {
+          "italian": "Cioè dopo... Non c'è quella cosa che torni a casa tua e ritrovi l'amore del paese? No, almeno... Perché quello me lo dicono tantissime volte.",
+          "start": 812.56,
+          "end": 820.16,
+          "id": "card-23",
+          "english": "I mean afterward... isn't there that thing where you go back home and reconnect with the hometown sweetheart? No, at least not for me... Because people ask me that all the time.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-23.mp3"
+        },
+        {
+          "italian": "Sì, no, beh, ci sono... Beh, quelli che vanno in vacanza sempre nello stesso posto anche. Non so... Sì, chi abita al mare. No, dopo sai che no.",
+          "start": 820.4,
+          "end": 828.56,
+          "id": "card-24",
+          "english": "Yeah, no, well, there are some... Well, the ones who go to the same vacation spot every year too. I don't know... Yeah, whoever lives at the beach. No, but you know, later on...",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-24.mp3"
+        },
+        {
+          "italian": "Cioè dopo, inteso in età più adulta, non ho grandi ricordi. Quella roba lì che non dura. La roba che è successa in vacanza sì, però...",
+          "start": 828.84,
+          "end": 836.38,
+          "id": "card-25",
+          "english": "I mean later, like as an adult, I don't have big memories of that stuff — the kind that doesn't last. The stuff that happened on vacation, yeah, but...",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-25.mp3"
+        },
+        {
+          "italian": "Capito, ti dura la romance tutta la vacanza. Poi torni a Milano e dici, poi ci sentiamo, poi basta. Ma c'è la classica proprio categoria della cotta estiva, della relazione dell'estate che è delimitata da quando il sole tramonta dopo le 20.",
+          "start": 836.38,
+          "end": 850.1,
+          "id": "card-26",
+          "english": "Right, the romance lasts the whole vacation. Then you get back to Milan and it's like, \"we'll talk,\" and that's it. But there's that classic category — the summer crush, the fling that only lasts as long as the sun still sets after 8pm.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-26.mp3"
+        },
+        {
+          "italian": "Già se tramonta alle 19 vuol dire che è già troppo tardi e l'estate è finita e non... Nessuna possibilità che vada avanti una strada estiva.",
+          "start": 850.22,
+          "end": 856.3,
+          "id": "card-27",
+          "english": "If it's already setting at 7, that means it's too late, summer's basically over, and there's zero chance a summer romance goes anywhere.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-27.mp3"
+        },
+        {
+          "italian": "Nessuna. Nessuna? Pochissima, forse. Allora, adesso sicuramente c'è gente che ci scriverà No, io sono insieme da 20 anni con il classico co... Certo. Sicuramente.",
+          "start": 856.6,
+          "end": 865.02,
+          "id": "card-28",
+          "english": "None. None at all? Very little, maybe. Okay, now for sure someone's going to write in like, \"No, I've been with my classic summer-fling guy for 20 years now.\" Sure. Definitely.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-28.mp3"
+        },
+        {
+          "italian": "Sì. È un po' difficile. Diciamo che... Perché sei un'altra persona. Sto parlando... Diciamo che la vacanza ti pone in un contesto dove sei la persona migliore di te.",
+          "start": 865.34,
+          "end": 872.36,
+          "id": "card-29",
+          "english": "Yeah. It's kind of tricky. Let's say... because you're a different person. I mean... let's say vacation puts you in a context where you're the best version of yourself.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-29.mp3"
+        },
+        {
+          "italian": "Dai, parliamoci chiaro. L'abbiamo detto. Cioè comunque l'abbiamo detto, no? Sì. Quindi, vabbè Ugo, non è che adesso ti fa sta faccia... No, scusa, hai ragione.",
+          "start": 872.42,
+          "end": 877.84,
+          "id": "card-30",
+          "english": "Come on, let's be honest. We already said that. I mean, we did say that, right? Yeah. So, well Ugo, don't give me that look... No, sorry, you're right.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-30.mp3"
+        },
+        {
+          "italian": "Se vuoi svingo. Vabbè, io sono sopravvissuta all'amore difficile supremo, cioè l'amore dell'erasmus. Uuuuh. Io sono andata avanti tre anni e mezzo con l'amore dell'erasmus, eh.",
+          "start": 878.74,
+          "end": 888.18,
+          "id": "card-31",
+          "english": "If you want, I'll swap in. Well, I survived the ultimate hard love story — Erasmus love. Ohhh. I kept mine going for three and a half years, the Erasmus love.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-31.mp3"
+        },
+        {
+          "italian": "Di dove era? Della Repubblica cieca. Uuuuh. Scusami, lui... È vero. Cioè, vi siete conosciuti in Erasmus. Sì, in Francia. E siete rimasti insieme? Sì, dopo.",
+          "start": 888.18,
+          "end": 898.12,
+          "id": "card-32",
+          "english": "Where was he from? The Czech Republic. Ohhh. Sorry, he... That's true. So you met during Erasmus. Yeah, in France. And you stayed together? Yeah, after that.",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-32.mp3"
+        },
+        {
+          "italian": "Tre anni e mezzo. Lui era francese? No, della Repubblica cieca. Repubblica cieca. Scusami. Eh ma perché è svenuta, non so se te l'ho detto. È diventato il nuovo o ha un figlio?",
+          "start": 898.26,
+          "end": 904.76,
+          "id": "card-33",
+          "english": "Three and a half years. Was he French? No, Czech. The Czech Republic. Sorry. Wait, because she fainted, I don't know if I mentioned that. Did he move on to someone new, or does he have a kid now?",
+          "audio": "audio/non-ho-mai/ep1/block-3/card-33.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-4",
+      "label": "15:00–20:00",
+      "cards": [
+        {
+          "italian": "Dopo Costanza e figlio, Costanza è svenuta. Ma si è svenuta tipo come nei film mettendo la mano sulla te? Lo spero. Cioè uno lo sa giustamente.",
+          "start": 905.22,
+          "end": 913.42,
+          "id": "card-1",
+          "english": "After Costanza and [her] son, Costanza fainted. But did she faint like in the movies, putting a hand to her head? I hope so. I mean, you'd obviously know.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-1.mp3"
+        },
+        {
+          "italian": "Vabbè, vabbè. No capito, lui è tornato a Brno e io, anzi a Mladonjevice e io a Parma. E vi sentivate? Nell'anno? Eh, 2010. Ci sentivamo, ci vedevamo, prendevo l'aereo, lui prendeva l'aereo.",
+          "start": 913.62,
+          "end": 925.28,
+          "id": "card-2",
+          "english": "Okay, okay. Right, so he went back to Brno — or actually to Mladoňovice — and I went back to Parma. And did you keep in touch? What year was this? 2010. We talked, we saw each other, I'd fly out, he'd fly out.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-2.mp3"
+        },
+        {
+          "italian": "Ma certo si può fare, per carità, però è difficile. Quante volte vi vedevate? Una al mese. E tu reggevi bene? Tu non mi sembravi una d'amore a distanza.",
+          "start": 925.28,
+          "end": 932.86,
+          "id": "card-3",
+          "english": "Sure, it can work, no doubt, but it's hard. How often did you see each other? Once a month. And did you handle it okay? You never struck me as the long-distance type.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-3.mp3"
+        },
+        {
+          "italian": "Per niente, ma poi è venuto, è stato bravo, è venuto tipo sei mesi a Parma, poi è venuto tre mesi a Parma, poi è venuto sei mesi a fare un altro Erasmus a Trento, così eravamo più vicini.",
+          "start": 932.9,
+          "end": 940.62,
+          "id": "card-4",
+          "english": "Not at all — but then he came, he was really good about it. He came to Parma for like six months, then three months, then he did another Erasmus semester in Trento for six months so we'd be closer.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-4.mp3"
+        },
+        {
+          "italian": "Nome, nome, nome? Lui è un grande, Lucas. Lucas, lo salutiamo. Grandissimo, ci ascolta dalla Repubblica cieca, che comunque è un merda. Grande amore della tua vita, affermi tutti.",
+          "start": 941.0,
+          "end": 949.22,
+          "id": "card-5",
+          "english": "His name, his name? He's a legend, Lucas. Shoutout to Lucas — he's listening in from the Czech Republic, which is a dump anyway. The love of your life, everyone's saying.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-5.mp3"
+        },
+        {
+          "italian": "E rimasto lì? Grande amore della mia vita. Cioè tipo che se ti scrivesse domani dicendoti... Ma no, dopo sei anni che ci siamo mollati ho preso un aereo e sono andata a trovarlo.",
+          "start": 949.42,
+          "end": 956.3,
+          "id": "card-6",
+          "english": "Did it end there? The love of my life. Like, if he texted you tomorrow saying... No, actually — six years after we broke up, I got on a plane and went to visit him.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-6.mp3"
+        },
+        {
+          "italian": "Ah certo, mi ricordo che dovevi chiudere prima di... Certo, mi ricordavo questa storia. Era lui, è vero. Era lui, era lui. Non mi ricordavo la storia dell'Erasmus. Sì, sì, è lui, è lui. Non pensavo. Vabbè, ci sta.",
+          "start": 956.36,
+          "end": 966.18,
+          "id": "card-7",
+          "english": "Oh right, I remember you had to wrap it up before... Right, I remembered this story. It was him, it's true. It was him, it was him. I didn't remember the Erasmus part. Yeah, yeah, it's him, it's him. I wouldn't have guessed. Well, fair enough.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-7.mp3"
+        },
+        {
+          "italian": "Se lo vedo svengo. Così? Sì, se lo vedo svengo. E allora, Costanza, è il momento. Lucas, vieni. Entra, entra, vieni qua. Vieni, vieni. C'è posto. Dove si sta in due si sta in tre. Mettiamo subito una sedia.",
+          "start": 966.2,
+          "end": 976.5,
+          "id": "card-8",
+          "english": "If I see him I'll faint. Really? Yeah, if I see him I'll faint. Well then, Costanza, this is the moment. Lucas, come on in. Come in, come in, come here. Come on, come on. There's room. Where two can fit, three can fit. Let's grab a chair right now.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-8.mp3"
+        },
+        {
+          "italian": "Il mio ragazzo per sfottermi ogni volta che vede un marchio cieco tipo Bata, le scarpe, le scoda, le macchine mi dice Lucas. Ah, perciò. Per sfottermi mi dice prima o poi lo vedrai. Prima o poi lo rivedrai.",
+          "start": 976.5,
+          "end": 987.52,
+          "id": "card-9",
+          "english": "My boyfriend, just to tease me, every time he sees a Czech brand — like Bata, the shoes, or Škoda, the cars — he says 'Lucas.' Ah, that's why. To tease me he says, sooner or later you'll see him. Sooner or later you'll run into him again.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-9.mp3"
+        },
+        {
+          "italian": "Ma cosa fa adesso nella vita? Lo sai? Sì, sì, la gente immobiliare. Ah. Bello. Magari fa case a prima vista, versione repubblica. Perché parla tante lingue quindi mi aveva detto qualcosa tipo... Ma l'italiano lo parlava un po'?",
+          "start": 987.62,
+          "end": 999.6,
+          "id": "card-10",
+          "english": "So what does he do now? Do you know? Yeah, yeah, real estate. Oh, nice. Maybe he does the Czech version of House Hunters. Since he speaks a bunch of languages, he'd told me something like... Did he speak any Italian?",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-10.mp3"
+        },
+        {
+          "italian": "Sì, sì, l'aveva imparato. Dillo a Giovanni adesso che deve stare al passo perché se non lo impara... Non lo sapeva l'italiano. Lucas mi parlava con la lingua dell'amore.",
+          "start": 999.6,
+          "end": 1007.24,
+          "id": "card-11",
+          "english": "Yeah, yeah, he'd learned it. Tell Giovanni he'd better keep up now, because if he doesn't learn it... He didn't know Italian. Lucas talked to me in the language of love.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-11.mp3"
+        },
+        {
+          "italian": "Comunque. E perché è finita per la distanza? Eh certo, perché lui a un certo punto mi ha detto io voglio stare a Brno a bermi la birra al pabba alle 18, fare 100 figli e lavorare io.",
+          "start": 1007.54,
+          "end": 1017.2,
+          "id": "card-12",
+          "english": "Anyway. So it ended because of the distance? Yeah, basically — because at some point he told me: I want to stay in Brno, drink beer at the pub at 6pm, have a hundred kids, and work.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-12.mp3"
+        },
+        {
+          "italian": "Ci sta. La vita che sogniamo. Io volevo fare la moda, ma non lo so. Però ne conservi un bel ricordo. Bellissimo. No, no, stupendo, stupendo.",
+          "start": 1017.2,
+          "end": 1025.64,
+          "id": "card-13",
+          "english": "Fair enough. The dream life. I wanted to go into fashion, but who knows. Still, you keep a good memory of it. Beautiful. No, no, amazing, amazing.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-13.mp3"
+        },
+        {
+          "italian": "Ma infatti il bello poi delle cose estive, adesso tornando al di là della tua relazione. Sono dei bellissimi ricordi. Sono perfette, sono delle cose che tutti ricordi.",
+          "start": 1025.74,
+          "end": 1033.52,
+          "id": "card-14",
+          "english": "And honestly that's the beauty of summer things — coming back to it, beyond your relationship. They're beautiful memories. They're perfect, they're the kind of thing everyone remembers.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-14.mp3"
+        },
+        {
+          "italian": "Io anche quei piccoli flirt che avevo avuto. Ah sai quando mi è capitato? Ora che parlavamo mi sono ricordato. In vacanza io per un sacco di tempo, tra cui una delle ultime volte avevo tipo 13 anni, andavo nei villaggi turistici, nei Valtur, con i miei genitori.",
+          "start": 1033.62,
+          "end": 1047.4,
+          "id": "card-15",
+          "english": "Same with me, those little flings I had too. Oh, you know when it happened to me? Talking about it just now reminded me. On vacation, for a long time — one of the last times I was like 13 — I used to go to those resort villages, the Valtur ones, with my parents.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-15.mp3"
+        },
+        {
+          "italian": "Eh certo. Eh ragazzi, era proprio... Io partivo, arrivavo lì, si arrivava il sabato, salutavo i miei il sabato, ci rivedevamo il sabato dopo perché stavo sempre col gruppo dei ragazzi, così eccetera.",
+          "start": 1048.1,
+          "end": 1058.46,
+          "id": "card-16",
+          "english": "Oh, for sure. God, it was really... I'd leave, get there, we'd arrive on a Saturday, I'd say bye to my parents on Saturday, and not see them again till the following Saturday because I was always off with the group of kids, and so on.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-16.mp3"
+        },
+        {
+          "italian": "E mi ricordo che su Facebook avevo aggiunto questa tipa che avevo conosciuto nel 2011, che ho ritrovato insieme a, credo suo fratello, all'università. Perché poi sei iscritta all'università. Non mi ricordavo ovviamente nulla. Ma la faccia sì? La faccia... sni più o meno.",
+          "start": 1058.46,
+          "end": 1074.1,
+          "id": "card-17",
+          "english": "And I remember adding this girl on Facebook that I'd met in 2011, and I ran into her again with, I think, her brother, at university. Because you ended up going to university. Obviously I didn't remember anything. But the face, though? The face... more or less.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-17.mp3"
+        },
+        {
+          "italian": "A te è riconosciuto lei? Mi ha riconosciuto lei perché mi ha scritto su Facebook, perché era ancora l'epoca di Facebook. Ma ragazzi, ma la gente che si va a cercare le persone con cui hanno limonato 15 anni prima... Assurdo eh?",
+          "start": 1074.16,
+          "end": 1081.66,
+          "id": "card-18",
+          "english": "Did she recognize you? She recognized me because she messaged me on Facebook — it was still the Facebook era. But guys, people who go looking up people they made out with 15 years earlier... crazy, right?",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-18.mp3"
+        },
+        {
+          "italian": "Assurdo. Mi scrisse, ciao ti ricordi me? Siamo stati insieme in vacanza al Valtur di Capo Rizzuto nel 2011. Valtur di Capo Rizzuto. Wow, è vero! Sì, Valtur di Capo Rizzuto, che in Calabria erano tutti questi nomi quasi.",
+          "start": 1081.8,
+          "end": 1091.18,
+          "id": "card-19",
+          "english": "Crazy. She wrote, hey, do you remember me? We were together on vacation at the Valtur in Capo Rizzuto in 2011. The Valtur in Capo Rizzuto. Wow, it's true! Yeah, Valtur in Capo Rizzuto — in Calabria they were basically all named like that.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-19.mp3"
+        },
+        {
+          "italian": "E così dissi io, ah sì, wow, anche io faccio l'università. E io dissi, wow, di nuovo, era il 2016. E poi fa, vediamoci, c'è anche mio fratello che ho conosciuto. Ma credo di averci bevuto un caffè all'università mai più vista né sentita.",
+          "start": 1091.54,
+          "end": 1104.5,
+          "id": "card-20",
+          "english": "So I said, oh yeah, wow, I'm in university too. And I said, wow, again — this was 2016. And then she goes, let's meet up, my brother's here too, who I'd met. I think we grabbed a coffee at the university and never saw or heard from each other again.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-20.mp3"
+        },
+        {
+          "italian": "Giusto così, giusto così. Credo si chiamasse Francesca, però mi ricordo. Comunque queste sono le classiche cose che poi finisce l'amore stivo, lo rivedi d'inverno perché dici dai, vediamoci, e è un cesso.",
+          "start": 1105.1,
+          "end": 1114.48,
+          "id": "card-21",
+          "english": "Fair enough, fair enough. I think her name was Francesca, but I do remember. Anyway, these are the classic things — the summer romance ends, you see them again in winter because you're like, let's meet up, and they're a total dud.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-21.mp3"
+        },
+        {
+          "italian": "Certo, sì. Classica. E dici, ma quest'estate è subenno. Però è bellissimo. Guarda, vorrei essere singolo solo per... E un grande saluto alla fidanzata di Claudio.",
+          "start": 1114.48,
+          "end": 1126.28,
+          "id": "card-22",
+          "english": "Right, yeah. Classic. And you think, but this summer it's just not the same. But it's beautiful. Honestly, I'd want to be single just for... And a big shoutout to Claudio's girlfriend.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-22.mp3"
+        },
+        {
+          "italian": "Solo no, non è vero. Eh sì, per quella sensazione di... Ma quest'ia romantica, no, dell'estate sotto le stelle. Certo, certo. Il limone sotto le stelle. La spiaggia della sabbia nelle mutande.",
+          "start": 1126.42,
+          "end": 1135.9,
+          "id": "card-23",
+          "english": "Just kidding, that's not true. Yeah, for that feeling of... that romantic idea, you know, of summer under the stars. Sure, sure. Making out under the stars. The beach, sand in your underwear.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-23.mp3"
+        },
+        {
+          "italian": "Sì, facciamo il bagno nudi a mezzanotte. Adesso si sfocia sempre un po' sul piccante. Esatto. Ma scusate, invece, visto che parlavi di Repubblica Cecca, eri mai preso a Eri per fare una simpatica sorpresa a qualcuno?",
+          "start": 1136.12,
+          "end": 1149.06,
+          "id": "card-24",
+          "english": "Yeah, midnight skinny-dipping. This always drifts into spicy territory now, doesn't it. Exactly. But wait — since you mentioned the Czech Republic, did you ever hop on a plane to go surprise someone?",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-24.mp3"
+        },
+        {
+          "italian": "No. E cosa ne pensiamo delle sorprese? Ne pensiamo malissimo. No, non è vero. No, ne pensiamo malissimo. Vi ricordate quel video virale su TikTok della tipa che va a fare la sorpresa al fidanzato e lui la accoglie malissimo? Tipo neanche si alza dal divano e lei è tutta casata con l'amica dietro che la filma",
+          "start": 1149.66,
+          "end": 1168.78,
+          "id": "card-25",
+          "english": "No. And what do we think about surprises? We think they're terrible. No, that's not true. No, we think they're terrible. Do you remember that viral TikTok of the girl who surprises her boyfriend and he reacts horribly? Like he doesn't even get up off the couch, and she's all dressed up with her friend behind her filming it",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-25.mp3"
+        },
+        {
+          "italian": "e lui è tipo... No, mi ha traumatizzata quel video, non farei mai una sorpresa. È un po' rischioso. Ma io non ho mai avuto una relazione a distanza, quindi non lo saprei.",
+          "start": 1168.78,
+          "end": 1178.54,
+          "id": "card-26",
+          "english": "and he's just like... No, that video traumatized me, I'd never do a surprise. It's a bit risky. But I've never had a long-distance relationship, so I wouldn't know.",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-26.mp3"
+        },
+        {
+          "italian": "Ma non perché arrivi e lui sta con un'altra, perché boh, senza che glielo dici, no? Ma sì, non è proprio... Però uno dei miei video preferiti della vita è il video di Casey Neistat che ha un miliardo di views, che va a fare la sorpresa alla sua fidanzata in Sudafrica",
+          "start": 1178.56,
+          "end": 1191.96,
+          "id": "card-27",
+          "english": "Not because you show up and he's with someone else, but just, I don't know, without telling them, right? Well, it's not exactly... But one of my all-time favorite videos is the Casey Neistat one with a billion views, where he surprises his girlfriend in South Africa",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-27.mp3"
+        },
+        {
+          "italian": "ed è a New York, vola 100 milioni di ore, va a trovarla in Sudafrica e lei è contenta. Dipende, diciamo, com'è la relazione, cioè se sai che puoi, magari devi un po' valutare...",
+          "start": 1191.96,
+          "end": 1200.72,
+          "id": "card-28",
+          "english": "and he's in New York, flies like a hundred million hours, goes to see her in South Africa, and she's thrilled. It depends, I guess, on the relationship — like if you know you can, maybe you just have to weigh it a bit...",
+          "audio": "audio/non-ho-mai/ep1/block-4/card-28.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-5",
+      "label": "20:00–25:00",
+      "cards": [
+        {
+          "italian": "Ah, non lo so. La Costi ovviamente cinica schifosa, mai nella vita. Però voglio dire, anche se uno facesse, non lo so, io faccio un weekend dai miei, sto inventando, no?",
+          "start": 1202.08,
+          "end": 1211.08,
+          "id": "card-1",
+          "english": "Ah, I don't know. Costi's obviously being a cynical little grump, never in a million years. But I mean, even if someone did it — I don't know, say I go spend a weekend at my parents', I'm just making this up, right?",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-1.mp3"
+        },
+        {
+          "italian": "Sì. Il giorno dopo che sono arrivato, sono alla porta, è arrivata lei. Boh. Magari ti volevi fare rifare attacci tuoi. No, stavo per dire, esatto, magari dipende come ti sei lasciato.",
+          "start": 1211.12,
+          "end": 1220.4,
+          "id": "card-2",
+          "english": "Yeah. The day after I arrived, I'm at the door, and she showed up. I don't know. Maybe you wanted to patch things up on your own terms. No, I was about to say — exactly, maybe it depends on how you left things.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-2.mp3"
+        },
+        {
+          "italian": "Cioè, se lei ha detto, guarda vado a un weekend dei miei che voglio fare due robine con i miei amici, eccetera. Se ti dico vado a fare un weekend con me, cazzo vorrei tanto che venissi, peccato che devi lavorare, non puoi venire e poi il giorno dopo suoni, sei lì. Sì, darei segnali.",
+          "start": 1220.4,
+          "end": 1232.66,
+          "id": "card-3",
+          "english": "I mean, if she said, look, I'm going away for the weekend with my parents, I want to do a few things with my friends, etc. But if I tell you, I'm going away for the weekend, damn I really wish you could come, too bad you have to work, you can't come — and then the next day you ring the doorbell and you're there. Yeah, that would give it away.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-3.mp3"
+        },
+        {
+          "italian": "Cioè, nel senso, bisogna un po' capire dove si possono fare delle sorprese o meno. Anche perché sennò poi il rischio è quello. Magari non succede, cioè non è che sta con l'amante nell'altra stanza.",
+          "start": 1233.1,
+          "end": 1240.94,
+          "id": "card-4",
+          "english": "I mean, you kind of have to figure out where surprises work and where they don't. Otherwise that's the risk. Maybe nothing happens — I mean, it's not like they've got someone else in the other room.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-4.mp3"
+        },
+        {
+          "italian": "No, no. O magari. O magari. No, vabbè, insomma, sai quelle cose. Eh no, certo. Però magari... Neanche voi vorreste quindi riceverla. No. Boh, io sai che non sono uno grande fan delle sorprese.",
+          "start": 1241.14,
+          "end": 1251.4,
+          "id": "card-5",
+          "english": "No, no. Or maybe. Or maybe. No, well, you know, those kinds of things. Yeah, no, sure. But maybe... So you wouldn't want to get one either. No. I don't know, I'm just not a big fan of surprises.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-5.mp3"
+        },
+        {
+          "italian": "Tipo, non mi hanno mai fatto una festa sorpresa. Non so perché. A me sì, è bellissimo. È bella? Sì, è stupenda. È che io sono troppo maniaco del controllo, quindi se mi fai una roba che non conosco vado tipo in errore di sistema.",
+          "start": 1251.7,
+          "end": 1261.3,
+          "id": "card-6",
+          "english": "Like, nobody's ever thrown me a surprise party. I don't know why. I've had one, it's amazing. Is it nice? Yeah, it's fantastic. It's just that I'm too much of a control freak, so if you spring something on me I don't know about, I basically glitch out.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-6.mp3"
+        },
+        {
+          "italian": "Sono delle persone che ci guardano fuori. Vuoi salutarle? Perché c'è semplicemente delle... Cazzo, cazzo. No, no, ogni tanto, perché abbiamo la tendina alzata, quindi credo ci sia da fare.",
+          "start": 1261.76,
+          "end": 1271.46,
+          "id": "card-7",
+          "english": "There are people watching us from outside. Want to say hi to them? Because there's just some... God, come on. No, no, it happens sometimes, because we've got the blinds up, so I guess it's to be expected.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-7.mp3"
+        },
+        {
+          "italian": "Qualcuno ha la vista della radio. Sono mezz'ora che ci guardano. Chissà che cosa sperano di vedere qua dentro. Sai che mi imbarazzo. Dicevamo? No, l'unica sorpresa che mi hanno fatto, a parte la festa, è stato Lucas, che un giorno mi è venuto a trovare a Parma per il compleanno.",
+          "start": 1271.62,
+          "end": 1284.04,
+          "id": "card-8",
+          "english": "Someone's got a view into the studio. They've been watching us for half an hour. Who knows what they're hoping to see in here. You know it embarrasses me. Where were we? Right — the only surprise anyone ever pulled on me, besides the party, was Lucas, when he showed up in Parma one day for my birthday.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-8.mp3"
+        },
+        {
+          "italian": "Ah, quindi te l'ha fatta la sorpresa. E tu stavi limonando con una... No, no. Solo che per non rovinarmi la sorpresa, non si è fatto sentire per tutto il giorno.",
+          "start": 1284.14,
+          "end": 1291.14,
+          "id": "card-9",
+          "english": "Ah, so he did surprise you. And you were off making out with someone... No, no. It's just that, to not ruin the surprise, he didn't get in touch with me all day.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-9.mp3"
+        },
+        {
+          "italian": "Ed è arrivato, non so, alle 4, alle 5. E quindi io pensavo, ma guarda tu questa merda, che con più di anni non mi fa gli auguri.",
+          "start": 1291.46,
+          "end": 1296.98,
+          "id": "card-10",
+          "english": "And he showed up, I don't know, around 4 or 5. So I was thinking, would you look at this jerk, after all these years and he can't even wish me happy birthday.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-10.mp3"
+        },
+        {
+          "italian": "Quindi all'inizio non gli dicevo niente. Alle 10 non gli dico niente. Allo stesso punto gli ho scritto e gli ho detto, oh merda, oggi è il mio compleanno, dove stai?",
+          "start": 1297.1,
+          "end": 1302.98,
+          "id": "card-11",
+          "english": "So at first I didn't say anything to him. By 10am I still hadn't said anything. At some point I texted him and said, oh crap, it's my birthday today, where are you?",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-11.mp3"
+        },
+        {
+          "italian": "E lui non rispondeva. E io dicevo, ma questa è una figlia... E quindi io che mi inalbero, ero sempre più aggressiva e gli scrivo, brutto figlio di...",
+          "start": 1303.24,
+          "end": 1310.8,
+          "id": "card-12",
+          "english": "And he wasn't answering. And I was like, what is this... And so, getting more and more worked up, I texted him, you ugly son of a—",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-12.mp3"
+        },
+        {
+          "italian": "Ma hai capito o no che è il mio compleanno? E poi ad un certo punto, tipo alle 5, è arrivato con i fiori, io così.",
+          "start": 1310.8,
+          "end": 1315.2,
+          "id": "card-13",
+          "english": "Do you even get that it's my birthday or not? And then at some point, around 5, he shows up with flowers, and I'm just like—",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-13.mp3"
+        },
+        {
+          "italian": "Scusa, devo andare un attimo a cancellare due messaggi. Ma che sorpresa è? Ma che sorpresa è? Poteva risponderti. Famiglia auguri e poi arriva, no?",
+          "start": 1316.0,
+          "end": 1323.8,
+          "id": "card-14",
+          "english": "Sorry, I've got to go delete a couple of messages real quick. But what kind of surprise is that? What kind of surprise is that? He could've just texted you back. Wish you a happy birthday and then show up, right?",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-14.mp3"
+        },
+        {
+          "italian": "Io ne era. So che lei crei dell'ansia, della rabbia. Però contenta, però... No, comunque io non ho mai avuto questa sorpresa e non citerrei da ve lo dico.",
+          "start": 1324.0,
+          "end": 1333.7,
+          "id": "card-15",
+          "english": "I was into it. I know it creates anxiety, anger. But she was happy, but... No, anyway, I've never had a surprise like that, and I wouldn't say no to one, I'll tell you that.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-15.mp3"
+        },
+        {
+          "italian": "No, no, avevamo capito. Va bene, niente, 30 anni per Claudio. No, che palle. Io ragazzi l'anno prossimo ne faccio 30. Ma guarda, sai cosa ho fatto? Ho fatto come Baglioni.",
+          "start": 1334.48,
+          "end": 1344.4,
+          "id": "card-16",
+          "english": "No, no, we got it. Okay, anyway — turning 30, for Claudio. Ugh, what a drag. I turn 30 next year, guys. But look, you know what I did? I did the Baglioni thing.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-16.mp3"
+        },
+        {
+          "italian": "Ho preso un bel bigliettario, 4 mie amiche e Berlino. Si va. Devo fare ancora 29, ci tengo a dirlo. Ne faccio 29 adesso, a ottobre.",
+          "start": 1344.7,
+          "end": 1352.88,
+          "id": "card-17",
+          "english": "I grabbed a plane ticket, four of my girlfriends, and Berlin. Off we go. I've still got to turn 29 first, I want to point that out. I'm turning 29 now, in October.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-17.mp3"
+        },
+        {
+          "italian": "Allora, mancano 100 mani. E l'anno prossimo ne faccio 30. Ma mancano 20 mesi, poi ci pensiamo. Si, lo so. Mancano 17 mesi, tipo. Ho fatto il calcolo giusto?",
+          "start": 1353.12,
+          "end": 1361.72,
+          "id": "card-18",
+          "english": "So, it's still a ways off. And next year I turn 30. But there's like 20 months left, we'll worry about it then. Yeah, I know. It's more like 17 months. Did I do that math right?",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-18.mp3"
+        },
+        {
+          "italian": "18? No, 16. L'hai già detto quattro numeri, Giulia. Va beh, comunque. Non comunque, in ogni caso, più o meno tra un anno e mezzo.",
+          "start": 1363.38,
+          "end": 1371.5,
+          "id": "card-19",
+          "english": "18? No, 16. You've already said four different numbers, Giulia. Well, anyway. Not 'anyway' — in any case, roughly a year and a half from now.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-19.mp3"
+        },
+        {
+          "italian": "Bravo, 16. Non ho mai fatto il fallò di Ferragosto in spiaggia. Pensavo il fallò di Confronto, volessi dire. Che bello, che Giulia non sa che cos'è però.",
+          "start": 1371.66,
+          "end": 1380.16,
+          "id": "card-20",
+          "english": "Good, 16. I've never done the Ferragosto beach bonfire thing. I thought you meant the 'confrontation bonfire.' How nice — though Giulia doesn't even know what it is.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-20.mp3"
+        },
+        {
+          "italian": "No, lo so, lo so. Raga, ho visto i video introduttivi su TikTok dei concorrenti. Stiamo parlando di Temptation Island, lo dico per le persone che...",
+          "start": 1380.2,
+          "end": 1393.92,
+          "id": "card-21",
+          "english": "No, I know, I know. Guys, I saw the contestants' intro videos on TikTok. We're talking about Temptation Island, just saying for anyone who...",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-21.mp3"
+        },
+        {
+          "italian": "È tutto, per me è tutto. Ma cosa dicono, tu che sei un'autrice, gli autori di Temptation? Quanto si divertono da 1 a 10? Allora, se questo è il momento, Maria De Filippi, sono tua.",
+          "start": 1393.92,
+          "end": 1403.4,
+          "id": "card-22",
+          "english": "That's everything, that's all for me. But what do they actually say — you're a writer, what do the Temptation Island writers say? How much fun is it, on a scale of 1 to 10? So, if this is the moment — Maria De Filippi, I'm yours.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-22.mp3"
+        },
+        {
+          "italian": "Quando vuoi, chiami. Beh, penso sì. Si divertono da 10. Allora, io non l'ho mai visto. Ma non per fare il figo, dire... Non mi frega, cioè, ammetto che non è una cosa che mi frega.",
+          "start": 1403.76,
+          "end": 1415.92,
+          "id": "card-23",
+          "english": "Whenever you want, just call. Well, I think so. They're having a blast, a 10. So — I've actually never watched it. Not to sound cool or anything... it's not that I don't care, I mean, I admit it's just not something I'm into.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-23.mp3"
+        },
+        {
+          "italian": "Però... Io ho fatto vedere i video e gli ho detto, forse lo dobbiamo guardare. Stavo per dire, alcuni estratti, alcune cose... Tanto l'italiano è semplice.",
+          "start": 1416.4,
+          "end": 1422.22,
+          "id": "card-24",
+          "english": "But... I showed her the clips and told her, maybe we should watch it. I was about to say, some clips, a few bits... Anyway, the Italian is easy enough.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-24.mp3"
+        },
+        {
+          "italian": "Anzi, talvolta è anche rasenta l'italiano. Talvolta mi sa che si fa un... Ho visto un'intervista incredibile di una che diceva, stiamo insieme da 14 anni.",
+          "start": 1422.64,
+          "end": 1431.8,
+          "id": "card-25",
+          "english": "Actually, sometimes it barely even counts as Italian. Sometimes I think they just... I saw this unbelievable interview with a woman who said, we've been together for 14 years.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-25.mp3"
+        },
+        {
+          "italian": "E lui non mi chiede niente. Chissà come mai, diciamo, comunque un po' giù. Perché non li prendono del Trentino? Non lo so, ogni tanto...",
+          "start": 1432.24,
+          "end": 1442.0,
+          "id": "card-26",
+          "english": "And he never asks me anything. Who knows why — let's just say, a bit down about it. Why don't they cast more people from Trentino? I don't know, sometimes...",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-26.mp3"
+        },
+        {
+          "italian": "Ma io sono Terrone, posso parlare male di Terrone? E come i gay che possono chiamarsi tra di loro? Come si chiamano? Non lo sappiamo.",
+          "start": 1442.0,
+          "end": 1447.72,
+          "id": "card-27",
+          "english": "But I'm a southerner — can I badmouth southerners? Like how gay guys have their own words for each other? What's that called? We don't know.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-27.mp3"
+        },
+        {
+          "italian": "C'è una tendenza, diciamo... Ma perché? Questa secondo me è una cosa invece tecnica. Applicano più persone in sud? No, ha un bacino d'utenza molto forte.",
+          "start": 1449.46,
+          "end": 1459.26,
+          "id": "card-28",
+          "english": "There's a trend, let's say... But why? This, in my opinion, is actually more of a technical thing. Do more people apply from the south? No — it's just got a really strong viewer base down there.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-28.mp3"
+        },
+        {
+          "italian": "Tempestation Island al sud Italia, quindi... Applicano di più loro, cioè quelli del nord sono timidi. Lo guardano di più da Roma in giù. Ho mai visto del nord in tv, sono timidi.",
+          "start": 1459.5,
+          "end": 1469.08,
+          "id": "card-29",
+          "english": "Temptation Island is huge in southern Italy, so... more of them apply. I mean, people from the north are shy. It's watched more from Rome southward. I've basically never seen anyone from the north on TV, they're shy.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-29.mp3"
+        },
+        {
+          "italian": "Forse non fanno i proviri. Sono andato su dalla montagna del nord così... Sono 14 anni che non mi cagano. Li poto tagliare e andiamo su facciando le cose così.",
+          "start": 1469.08,
+          "end": 1478.2,
+          "id": "card-30",
+          "english": "Maybe they just don't bother auditioning up there. I went up into the northern mountains like... It's been 14 years and nobody's given me the time of day. I could just cut it off and go up there doing things like this.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-30.mp3"
+        },
+        {
+          "italian": "Non sarebbe un po' strano? No raga, incredibili. Incredibili i video. Per dire, forse lo guardo, vediamo. La tua andata non aveva nulla a che fare con il suolo di conflitto.",
+          "start": 1478.22,
+          "end": 1486.2,
+          "id": "card-31",
+          "english": "Wouldn't that be a little weird? No, guys, they're incredible. The videos are incredible. I mean, maybe I'll actually watch it, we'll see. Your trip had nothing to do with all that conflict stuff.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-31.mp3"
+        },
+        {
+          "italian": "No, io tutte queste cose italiane normali non le ho mai fatte. Tu cosa fai d'estate? Nelle tue estati da ragazza? Stavo attaccata a mia madre e non mi facevano uscire.",
+          "start": 1486.28,
+          "end": 1496.12,
+          "id": "card-32",
+          "english": "No, I never did any of these normal Italian summer things. What did you do in the summer? In your summers as a kid? I was glued to my mom, they didn't let me go out.",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-32.mp3"
+        },
+        {
+          "italian": "Io stavo con i miei genitori. Dove andavi in vacanza? Non so niente della tua vita, Giulia! In Puglia, in Calabria. Dove siete andate in Puglia?",
+          "start": 1496.12,
+          "end": 1502.74,
+          "id": "card-33",
+          "english": "I stayed with my parents. Where did you go on vacation? I know nothing about your life, Giulia! Puglia, Calabria. Where in Puglia did you go?",
+          "audio": "audio/non-ho-mai/ep1/block-5/card-33.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-6",
+      "label": "25:00–30:00",
+      "cards": [
+        {
+          "italian": "Dappertutto. In Sardegna, a Stintino. Tutti i villaggi di Valtura li ho fatti. Tutti. Puglia, Calabria, Sicilia, Sardegna. Però la sera non potevo uscire. Quando tu hai detto che uscivi con i ragazzi, mi è sceso una lacrimuccia.",
+          "start": 1504.58,
+          "end": 1517.64,
+          "id": "card-1",
+          "english": "Everywhere. Sardinia, Stintino. I did every single Valtur resort. All of them. Puglia, Calabria, Sicily, Sardinia. But at night I couldn't go out. When you said you used to go out with the guys, I teared up a little.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-1.mp3"
+        },
+        {
+          "italian": "Perché io non potevo, dovevo andare a letto alle 10. Ah, eri un po'... Quindi io non ho mai fatto queste cose belle. Poi cosa ho fatto a 14 anni?",
+          "start": 1517.72,
+          "end": 1525.26,
+          "id": "card-2",
+          "english": "Because I couldn't — I had to be in bed by 10. Ah, you were kind of... So I never got to do any of these fun things. So what did I even do when I was 14?",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-2.mp3"
+        },
+        {
+          "italian": "Stavo con i miei. Ma la prima vacanza con le amiche? E a 18! E cosa avete fatto a 18 anni? Siamo andati in campeggio con tutti i miei amici di Parma.",
+          "start": 1526.28,
+          "end": 1534.38,
+          "id": "card-3",
+          "english": "I was with my parents. But your first trip with friends? At 18! And what did you guys do when you were 18? We went camping with all my friends from Parma.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-3.mp3"
+        },
+        {
+          "italian": "E lui ha scopato! Costanza, voi potete vedere, scusate, perché questo è stato uno dei pochi momenti in cui ho rimpianto di non avere la telecamera su Costanza.",
+          "start": 1534.44,
+          "end": 1544.58,
+          "id": "card-4",
+          "english": "And he hooked up! Costanza — you can all see, sorry, because this was one of the few moments I actually regretted not having a camera on Costanza.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-4.mp3"
+        },
+        {
+          "italian": "Ha guardato Giulia e ha fatto questo gesto fortissimo. All'avanzo. Perché hai dovuto fare il gesto? Così ho richiamato l'attenzione. Quindi forse lui ha fatto il falò. Può darsi.",
+          "start": 1545.68,
+          "end": 1559.32,
+          "id": "card-5",
+          "english": "She looked at Giulia and made this huge gesture. Whatever's left over. Why'd you have to make that gesture? To grab everyone's attention. So maybe he did the bonfire thing. Could be.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-5.mp3"
+        },
+        {
+          "italian": "Può darsi. E io sì, ovviamente sì. Non si può fare il legale, ve lo dico. Non si può fare il falò. La vendetta per te è, eri quello con la chitarra?",
+          "start": 1559.68,
+          "end": 1569.22,
+          "id": "card-6",
+          "english": "Could be. And me, yes, obviously yes. You can't do it legally, I'll tell you that. You can't do the bonfire. Revenge for you was — were you the guy with the guitar?",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-6.mp3"
+        },
+        {
+          "italian": "No, perché nonostante ho suonato la chitarra da diciamo bambino più che ragazzo, non l'ho mai coltivata, io ero quello che facevo... Allora, ero quello che limonava ma non grazie al suono, cioè non grazie al bel canto.",
+          "start": 1569.66,
+          "end": 1584.78,
+          "id": "card-7",
+          "english": "No, because even though I played guitar, let's say more as a kid than a teenager, I never really kept it up. I was the one who... Right, I was the one who made out with people, but not thanks to the music, I mean, not thanks to good singing.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-7.mp3"
+        },
+        {
+          "italian": "Grazie a cosa Claudio? Grazie alla mia... Grazie alla mia simpatia, la mia proverbiale simpatia che è la cosa che mi ha permesso di vivere al mondo, altrimenti sarei solamente un giovane ragazzo Un involucro vuoto.",
+          "start": 1585.34,
+          "end": 1598.88,
+          "id": "card-8",
+          "english": "Thanks to what, Claudio? Thanks to my... Thanks to my charm, my proverbial charm, which is the thing that's let me get through life — otherwise I'd just be some young guy. An empty shell.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-8.mp3"
+        },
+        {
+          "italian": "In cerca di un'identità. Sì, no, quindi lo faccio. Vabbè, limonavi e? Stai dicendo, stai facendo una lista. Limonavo e? Limonavo facevo... Facevamo una roba che era secondo me impensabile oggi, cioè che era già all'epoca ma oggi se ci ripenso...",
+          "start": 1599.78,
+          "end": 1617.16,
+          "id": "card-9",
+          "english": "Searching for an identity. Yeah, no, so that's what I do. Okay, you'd make out and? You're saying — you're making a list here. I'd make out and? I'd make out, we'd do... We used to do something that I think would be unthinkable today — I mean it was already a lot back then, but looking back now...",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-9.mp3"
+        },
+        {
+          "italian": "Allora, spiaggia libera. Andavamo la mattina tipo alle 6 del mattino ma pure prima, alle 5 e mezza del mattino a prendere il posto con gli ombrelloni.",
+          "start": 1617.9,
+          "end": 1627.34,
+          "id": "card-10",
+          "english": "Okay, so, the free public beach. We'd go in the morning, like 6am, sometimes even earlier, 5:30am, to grab a spot with the umbrellas.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-10.mp3"
+        },
+        {
+          "italian": "Poi si stava fino alla sera, tipo alle ore 7, ci stava il cambio con gli altri amici che stavano lì a tenere il posto perché le spiagge erano prese d'assalto, chiaramente.",
+          "start": 1628.38,
+          "end": 1638.16,
+          "id": "card-11",
+          "english": "Then we'd stay until evening, like 7pm, and there'd be a shift change with other friends who'd keep holding the spot, because obviously the beaches got completely stormed.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-11.mp3"
+        },
+        {
+          "italian": "Alle 8 tiravi fuori le tende e facevi la notte di ferragosto in spiaggia. Ma cos'è l'uscita del nuovo iPhone 7? Sì, sì, sembravo lì in fila ai concerti.",
+          "start": 1639.3,
+          "end": 1649.86,
+          "id": "card-12",
+          "english": "By 8 you'd pitch the tents and spend the whole Ferragosto night on the beach. Like it's the launch of the new iPhone or something? Yeah, yeah, it was like standing in line at a concert.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-12.mp3"
+        },
+        {
+          "italian": "Aveva 18 anni, non te ne frega niente. Ma infatti non eravamo anche felici di fare strada qua. Ne parlavo di recente con un amico, Andrea, che pensavamo, ma come cazzo ci veniva in mente di fare una roba del genere dove andavamo prima noi, poi cambiavano, arrivavano",
+          "start": 1650.1,
+          "end": 1662.22,
+          "id": "card-13",
+          "english": "I was 18, you don't care at all. But actually, weren't we also happy to make the trek there? I was talking about this recently with a friend, Andrea, and we were thinking, how the hell did we ever think it was a good idea — we'd go first, then there'd be a changeover, and then in would come",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-13.mp3"
+        },
+        {
+          "italian": "quelli del pomeriggio. Ma un giorno l'anno? Solo ferragosto? Da noi si fa la notte del 14. Cioè il 14 la mattina si andava alle 6 e poi probabilmente non si dormiva.",
+          "start": 1662.22,
+          "end": 1670.02,
+          "id": "card-14",
+          "english": "the afternoon crew. But just one day a year? Only for Ferragosto? Where I'm from we do the night of the 14th. So on the morning of the 14th you'd head out at 6, and then probably not sleep at all.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-14.mp3"
+        },
+        {
+          "italian": "Continui. Birra calda, cibo con la sabbia, umidità, zanzare. Ragazzi, la sabbia di notte non avete idea di quanto si affreccia. È proprio una roba devastante.",
+          "start": 1670.84,
+          "end": 1682.06,
+          "id": "card-15",
+          "english": "Keep going. Warm beer, sandy food, humidity, mosquitoes. Guys, you have no idea how cold the sand gets at night. It's absolutely brutal.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-15.mp3"
+        },
+        {
+          "italian": "Non lo farei mai più, credo, nella mia vita. Però il bagno di notte è bello. Abbiamo sentito Claudio, 55 anni, da Taranto. Però il bagno inutile avete mai fatto?",
+          "start": 1682.22,
+          "end": 1691.12,
+          "id": "card-16",
+          "english": "I don't think I'd ever do it again in my life. But swimming at night is nice. We just heard from Claudio, 55, from Taranto. But have you ever gone skinny-dipping?",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-16.mp3"
+        },
+        {
+          "italian": "Sì, ne abbiamo parlato anche nella puntata live. Lei è il nottaio. Fa checking delle cose che succedono. No, non farei mai ovviamente tutto ciò.",
+          "start": 1692.34,
+          "end": 1703.94,
+          "id": "card-17",
+          "english": "Yeah, we talked about it in the live episode too. She's the notary — she checks off everything that happens. No, obviously I'd never do any of that.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-17.mp3"
+        },
+        {
+          "italian": "Bagno nuda sì, però. Più passa il tempo, più voglio una spiaggia dove sono solo io. Certo, perché anche lì... Questo è il mio desiderio più grande. Quando leggi quelle cose, vendono l'isola, ecco, questo è quello che farei se fossi miliardaria. Non è il più grande lusso del mondo?",
+          "start": 1704.22,
+          "end": 1718.68,
+          "id": "card-18",
+          "english": "Skinny-dipping, yes, though. The more time passes, the more I just want a beach that's mine alone. Sure, because even there... That's my biggest wish. When you read those things, they're selling an island — that's exactly what I'd do if I were a billionaire. Isn't that the ultimate luxury in the world?",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-18.mp3"
+        },
+        {
+          "italian": "Stare in spiaggia da soli? Come quando invece vai a fare il bagno e comunque è tipo il mare. Il mare è grande. Sei qua e arriva un'altra persona che si mette qua.",
+          "start": 1718.72,
+          "end": 1730.22,
+          "id": "card-19",
+          "english": "Being alone on a beach? Like when you go for a swim and, I mean, it's the sea. The sea is huge. You're right here and someone else comes and sets up right next to you.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-19.mp3"
+        },
+        {
+          "italian": "Esattamente. Il mare è grande, perché devi stare qua vicino a me? Io ho capito con gli anni che alle persone piace stare tutti vicini. Non è vero?",
+          "start": 1730.82,
+          "end": 1739.86,
+          "id": "card-20",
+          "english": "Exactly. The sea is huge, why do you need to be right next to me? Over the years I've realized people actually like being all crammed together. Isn't that true?",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-20.mp3"
+        },
+        {
+          "italian": "A te il contrario. Sapete quelli che dicono no, ma io cerco la spiaggetta. Non è vero. Alla gente piace stare tutta appiccicata. Andiamo più o meno tutti nelle stesse zone. Ma proprio quando vai nei posti dove c'è tanta gente e vai in spiaggia, non ti accorgi che le persone",
+          "start": 1740.04,
+          "end": 1755.38,
+          "id": "card-21",
+          "english": "For you it's the opposite. You know those people who say, no, I go looking for the little hidden beach? Not true. People like being all stuck together. We all end up in more or less the same spots. But really, when you go to crowded places, to the beach, don't you notice how people",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-21.mp3"
+        },
+        {
+          "italian": "si mettono tutte vicine? Perché secondo me è una specie di pensiero inconscio del tipo, se lì ci sono quelle persone, vuol dire che lì si sta bene.",
+          "start": 1755.6,
+          "end": 1763.18,
+          "id": "card-22",
+          "english": "always set up right next to each other? Because I think it's some kind of unconscious thought, like — if those people are there, it must mean that's the good spot.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-22.mp3"
+        },
+        {
+          "italian": "E quindi ti fa venire la fomo del se non vado anch'io, vuol dire che sono sfigato. E invece magari se ti sposti nella caletta dopo, stai da dio uguale, ma non hai il place to be.",
+          "start": 1763.74,
+          "end": 1773.82,
+          "id": "card-23",
+          "english": "And so it gives you that FOMO — like if I don't go there too, I must be a loser. When actually, if you move to the little cove right after, you're just as well off, but you don't have 'the place to be.'",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-23.mp3"
+        },
+        {
+          "italian": "Diciamo così, per dirla sempre con una parola inglese che piace tanto al nostro pubblico. In questa puntata dedicata all'estate noi non stiamo prendendo minimamente in considerazione il fatto che d'estate si possa fare qualcosa di diverso rispetto all'andare al mare.",
+          "start": 1774.06,
+          "end": 1786.52,
+          "id": "card-24",
+          "english": "Let's put it that way, using an English phrase our audience loves so much. In this episode dedicated to summer, we're not even remotely considering the possibility that in summer you could do something other than go to the beach.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-24.mp3"
+        },
+        {
+          "italian": "Siamo completamente focalizzati su mare, marche, spiaggia. Non esiste altro. Non esiste altro dio all'infuori del mare. Quelli che hanno la montagna hanno altri podcast da ascoltare.",
+          "start": 1786.66,
+          "end": 1799.62,
+          "id": "card-25",
+          "english": "We're completely fixated on the sea, the coast, the beach. Nothing else exists. There is no other god besides the sea. If you're a mountain person, go find another podcast to listen to.",
+          "audio": "audio/non-ho-mai/ep1/block-6/card-25.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-7",
+      "label": "30:00–35:00",
+      "cards": [
+        {
+          "italian": "Andate a ascoltare Pablo Trincia che lui fa tante camminate in montagna, noi non ci rompete le palle che non abbiamo voglia di parlare di questa cosa qua.",
+          "start": 1800.0,
+          "end": 1806.0,
+          "id": "card-1",
+          "english": "Go listen to Pablo Trincia, he does a bunch of mountain hikes — don't bust our balls about it, we don't feel like talking about that here.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-1.mp3"
+        },
+        {
+          "italian": "Falò e Stivo è sinonimo di giovinezza, stavo pensando, perché io non lo fai da giovane, ed è tipo anche una specie di quelle cose che succede nei film.",
+          "start": 1807.6,
+          "end": 1816.62,
+          "id": "card-2",
+          "english": "The summer bonfire is basically synonymous with youth, I was thinking, because you don't do it once you're not young anymore, and it's kind of one of those things that happens in movies.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-2.mp3"
+        },
+        {
+          "italian": "Sai che tipo l'estate è stereotypata dai film, che è una cosa che leggevo l'altro giorno, è molto forviante nei confronti di questa stagione. Perché poi l'estate c'è gente che l'ama e la odia di base per un motivo, cioè il caldo, chi soffre il caldo e chi non soffre il caldo.",
+          "start": 1816.88,
+          "end": 1832.48,
+          "id": "card-3",
+          "english": "You know how summer gets stereotyped by movies — I was reading about this the other day — it's actually really misleading about this season. Because with summer there are people who love it and people who hate it, basically for one reason: the heat, whether you can't stand it or you're fine with it.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-3.mp3"
+        },
+        {
+          "italian": "Tuttavia, leggevo questa cosa che si chiama... cazzarola mi sono dimenticato, non trovo un'anata da oggi. La sindrome? Ah, della quest'estate cambierà tutto. Cioè che negli anni la narrativa, i film, anche le canzoni, perché poi tutte le canzoni iniziali sono tutte un nuovo amore che nasce.",
+          "start": 1832.5,
+          "end": 1850.94,
+          "id": "card-4",
+          "english": "Anyway, I was reading about this thing called... damn, I've forgotten, my brain's not working today. The syndrome? Ah, the 'this summer everything will change' thing. Like, over the years, the narratives, the movies, even the songs — because all those summer anthems are always about some new love blossoming.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-4.mp3"
+        },
+        {
+          "italian": "Si tende un po', e io in primis mi sono reso conto che lo facevo quando ero ragazzo, a romanticizzare questo periodo dell'anno. Che è sbagliato, cioè che non significa che è meno bella rispetto ad altri periodi, però tende a essere un po' forviante perché uno poi si aspetta grandi cose e quindi rimane deluso.",
+          "start": 1851.8,
+          "end": 1867.52,
+          "id": "card-5",
+          "english": "We tend to — and I realized I did this myself as a teenager — romanticize this time of year. Which is wrong, I mean, it doesn't mean it's any less beautiful than other times, but it tends to be a bit misleading because you end up expecting big things and then you're disappointed.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-5.mp3"
+        },
+        {
+          "italian": "Infatti io anni fa cosa facevo? Ancora quando andavo più o meno a scuola, che era il periodo in cui sapevo che avevo tre mesi di vacanza, quindi ero al settimo cielo appena iniziavano le vacanze.",
+          "start": 1868.02,
+          "end": 1876.4,
+          "id": "card-6",
+          "english": "In fact, what did I used to do, years ago? Back when I was still in school, when I knew I had three months off — I was over the moon the moment summer break started.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-6.mp3"
+        },
+        {
+          "italian": "Pieno di aspettative, quest'estate conoscerò l'amore della mia vita, farò un sacco di cose eccetera, e poi rosicavo. Perché comunque l'estate passava in fretta, io mi ricordo arrivavo al 15 giugno e facevo, oddio è già il 15 giugno, vuol dire che sono passati i 15 giorni di estate?",
+          "start": 1877.32,
+          "end": 1891.12,
+          "id": "card-7",
+          "english": "Full of expectations — this summer I'll meet the love of my life, I'll do a ton of stuff, etc. — and then I'd be gutted. Because summer always went by so fast, I remember hitting June 15th and thinking, oh god, it's already the 15th, does that mean 15 days of summer are already gone?",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-7.mp3"
+        },
+        {
+          "italian": "Ne mancano ancora troppi, pochi, e poi arrivavo ad agosto e facevo oddio è arrivato agosto. Cioè ero sempre completamente infottato da questa cosa e è un po' una specie di retorica che si è costruita.",
+          "start": 1891.62,
+          "end": 1902.04,
+          "id": "card-8",
+          "english": "There's still too many left, too few — and then August would arrive and I'd think, oh god, it's August already. I mean, I was always completely obsessed with this whole thing, and it's kind of a narrative that's built itself up over time.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-8.mp3"
+        },
+        {
+          "italian": "Cioè che se non fai il falò su tutto ciò per dire che, non fai il falò su una spiaggia. Se non è l'estate dei tuoi sogni.",
+          "start": 1902.7,
+          "end": 1907.04,
+          "id": "card-9",
+          "english": "Like, if you don't have a bonfire about all this — I mean, if you don't have a bonfire on a beach — if it's not the summer of your dreams.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-9.mp3"
+        },
+        {
+          "italian": "No esatto, invece è normalizzato. Ti svelo un segreto, quando fai un'adolescenza e un'infanzia di merda, non perché non abbia fatto le vacanze, privilegiatissimo, ho fatto tutto quello che dovevo, ma sempre con mia madre attaccata e quindi non ho potuto mai.",
+          "start": 1907.82,
+          "end": 1920.52,
+          "id": "card-10",
+          "english": "No, exactly, and instead it just gets normalized. I'll let you in on a secret — when you have a crappy adolescence and childhood... not because I didn't get to go on vacation, super privileged, I did everything I was supposed to, but always glued to my mother, so I never really could.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-10.mp3"
+        },
+        {
+          "italian": "Appena riesci a fare le cose tue, va bene tutto, va bene tutto, qualsiasi cosa va bene. Poi compi 40 anni e non ti va bene più niente, fa tutto schifo.",
+          "start": 1921.28,
+          "end": 1929.72,
+          "id": "card-11",
+          "english": "The moment you finally get to do your own thing, everything's fine, everything's fine, anything goes. Then you turn 40 and suddenly nothing's fine anymore, everything sucks.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-11.mp3"
+        },
+        {
+          "italian": "È tipo una parabola, sale e poi scende. Però quando non ne potevi più, pur di scappare di fare qualsiasi altra cosa, bellissimo. A un certo punto mi ricordo che dicevo ai miei, posso rimanere a Parma?",
+          "start": 1929.72,
+          "end": 1941.38,
+          "id": "card-12",
+          "english": "It's like a curve, it goes up and then it comes down. But when you couldn't take it anymore, you'd do anything just to get away and do something else — amazing. At some point I remember asking my parents, can I just stay in Parma?",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-12.mp3"
+        },
+        {
+          "italian": "E mia madre, ma stiamo andando in Sardegna, io vorrei rimanere a casa da sola. E per te? Per fare i fatti tuoi. Per farmi i fatti miei, per non averceli sempre qua sul corpone.",
+          "start": 1941.54,
+          "end": 1950.52,
+          "id": "card-13",
+          "english": "And my mom's like, but we're going to Sardinia. I wanted to stay home alone. And why? To do your own thing. To mind my own business, to not have them constantly hovering over me.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-13.mp3"
+        },
+        {
+          "italian": "Questa cosa qua del nord che in effetti per andare in vacanza dovevi lasciare la tua città è una roba che io ogni volta che la sento raccontare mi sembra assurda.",
+          "start": 1950.9,
+          "end": 1957.66,
+          "id": "card-14",
+          "english": "This thing about the north, where to actually go on vacation you had to leave your city — every time I hear people talk about it, it seems absurd to me.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-14.mp3"
+        },
+        {
+          "italian": "Non voglio flexare. Come adesso a me sembra assurdo che quelli del sud che conosco tutti gli agosti, cascasse il mondo, Gesù la Madonna, vanno a casa.",
+          "start": 1957.66,
+          "end": 1966.64,
+          "id": "card-15",
+          "english": "I don't want to brag. Just like now, it seems absurd to me that all the southerners I know, every single August, come hell or high water, go back home.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-15.mp3"
+        },
+        {
+          "italian": "È l'unico momento, magari lavori in azienda, è l'unico momento che hai per fare un viaggio lungo, ma tu dici no, io torno a casa mia.",
+          "start": 1967.14,
+          "end": 1971.64,
+          "id": "card-16",
+          "english": "It's the one chance — say you work a regular job — it's the only time you have to take a long trip, but you go, no, I'm going back home.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-16.mp3"
+        },
+        {
+          "italian": "Io per dire, torno ad agosto ma per due motivazioni. Una perché andare altrove, costarire di Dio, non ho voglia. Due perché è l'unico momento per beccare i miei amici.",
+          "start": 1972.0,
+          "end": 1980.56,
+          "id": "card-17",
+          "english": "Me, for example, I go back in August, but for two reasons. One, because going somewhere else, God forbid, I just don't feel like it. Two, because it's the only time I can actually catch up with my friends.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-17.mp3"
+        },
+        {
+          "italian": "Perché se io vado a luglio, sono tutti i miei amici. E infatti io li becco solo a Natale, perché d'estate non c'è nessuno. Raccontate un po' voi che siete del nord, come avete vissuto?",
+          "start": 1981.26,
+          "end": 1990.9,
+          "id": "card-18",
+          "english": "Because if I go in July, none of my friends are around. And honestly, I only catch them at Christmas, because in summer there's nobody around. So tell us, you two who are from the north, what was it like for you?",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-18.mp3"
+        },
+        {
+          "italian": "Costanza, sentiamo il suo parere. Sull'estate? No, ho solo un racconto. Da Brescia cosa succedeva? Andavate giù? Io intanto non ho fatto vacanze come Giulia, sempre con i miei genitori, fino a che non ero maggiorenne, niente da fare.",
+          "start": 1991.36,
+          "end": 2004.92,
+          "id": "card-19",
+          "english": "Costanza, let's hear her take. On summer? No, I've just got a story. What happened in Brescia? Did you head south? Well first of all, I didn't get vacations like Giulia — always with my parents, until I was 18, nothing else.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-19.mp3"
+        },
+        {
+          "italian": "Sempre con loro? Sempre così, sempre una noia mortale. E tu hai fratelli, Costi? Sì, sorella piccola, più piccola. Però sette anni. Ma lavate sempre nello stesso posto?",
+          "start": 2005.02,
+          "end": 2015.08,
+          "id": "card-20",
+          "english": "Always with them? Always like that, always dead boring. Do you have siblings, Costi? Yeah, a younger sister. Seven years younger, though. Did you always go to the same place?",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-20.mp3"
+        },
+        {
+          "italian": "Allora sì, però ho un aneddoto sul falò invece. Il falò estivo. Grazie, raccontaci. Che mi sembra abbastanza in linea con questo podcast. Non ti giustificare, non ti preoccupare.",
+          "start": 2015.08,
+          "end": 2026.34,
+          "id": "card-21",
+          "english": "Well, yes, but actually I do have a story about the bonfire. The summer bonfire. Thanks, go ahead and tell us. It seems pretty on-brand for this podcast. Don't explain yourself, don't worry about it.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-21.mp3"
+        },
+        {
+          "italian": "Io al contrario vostro, quando sto per raccontare un aneddoto, sento il peso del vostro pensiero, del vostro giudizio. Tu sentiti libera, non ti preoccupare.",
+          "start": 2026.48,
+          "end": 2033.66,
+          "id": "card-22",
+          "english": "Unlike you two, whenever I'm about to tell a story, I feel the weight of your thoughts, your judgment. Just feel free, don't worry about it.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-22.mp3"
+        },
+        {
+          "italian": "Tanto caso mai ti tagli da sola. Falò, estate 2015, Sperlonga. Serata sotto le stelle, birre, cannette, gente sulla spiaggia. Cannette hai detto? Cannette che fumavano gli altri.",
+          "start": 2033.84,
+          "end": 2050.34,
+          "id": "card-23",
+          "english": "Anyway, if anything you can always cut yourself off. Bonfire, summer 2015, Sperlonga. A night under the stars, beers, joints, people on the beach. Did you say joints? Joints that other people were smoking.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-23.mp3"
+        },
+        {
+          "italian": "Perché sennò lei sarebbe svenuta. Atmosfera di benessere, quella lì di cui parlavi tu. Anche chitarra, le bionde trecce, gli occhi azzurri e poi? Ed era proprio quello che mi piaceva, lui.",
+          "start": 2051.38,
+          "end": 2063.48,
+          "id": "card-24",
+          "english": "Because otherwise she would've fainted. That good vibe, the one you were talking about earlier. There was even a guitar, blonde braids, blue eyes and then? And that was exactly what I liked about him.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-24.mp3"
+        },
+        {
+          "italian": "Il chitarrino? Il chitarrino. Che canzone cantava? Chiaramente un Battisti a piacere. E poi c'erano gli oasis classici, quelli degli accordi semplici. Un giro di Do.",
+          "start": 2064.8,
+          "end": 2076.12,
+          "id": "card-25",
+          "english": "The little guitar? The little guitar. What song was he singing? Obviously some Battisti, take your pick. And then there were the classic Oasis songs, the ones with the simple chords. A basic chord progression.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-25.mp3"
+        },
+        {
+          "italian": "Una serata meravigliosa. Tutto nell'aria, nel senso che sta per succedere qualcosa di bello. E poi arriva quell'arietta estiva. Forse ho capito. Quell'arietta fresca che prende la pancia e senti il sudore che imperla le braccia e il collo.",
+          "start": 2076.7,
+          "end": 2097.62,
+          "id": "card-26",
+          "english": "A wonderful evening. Everything in the air, in the sense that something good is about to happen. And then that summer breeze rolls in. I think I get it. That cool little breeze that hits your stomach, and you can feel the sweat beading on your arms and neck.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-26.mp3"
+        },
+        {
+          "italian": "Ti guardi intorno e no, non c'è proprio un bagno. Neanche per sbaglio. Allora io mi guardo, guardo la sabbia, guardo dei cespugli molto in fondo.",
+          "start": 2097.62,
+          "end": 2109.34,
+          "id": "card-27",
+          "english": "You look around and, nope, there's not a bathroom anywhere. Not even by accident. So I look around, I look at the sand, I look at some bushes way off in the distance.",
+          "audio": "audio/non-ho-mai/ep1/block-7/card-27.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-8",
+      "label": "35:00–40:00",
+      "cards": [
+        {
+          "italian": "E inizi a pensare che i cani non se la passano così male. Ho guardato il mio amico Fabrizio, perché anche in quel caso c'era il mio amico Fabrizio.",
+          "start": 2109.66,
+          "end": 2116.68,
+          "id": "card-1",
+          "english": "And you start thinking, dogs don't actually have it so bad. I looked over at my friend Fabrizio, because in that situation too, my friend Fabrizio was there.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-1.mp3"
+        },
+        {
+          "italian": "L'ho preso e ho detto tu adesso vieni con me correndo molto molto veloce. E ci andiamo a infrattare dietro a questo cespuglio in cui lui mi doveva fare da palo.",
+          "start": 2116.8,
+          "end": 2126.74,
+          "id": "card-2",
+          "english": "I grabbed him and said, you're coming with me right now, running really really fast. And we go duck behind this bush where he had to keep watch for me.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-2.mp3"
+        },
+        {
+          "italian": "Perché io dovevo cagare in spiaggia, non so come meglio dirlo. Infatti tutto per arrivare a questo finale. Perché così doveva finire. Nel frattempo il chitarrista se n'è andato.",
+          "start": 2126.74,
+          "end": 2139.38,
+          "id": "card-3",
+          "english": "Because I needed to take a crap on the beach, I don't know how else to say it. Honestly, this whole story was building to this ending. Because that's how it had to end. Meanwhile, the guitar guy had already left.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-3.mp3"
+        },
+        {
+          "italian": "E' finita la mia serata. Curiosità, niente carta, niente salviettine? No. E' da lì che le foglie hanno giocato un ruolo. Fortunatamente c'erano delle cibarie sulla spiaggia.",
+          "start": 2140.94,
+          "end": 2154.38,
+          "id": "card-4",
+          "english": "That was the end of my night. Just curious — no toilet paper, no wet wipes? No. That's where leaves came into play. Luckily there was some food packaging on the beach.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-4.mp3"
+        },
+        {
+          "italian": "E quindi tovagliolini piacevolissimi. Ma vale tutto in quella situazione. Diciamo che la sabbia poi è come quella per i gatti. Tu la copri e non succede.",
+          "start": 2155.16,
+          "end": 2163.5,
+          "id": "card-5",
+          "english": "So, some very pleasant little napkins. But in that situation, anything goes. Let's just say sand is kind of like cat litter — you cover it up and it's like nothing happened.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-5.mp3"
+        },
+        {
+          "italian": "E' andata esattamente così. Un po' isola dei famosi. Un po' isola dei famosi. Poi se mi ricordo, scusate, volevo condividerlo con voi. No ma è perfettamente in linea con questo podcast.",
+          "start": 2163.72,
+          "end": 2173.68,
+          "id": "card-6",
+          "english": "That's exactly how it went. A bit like Survivor. A bit like Survivor. Then, if I remember right — sorry, I just wanted to share it with you. No, but it's totally on-brand for this podcast.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-6.mp3"
+        },
+        {
+          "italian": "Anche oggi sentivo. E' perfettamente in linea con questo podcast. E io te lo dico, secondo me è molto bello. Molto molto bello. Gelato preferito?",
+          "start": 2173.7,
+          "end": 2180.34,
+          "id": "card-7",
+          "english": "I was feeling it today too. It's totally on-brand for this podcast. And I'll tell you, I think it's really nice. Really, really nice. Favorite ice cream?",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-7.mp3"
+        },
+        {
+          "italian": "Cioccolato. Per cambiare. Che gelato? Gelato cioccolato dolce, un po' salato. Che gelato? Confezionato o normale? Allora, prendiamoci il tempo per affrontare questo tema di grande importanza.",
+          "start": 2181.96,
+          "end": 2196.16,
+          "id": "card-8",
+          "english": "Chocolate. For a change. What flavor exactly? Sweet chocolate ice cream, a bit salty. What kind — packaged or artisanal? Okay, let's take our time on this topic of great importance.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-8.mp3"
+        },
+        {
+          "italian": "Che so che smuoverà l'economia del paese. Fondamentale. Un saluto all'Algida e a tutte le case produttrici di gelato. Detto questo, io partirei da quelli...",
+          "start": 2196.28,
+          "end": 2204.5,
+          "id": "card-9",
+          "english": "Which I know is going to shake up the national economy. Essential stuff. Shoutout to Algida and all the ice cream makers out there. That said, I'd start with the...",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-9.mp3"
+        },
+        {
+          "italian": "Allora, quello artigianale... Sì. No, partiamo dai confezionati. Poi arriviamo all'artigianale. Perché sono già due strade. Il gelato è diverso rispetto agli artigianali. Sì, sì.",
+          "start": 2204.5,
+          "end": 2213.26,
+          "id": "card-10",
+          "english": "So, the artisanal one... Yeah. No, let's start with the packaged ones. Then we'll get to artisanal. Because those are already two completely different paths. Ice cream is different from the artisanal stuff. Yeah, yeah.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-10.mp3"
+        },
+        {
+          "italian": "Scusami, rispetto ai confezionati, volevo dire. Confezionato. Confezionato. Mia classifica. Vai. Numero uno. No, si parte sempre dalla classifica. Ah, scusa, ho sbaglio. La cosa che voi fate, la classifica.",
+          "start": 2213.66,
+          "end": 2222.78,
+          "id": "card-11",
+          "english": "Sorry, I meant compared to the packaged ones. Packaged. Packaged. My ranking. Go. Number one. No, we always start from the bottom of the ranking. Oh, sorry, my mistake. That thing you two always do, the ranking.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-11.mp3"
+        },
+        {
+          "italian": "C'è ragione. C'è ragione. C'è ragione, c'è ragione. Allora, passo numero tre. Un gelato che non si trova da nessuna parte. L'ho davvero mangiato o l'ho sognato?",
+          "start": 2222.84,
+          "end": 2232.08,
+          "id": "card-12",
+          "english": "Fair enough. Fair enough. Fair enough, fair enough. Okay, spot number three. An ice cream you can't find anywhere. Did I actually eat it, or did I just dream it?",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-12.mp3"
+        },
+        {
+          "italian": "Non lo so. Si chiama il Nevelatte. Mai sentito. Eh, lo so. Ma dove? No, no, in Repubblica Cega. Allora, è di un marchio molto buono che vendevano al Tennis Club.",
+          "start": 2232.22,
+          "end": 2245.3,
+          "id": "card-13",
+          "english": "I don't know. It's called the 'Nevelatte.' Never heard of it. Yeah, I know. But where? No, no, in the Czech Republic. So, it's from a really good brand that they used to sell at the Tennis Club.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-13.mp3"
+        },
+        {
+          "italian": "Ma Giulia, ma sbagliati. Vabbè, vabbè, vabbè. Sul tuo yacht, scommetto, te lo portavo. Al Tennis Club. Ma tu ti rendi conto perché hai gli haters dopo?",
+          "start": 2246.8,
+          "end": 2255.48,
+          "id": "card-14",
+          "english": "Come on, Giulia, get real. Okay, okay, okay. On your yacht, I bet, they'd bring it right to you. At the Tennis Club. Do you even realize why you get hate for stuff like this?",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-14.mp3"
+        },
+        {
+          "italian": "Cioè, almeno li sei consapevole. Io il massimo che ho fatto è stato racchettoni con quelli regalati tipo dalla rivista Focus. Allora, prima di tutto, il Tennis Club a Parma non costa un cazzo perché è una città sfigata.",
+          "start": 2255.88,
+          "end": 2265.58,
+          "id": "card-15",
+          "english": "I mean, at least you're aware of it. The most I ever did was beach paddle-ball with the free set you'd get from Focus magazine. Okay, first of all, the Tennis Club in Parma costs basically nothing because it's a lame little city.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-15.mp3"
+        },
+        {
+          "italian": "La chiamate Tennis Club di Milano, capito? Quindi già togliete il 50%. Secondo, immaginate Milano da sola come una sfigata. Tutti che parlavano e giocavano e io da sola che leggevo il mio libro.",
+          "start": 2265.58,
+          "end": 2274.62,
+          "id": "card-16",
+          "english": "You're all imagining a Milan Tennis Club, got it? So already cut the snobbery by 50%. Second, picture me alone in Milan like a total loser. Everyone chatting and playing, and me sitting there alone reading my book.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-16.mp3"
+        },
+        {
+          "italian": "Sì, l'hai provato. Con l'apparecchio. Vabbè. Nessuna pena. Vabbè. Il Nevelatte è di un brand buonissimo di gelati confezionati. No, ve lo giuro. Con la confezione beige, veramente troppo posh.",
+          "start": 2274.88,
+          "end": 2287.76,
+          "id": "card-17",
+          "english": "Yeah, you tried it. With braces on. Fine. No pity here. Anyway, the Nevelatte is from a really good packaged ice cream brand. No, I swear. It came in this beige packaging, way too posh.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-17.mp3"
+        },
+        {
+          "italian": "Ed è uno stecco di legno tipo il Mottarello senza il cioccolato. Tutto di latte. Buonissimo. Forse ho capito, forse non me lo ricordo. Che merda.",
+          "start": 2288.14,
+          "end": 2295.8,
+          "id": "card-18",
+          "english": "And it's on a wooden stick, kind of like a Mottarello but without the chocolate. All milk. Really good. Maybe I get it now, maybe I still don't remember it. Damn it.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-18.mp3"
+        },
+        {
+          "italian": "Seconda. Quelli pannosi. È tipo pannoso, no? È pannoso. Vabbè, alternativa se non troviamo questo marchio un po' posh, quello con soprarrosa. Come si chiama?",
+          "start": 2296.64,
+          "end": 2304.58,
+          "id": "card-19",
+          "english": "Second one. The creamy ones. It's kind of creamy, right? It's creamy. Okay, alternative, if we can't find this slightly posh brand — the one with the pink topping. What's it called?",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-19.mp3"
+        },
+        {
+          "italian": "Quello fuori fragola dentro latte. Solero? No. Fior di fragola. Fior di fragola. Buonissimo. Al posto numero due. Prendo vino con? Sì. Al posto numero due a me piace molto Cucciolone.",
+          "start": 2304.7,
+          "end": 2316.48,
+          "id": "card-20",
+          "english": "The one that's strawberry outside, milk inside. Solero? No. Fior di Fragola. Fior di Fragola. Really good. At number two — can I take that with wine? Sure. At number two, I really like the Cucciolone.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-20.mp3"
+        },
+        {
+          "italian": "Beh, certo. Mi piace tanto. Perché c'è lo zabaione che è molto difficile da trovare. E poi la panna e poi il cioccolato. E siamo tutti contenti.",
+          "start": 2316.86,
+          "end": 2325.78,
+          "id": "card-21",
+          "english": "Well, of course. I really like it. Because there's zabaglione in it, which is really hard to find these days. And then the cream, and then the chocolate. And everyone's happy.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-21.mp3"
+        },
+        {
+          "italian": "Al posto numero uno il concertino. Ma eravamo gialluno col Cucciolone. No. Ha detto il fior di fragola al posto del neve latte. Ah, ok.",
+          "start": 2326.24,
+          "end": 2334.98,
+          "id": "card-22",
+          "english": "At number one, the 'concertino.' Wait, weren't we just on the Cucciolone? No. She said Fior di Fragola instead of the Nevelatte. Ah, okay.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-22.mp3"
+        },
+        {
+          "italian": "Scusa. Così lo trovai. E poi il concertino. Amarena, panna, cioccolato, granella. Non si chiama il croccante all'amarena? Quello. Scusa. A Tennis Club lo chiamano concertino.",
+          "start": 2335.14,
+          "end": 2345.6,
+          "id": "card-23",
+          "english": "Sorry. That's how I found it. And then the 'concertino.' Black cherry, cream, chocolate, crunchy bits. Isn't that called the black cherry crunch bar? That one. Sorry — at the Tennis Club they call it the concertino.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-23.mp3"
+        },
+        {
+          "italian": "Ah, giusto. Sì, sì. È perché c'era uno, un fornitore di gelati della Repubblica Sceca. Sì, è sempre lui. Dipende dalla marca. Lo chiamano concertino.",
+          "start": 2345.92,
+          "end": 2353.4,
+          "id": "card-24",
+          "english": "Ah, right. Yeah, yeah. It's because there was this one ice cream supplier from the Czech Republic. Yeah, it's the same guy again. Depends on the brand. They call it the concertino.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-24.mp3"
+        },
+        {
+          "italian": "Vabbè, non mi sfotetà. Fai tu. Allora, io metto al terzo posto il Cucciolone anch'io. Molissimo il Cucciolone. Con quel biscotto friabile. Quello tra l'altro la versione, quella sottomarca.",
+          "start": 2353.4,
+          "end": 2365.74,
+          "id": "card-25",
+          "english": "Okay, don't tease me about it. Go ahead, your turn. So, I'm also putting the Cucciolone at number three. I really, really love the Cucciolone. With that crumbly biscuit. That one, by the way, the version — the knockoff brand one.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-25.mp3"
+        },
+        {
+          "italian": "Cioè c'era tipo un Cucciolone sottomarca. Che non aveva le barzellette sopra purtroppo. No! Sì, cioè devi denunciare i tuoi genitori. Hai chiamato il telefono assurdo.",
+          "start": 2366.42,
+          "end": 2373.56,
+          "id": "card-26",
+          "english": "Like, there was this knockoff Cucciolone. Which unfortunately didn't have the little jokes printed on top. No! Yeah, I mean, you should report your parents. This is absurd.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-26.mp3"
+        },
+        {
+          "italian": "Con i tre gusti? Sì. Però mi ricordo che mia madre usava un noto fornitore di surgelati. Che inizia per B. Non so se l'avete mai capito qual è.",
+          "start": 2373.6,
+          "end": 2381.54,
+          "id": "card-27",
+          "english": "With the three flavors? Yeah. But I remember my mom used to buy from a well-known frozen food supplier. Starts with a B. I don't know if you've ever figured out which one.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-27.mp3"
+        },
+        {
+          "italian": "C'era questo qua che era quello tarocco. Vabbè. Poi, numero due. Saluto a quelli della Bofrost. Comunque, in ogni caso. Numero due? Numero due il Liuc.",
+          "start": 2381.54,
+          "end": 2388.56,
+          "id": "card-28",
+          "english": "There was this one that was the knockoff version. Anyway. Then, number two. Shoutout to the Bofrost people. Anyway, either way. Number two? Number two, the Liuc.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-28.mp3"
+        },
+        {
+          "italian": "O Liuc, per dirsi voglia. Eh, ti deve piacere. Con la liquirizia. Eh, ho piacere. E quel limone chimico, raga. Me lo ricordo ancora era buonissimo.",
+          "start": 2388.8,
+          "end": 2395.38,
+          "id": "card-29",
+          "english": "Or the Liuc, if you're into it. Yeah, you've gotta like it. With the licorice. Yeah, I do like it. And that artificial lemon flavor, guys. I still remember it, it was so good.",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-29.mp3"
+        },
+        {
+          "italian": "Vabbè che non c'è più? No, sì. Sì, sì, eccezionale. Però aspetta, ne manca un altro. Facciamo un primo posto pari merito. Me lo concedete?",
+          "start": 2395.42,
+          "end": 2403.24,
+          "id": "card-30",
+          "english": "Wait, it doesn't exist anymore? No, actually it does. Yeah, yeah, amazing. But wait, there's still one more. Let's do a tie for first place. Will you let me do that?",
+          "audio": "audio/non-ho-mai/ep1/block-8/card-30.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-9",
+      "label": "40:00–45:00",
+      "cards": [
+        {
+          "italian": "Sì. Primo posto per o il Calippo. Eh, ci sta così. Non capisco il tuo sorrisino dopo aver detto Calippo. È inutile che cerchi una gag che non arriverà.",
+          "start": 2403.32,
+          "end": 2417.68,
+          "id": "card-1",
+          "english": "Yeah. First place goes to the Calippo. Eh, fair enough. I don't get that little smirk after saying Calippo. No point trying for a joke that's not gonna land.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-1.mp3"
+        },
+        {
+          "italian": "Perché? In questo podcast così raffinato. E anche uno che vendevano sempre qua per la categoria gelati un po' defilati. Sì. Il Kono Kit Kat.",
+          "start": 2417.9,
+          "end": 2428.1,
+          "id": "card-2",
+          "english": "Why? On such a refined podcast as this one. And there was also one they always used to sell here, in the more under-the-radar ice cream category. Yeah. The Kit Kat cone.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-2.mp3"
+        },
+        {
+          "italian": "Certo, il Kono Kit Kat. Lo vendono sotto casa mia? Incredibile. Io lo prendo a volte. Io non lo vedo più. Ma hai assaggiato? Nella bodega sotto casa mia?",
+          "start": 2428.5,
+          "end": 2435.1,
+          "id": "card-3",
+          "english": "Right, the Kit Kat cone. They sell it near my place? Unbelievable. I get it sometimes. I never see it anymore. Have you tried it? At the corner shop under my building?",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-3.mp3"
+        },
+        {
+          "italian": "Vabbè anche il magno. Ma il cucciolone da che parte hai iniziato a mangiarlo? Dipende. Lo mangio anche dal lato. Non mi sono interrogato su questa cosa sinceramente.",
+          "start": 2435.1,
+          "end": 2443.52,
+          "id": "card-4",
+          "english": "Okay, and the Magnum too. But which end do you start eating the Cucciolone from? Depends. I even eat it from the side. Honestly, I've never really thought about it.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-4.mp3"
+        },
+        {
+          "italian": "Pazza! Perché? Da dove si inizia? Scusate. Secondo me non dal biscotto. Cioè si tira il biscotto in mano e si mangia il cioccolato. No, ma tu non parli!",
+          "start": 2445.02,
+          "end": 2453.98,
+          "id": "card-5",
+          "english": "Crazy! Why? Where do you even start? Sorry. I don't think you start from the biscuit. Like, you hold the biscuit and eat the chocolate off it. No, wait, you're not even talking about the right one!",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-5.mp3"
+        },
+        {
+          "italian": "Tu parli del maxibon! Costanza! È un misunderstanding! Costanza! Tu parli del maxibon. E comunque il maxibon si mangia assolutamente così, hai ragione. Ecco perché parlavamo e lei non capiva.",
+          "start": 2453.98,
+          "end": 2464.92,
+          "id": "card-6",
+          "english": "You're talking about the Maxibon! Costanza! This is a misunderstanding! Costanza! You're talking about the Maxibon. And anyway, you definitely do eat the Maxibon like that, you're right. That's why we kept talking past each other and she wasn't following.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-6.mp3"
+        },
+        {
+          "italian": "Maxibon! Una cosa di bello c'è il cucciolone. Scusami. No, ma no ragazzi. Il cucciolone e il calif... Tu parli del califo! No! Ah! Fermi!",
+          "start": 2465.68,
+          "end": 2475.82,
+          "id": "card-7",
+          "english": "Maxibon! One nice thing, there's also the Cucciolone. Sorry. No, wait, guys, no. The Cucciolone and the... You're talking about the cornetto! No! Ah! Stop, stop!",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-7.mp3"
+        },
+        {
+          "italian": "Che cazzo succede? Il cucciolone... Il cucciolone è quello con le barzellette? Biscotto e parte di cioccolato. Ma è solo biscotto! Eh no! Quello è il maxibon!",
+          "start": 2476.46,
+          "end": 2484.56,
+          "id": "card-8",
+          "english": "What the hell is happening? The Cucciolone... Is the Cucciolone the one with the little jokes on it? Biscuit with some chocolate on it. But that's just biscuit! No, that's the Maxibon!",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-8.mp3"
+        },
+        {
+          "italian": "Ah, quello è il maxibon! Ok, ok. Quello è il maxibon. Ok. Il califo cosa cazzo c'entra? Certo, certo. Col cioccolato in mezzo. Scusate. Sono indecisa sul maxibon anch'io.",
+          "start": 2484.56,
+          "end": 2492.5,
+          "id": "card-9",
+          "english": "Ah, that's the Maxibon! Okay, okay. That's the Maxibon. Okay. What the hell does the cornetto have to do with anything? Right, right. With chocolate in the middle. Sorry. I'm torn on the Maxibon too, honestly.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-9.mp3"
+        },
+        {
+          "italian": "È vero, è vero. È molto buono il maxibon. Perché c'è tutto. C'è la croccantezza. Tipo quelli... No, è buonissimo. Chiamateli. Sono pronta a fare la DV quando volete.",
+          "start": 2492.5,
+          "end": 2500.22,
+          "id": "card-10",
+          "english": "It's true, it's true. The Maxibon really is good. Because it's got everything. There's the crunch. Like those... No, it's so good. Call them up, I'm ready to do the ad whenever you want.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-10.mp3"
+        },
+        {
+          "italian": "Mi piace da Dio. È molto grande il magnum. Cioè deve avere tanta fame. Si quasi fa pranzo. Gli spiaggia magnum. Eh, l'hanno rimpicciolito. Aspetta, Letizia dice no.",
+          "start": 2500.26,
+          "end": 2508.3,
+          "id": "card-11",
+          "english": "I love it to death. The Magnum is really big. Like, you'd have to be really hungry. It's basically a full meal. 'Magnum on the beach.' Yeah, they made it smaller. Wait, Letizia says no.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-11.mp3"
+        },
+        {
+          "italian": "Eh, l'hanno rimpicciolito. È vero, è vero. Buono il magnum con quelle emozioni illimitate. Tipo quelli che in spiaggia dicono ah no, io pranzo solo con un gelato.",
+          "start": 2508.88,
+          "end": 2516.52,
+          "id": "card-12",
+          "english": "Yeah, they did shrink it. It's true, it's true. The Magnum's great, with that whole 'unlimited pleasure' vibe. Like those people at the beach who go, oh no, I just have an ice cream for lunch.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-12.mp3"
+        },
+        {
+          "italian": "Mai successo nella mia vita. Mangio un po' di frutta. Neanche per scherzo. Come quando vai in Brasile che ti danno l'açaí e ti dicono questo è un pranzo.",
+          "start": 2517.2,
+          "end": 2524.4,
+          "id": "card-13",
+          "english": "Never happened to me in my life. I'll eat some fruit. Not even as a joke. Like when you go to Brazil and they hand you açaí and tell you, this is lunch.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-13.mp3"
+        },
+        {
+          "italian": "Una fame dopo un'ora. Ora dobbiamo nominare tutti gli altri brand giusto per par condicio. Cosa abbiamo dimenticato? Io ho una classifica che include altri brand.",
+          "start": 2525.0,
+          "end": 2532.5,
+          "id": "card-14",
+          "english": "You're starving again an hour later. Now we've got to mention all the other brands, just to be fair to everyone. What have we forgotten? I've got a ranking that includes other brands.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-14.mp3"
+        },
+        {
+          "italian": "Terzo, secondo, primo posto, proprio tutte. La coppa del nonno. Non esiste nessun altro gelato per me. Eccezionale. Però sapeva di caffè. Sì, bellissima. Eh, sì, bellissima.",
+          "start": 2534.68,
+          "end": 2547.7,
+          "id": "card-15",
+          "english": "Third, second, first place, all of them. The Coppa del Nonno. For me, no other ice cream exists. Exceptional. But it tasted like coffee. Yeah, beautiful. Yeah, beautiful.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-15.mp3"
+        },
+        {
+          "italian": "Buona. In qualsiasi stagione dell'anno. Sì, confermo. Consiglio per gli amici fan della coppa del caffè. Dieci secondi al microonde. Ah, è vero. Una botta.",
+          "start": 2547.7,
+          "end": 2557.74,
+          "id": "card-16",
+          "english": "Great. Any time of year. Yeah, I second that. A tip for fellow fans of the coffee cup: ten seconds in the microwave. Oh, it's true. Total game-changer.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-16.mp3"
+        },
+        {
+          "italian": "Il Grand Soleil ve lo ricordate? Certo. Perché c'era la pubblicità Grand Soleil La viennetta non aveva I feel good, I feel fine No, quella è la coppa del nonno.",
+          "start": 2557.98,
+          "end": 2579.04,
+          "id": "card-17",
+          "english": "Do you remember the Grand Soleil? Of course. Because there was that ad — Grand Soleil, the Viennetta didn't have 'I feel good, I feel fine.' No, that's the Coppa del Nonno.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-17.mp3"
+        },
+        {
+          "italian": "Ah, brava, hai ragionato. Era la coppa del nonno. Grand Soleil Minchia, abbiamo un... Che pubblicità incredibili avevano i gelati. Pazzesco. E poi c'era quella trovata virale, non c'è tra quei gelati, quella della Grissin Bond che c'era il trend.",
+          "start": 2579.04,
+          "end": 2589.72,
+          "id": "card-18",
+          "english": "Ah, nice, you figured it out. It was the Coppa del Nonno. Grand Soleil — wow, we've got... What incredible ads ice cream brands used to have. Insane. And then there was that viral thing, not among those ice creams, the Grissin Bond one that had that whole trend.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-18.mp3"
+        },
+        {
+          "italian": "Grissin Bond Porca vacca, che trend. Grissin Bond Eh, sono quelle che devi camminare perché era rallentata No, che ridere. Grissin Bond, Grissin Bond. Non la sto a ridere, non la sto a ridere.",
+          "start": 2590.12,
+          "end": 2603.06,
+          "id": "card-19",
+          "english": "Grissin Bond — holy cow, what a trend. Grissin Bond — yeah, that's the one where you had to walk because it was slowed down. No, so funny. Grissin Bond, Grissin Bond. I can't stop laughing, I can't stop laughing.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-19.mp3"
+        },
+        {
+          "italian": "Vabbè, coppa del nonno epica. Niente sa di coppa del nonno. Niente, assolutamente nulla. L'altro giorno nella gelateria sotto casa mia c'era e io... No, taglia, taglia, taglia.",
+          "start": 2603.26,
+          "end": 2613.82,
+          "id": "card-20",
+          "english": "Anyway, the Coppa del Nonno is epic. Nothing tastes like the Coppa del Nonno. Nothing, absolutely nothing. The other day at the ice cream place near my place they had it and I... No, cut it, cut it, cut that.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-20.mp3"
+        },
+        {
+          "italian": "L'altro giorno... La prima volta in cui... No, aspetta, lo bippiamo. Ha detto il nome vero E non lo sapete. E noi lo sappiamo. E voi no.",
+          "start": 2614.8,
+          "end": 2624.38,
+          "id": "card-21",
+          "english": "The other day... The first time that... No wait, let's bleep that out. She said the real name. And you don't know it. And we know it. And you don't.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-21.mp3"
+        },
+        {
+          "italian": "Ha fatto un video Youtube facendo illudere tutti che l'avrebbe sperato e invece non l'ha fatto vedere. Ah, è perché prima mi dicono. Non ci siamo conti di niente.",
+          "start": 2624.86,
+          "end": 2630.46,
+          "id": "card-22",
+          "english": "She made a YouTube video that made everyone think she'd show him, and then she never actually showed him. Ah, that's because earlier they were telling me... We haven't figured any of this out.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-22.mp3"
+        },
+        {
+          "italian": "Perfetto. Perfetto. No. Non l'ho menzionato. No, quando stavi menzionando il... Ha detto comunque... Beh, Nation Island e l'hai ancora fatto vedere anche là e ha detto...",
+          "start": 2630.78,
+          "end": 2640.42,
+          "id": "card-23",
+          "english": "Perfect. Perfect. No. I didn't mention it. No, when you were mentioning the... She said anyway... Well, on Temptation Island she still didn't show him there either and she said...",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-23.mp3"
+        },
+        {
+          "italian": "Ah, dupatevi, brava Letty, brava. Vabbè, facciamo che lo doppiamo. Mi hanno accusato di clickbait perché non l'ho fatta vedere nel video Youtube. Ma io non ho detto vi faccio vedere il mio fidanzato.",
+          "start": 2640.76,
+          "end": 2649.88,
+          "id": "card-24",
+          "english": "Ah, dub it, nice one Letty, nice one. Okay, let's just dub over it. They accused me of clickbait because I didn't show him in the YouTube video. But I never said I'd show you my boyfriend.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-24.mp3"
+        },
+        {
+          "italian": "sei una cazzo di volp. Sei una cazzo di volp. Vecchia volp. Non l'ho letto, non lo faccio vedere. Ho detto parliamo d'amore e così ho fatto.",
+          "start": 2649.92,
+          "end": 2656.02,
+          "id": "card-25",
+          "english": "You're such a sly fox. You're such a sly fox. You old fox. I never said I'd show him, I'm not showing him. I said let's talk about love, and that's what I did.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-25.mp3"
+        },
+        {
+          "italian": "Vabbè, comunque c'era il gusto nella gelateria stato a casa con il mio parenone gli ho detto tu non conosci questo capolavoro artefatto dell'antichità devi assolutamente assaggiarlo e non l'abbiamo preso.",
+          "start": 2656.28,
+          "end": 2664.86,
+          "id": "card-26",
+          "english": "Anyway, so there was this flavor at the ice cream place — I was at home with my grandpa and I told him, you don't know this ancient masterpiece, you absolutely have to try it, and then we didn't even get it.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-26.mp3"
+        },
+        {
+          "italian": "Invece, virando sui gelati estivi artigianali il gusto puffo. Avete incrociato la vostra strada col gusto puffo? Da piccola l'ho assaggiato. Anch'io. Anni che non lo vedo.",
+          "start": 2665.16,
+          "end": 2674.56,
+          "id": "card-27",
+          "english": "Switching gears to summer artisanal ice cream flavors — the Smurf flavor. Have your paths ever crossed with Smurf flavor? I tried it as a kid. Me too. Haven't seen it in years.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-27.mp3"
+        },
+        {
+          "italian": "Mai assaggiato io. L'altro giorno a Pinocchio hanno parlato per mezz'ora di cosa sa il gusto puffo. Nessuno ha saputo dirlo. E' un fior di latte colorato secondo me.",
+          "start": 2674.68,
+          "end": 2682.6,
+          "id": "card-28",
+          "english": "Never tried it myself. The other day on Pinocchio they spent half an hour talking about what Smurf flavor actually tastes like. Nobody could say. I think it's just colored fior di latte.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-28.mp3"
+        },
+        {
+          "italian": "Sì, anche secondo me. No, ma ha un gusto particolare. Forse è l'anice? No, l'anice amarissima. Io una volta ho mangiato un ghiacciolo azzurro che era l'anice.",
+          "start": 2682.78,
+          "end": 2696.02,
+          "id": "card-29",
+          "english": "Yeah, I think so too. No, but it does have a distinct flavor. Maybe it's anise? No, anise is really bitter. I once had a blue popsicle that turned out to be anise.",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-29.mp3"
+        },
+        {
+          "italian": "No, il puffo è dolce dolcissimo, azzuccheratissimo. Vabbè se lo trovo lo prendo. E non lo so, che cosa prendi d'estate, che cono prendi? Allora io per anni da piccolo prendevo cioccolato e limone, una coppiata senza senso, ma mi piaceva un sacco Ma che roba da adulto proprio!",
+          "start": 2695.96,
+          "end": 2713.16,
+          "id": "card-30",
+          "english": "No, the Smurf one is sweet, really sweet, super sugary. Anyway, if I find it I'll get it. I don't know, what do you get in summer, what cone do you get? So for years as a kid I used to get chocolate and lemon, a completely nonsensical combo, but I loved it. What a totally grown-up thing to order!",
+          "audio": "audio/non-ho-mai/ep1/block-9/card-30.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-10",
+      "label": "45:00–50:00",
+      "cards": [
+        {
+          "italian": "Da bambino! Io prendevo cioccolato, anche fondente, però cioccolato e limone Che roba da adulto! Mamma mia! Però è molto democristiana come scelta perché lo porta a non decidere fra le creme e le frutte Perché sono due le tipologie di persone Allora, diciamo che ultimamente non lo prendo più, sono più crema che frutta, mettiamola così",
+          "start": 2713.5,
+          "end": 2730.9,
+          "id": "card-1",
+          "english": "As a kid! I used to get chocolate, even dark chocolate, but chocolate and lemon. What a grown-up thing! Oh my god! But it's a very wishy-washy choice, honestly, because it lets you avoid deciding between the creams and the fruits. Because there are two types of people. Well, let's say lately I don't get it anymore — I'm more of a cream person than a fruit person, let's put it that way.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-1.mp3"
+        },
+        {
+          "italian": "Però sì, ecco non mangio, ma per niente, un saluto dai miei amici di Bergamo, il fiordilatte Perché? Scusa, la stracciatella volevo dire Perché? Gusto definitivo?",
+          "start": 2731.16,
+          "end": 2740.6,
+          "id": "card-2",
+          "english": "But yeah, I don't eat it, not at all — shoutout to my friends from Bergamo, the fior di latte. Why? Sorry, I meant stracciatella. Why? The ultimate flavor?",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-2.mp3"
+        },
+        {
+          "italian": "No Ma come no? Per me no Sai che un gelataio una volta mi ha detto che il fiordilatte è il gusto per eccellenza Perché se il fiordilatte è buono capisci se il gelato è buono Perché è la base di tutti gli altri gelati",
+          "start": 2740.76,
+          "end": 2749.34,
+          "id": "card-3",
+          "english": "No. What do you mean no? For me, no. You know an ice cream maker once told me fior di latte is the flavor above all flavors. Because if the fior di latte is good, you know the whole ice cream is good. Because it's the base of every other flavor.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-3.mp3"
+        },
+        {
+          "italian": "Scusa, è la base di tutto con la croccantezza e il gusto del cioccolato, perfetto? La stracciatella no, non lo so Anche a me annoia un po' Parte che da bambino, secondo me in Puglia la stracciatella è un latticino E' vero Non capì da bambino",
+          "start": 2749.68,
+          "end": 2762.46,
+          "id": "card-4",
+          "english": "Sorry, it's the base of everything, with the crunch and the chocolate flavor — perfect, right? Stracciatella, no, I don't know. It bores me a bit too. Also, as a kid, in Puglia I think stracciatella is actually a dairy product. That's true. I didn't get it as a kid.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-4.mp3"
+        },
+        {
+          "italian": "E quindi cosa prendi? Crema cioccolato? Sì, no, adesso prendo cioccolate, creme, pistacchio Ma avete notato che il cioccolato al latte non c'è più? Fanno tutti solo il cioccolato fuso, il cioccolato di modica con sale, il cioccolato di stoccazzo con peperoncino Ma io volevo il cioccolato normale, scusate",
+          "start": 2762.92,
+          "end": 2777.12,
+          "id": "card-5",
+          "english": "So what do you get? Chocolate cream? Yeah, no, now I get chocolates, creams, pistachio. But have you noticed regular milk chocolate has basically disappeared? Everyone only does melted dark chocolate, Modica chocolate with salt, some spicy chocolate with chili. But I just wanted plain chocolate, sorry.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-5.mp3"
+        },
+        {
+          "italian": "C'è una gelateria a Milano, Massimo Certo, certo Ha una quantità di cioccolati incredibili Sono stata, buonissimo Buonissima, mi ce l'hanno portato di recente Perché sei per un cioccolato al latte tu?",
+          "start": 2777.12,
+          "end": 2788.3,
+          "id": "card-6",
+          "english": "There's an ice cream place in Milan, Massimo's. Sure, sure. They've got an insane amount of chocolate flavors. I've been, it's so good. So good, someone brought me some recently. So you're pro milk chocolate?",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-6.mp3"
+        },
+        {
+          "italian": "Sì Sì? Beh sì, anch'io Cioè dipende dai momenti Fondente non lo tocco Tu costi? Ma no fondente, ho più di sette anni Ok 70% di fondentezza, non tantissima La sabbia Non sono proprio, deve farmi male la vita Però devi godere quando ti mangi un gelato, se ti mangi una cosa mala",
+          "start": 2789.04,
+          "end": 2808.04,
+          "id": "card-7",
+          "english": "Yeah. Yeah? Well, yeah, me too. I mean, it depends on the moment. I don't touch dark chocolate. What about you, Costi? No dark chocolate, I'm over seven years old. Okay, maybe 70% cocoa, not super intense. Life doesn't have to be that hard. You've got to actually enjoy yourself when you eat ice cream — if you're eating something unpleasant...",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-7.mp3"
+        },
+        {
+          "italian": "Eh, capito, è una punizione Avete ragione E tu che gelato prendi Così? Nella categoria delle artigianali Sì, direi, allora, innanzitutto sono team creme Perché è vero che le frutte di seta non sono buone Però quello buono Ma sono?",
+          "start": 2808.04,
+          "end": 2821.8,
+          "id": "card-8",
+          "english": "Right, I get it, it's basically a punishment. You're right. So what ice cream do you go for? In the artisanal category? Yeah, I'd say — first of all, I'm team creams. Because it's true that fruit flavors aren't always great. But the good ones... but are they?",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-8.mp3"
+        },
+        {
+          "italian": "Esatto È la verità, è la verità Se sei una ragazza e prendi il gelato al frutto e dici che è buono sei a dieta Dai, palese È palese, è dieta I gelati buoni La copiata, nocciola pistacchio Un classico perfetto per tutte le stagioni",
+          "start": 2822.78,
+          "end": 2837.1,
+          "id": "card-9",
+          "english": "Exactly. That's the truth, that's the truth. If you're a girl and you get a fruit ice cream and say it's good, you're on a diet. Come on, it's obvious. It's obvious, it's a diet thing. The good ice creams — the classic, hazelnut and pistachio. A perfect classic for any season.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-9.mp3"
+        },
+        {
+          "italian": "Nocciola pistacchio Sì, sì Adoro menta choc Buonissimo Raga, questo mi ha fatto venire in mente un mio trauma passato Un giorno ho fatto un video TikTok dove ho detto Che gelati porto se vado a casa di qualcuno Raga, ve lo giuro, la gente nei commenti",
+          "start": 2837.38,
+          "end": 2853.34,
+          "id": "card-10",
+          "english": "Hazelnut, pistachio. Yeah, yeah. I love mint chocolate chip. So good. Guys, this just reminded me of a past trauma of mine. One day I made a TikTok video where I said, what ice cream do I bring if I'm going to someone's house. Guys, I swear, the people in the comments",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-10.mp3"
+        },
+        {
+          "italian": "Si ammazzava Isterica Fuori di te, non capisci un cazzo cogliona Sì, sì Perfetto, pronti per il prossimo reel Parliamone Ma infatti, grande tema che può essere sottovalutato Uno dice, avete fatto troppo da testiola parlando di gelati Allora, quando vai a casa di qualcuno",
+          "start": 2853.34,
+          "end": 2872.92,
+          "id": "card-11",
+          "english": "went absolutely nuts. Hysterical. Out of your mind, you don't understand a damn thing, idiot. Yeah, yeah. Perfect, ready for the next reel. Let's talk about it. But actually, this is a big topic that can get overlooked. Someone's like, you're overthinking this, it's just ice cream. So, when you go to someone's house—",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-11.mp3"
+        },
+        {
+          "italian": "È una roba seria Vai a casa di qualcuno, che vaschetta di gelato porti? Per accontentare tutti, pensavo io Tre gusti innanzitutto No dai, facciamo cinque Io ne porto sei Sei, va bene Mille Eh no, per accontentare tutti, metti che non piacciono Tre sono troppo pochi",
+          "start": 2873.52,
+          "end": 2888.22,
+          "id": "card-12",
+          "english": "It's a serious matter. You go to someone's house, what tub of ice cream do you bring? To make everyone happy, I thought — three flavors, to start. No, come on, let's say five. I bring six. Six, okay. A thousand. No wait, to make everyone happy, say they don't like some — three's too few.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-12.mp3"
+        },
+        {
+          "italian": "Io tre Quattro, dai, dai quattro in su Tre perché comunque il gelato a Milano se inizia a pagarlo costa l'ira di Dio Porca vacca, lascia stare Sono andato l'altro giorno giù alla gelateria della Martesan Questa la pippiamo Sì, ma poi hai notato, quando ti fanno vedere la vaschetta così da lontano",
+          "start": 2888.22,
+          "end": 2901.76,
+          "id": "card-13",
+          "english": "I do three. Four, come on, four and up. Three, because ice cream in Milan, once you actually start paying for it, costs an arm and a leg. Holy cow, don't even get me started. I went the other day down to the Martesana ice cream place. Let's bleep this one out. Yeah, but have you noticed, when they show you the tub from far away",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-13.mp3"
+        },
+        {
+          "italian": "Sembra sempre minuscola Io non voglio fare la figura della piacciona E quindi dico sempre, no, è troppo piccola Un chilo Poi arrivo, la mettono sul tavolo e dico Ah, ammazza era veramente Ma sono 78 milanze Esatto Poi sono sempre ventiano e dico, ah ok, per due, vabbè",
+          "start": 2901.76,
+          "end": 2914.56,
+          "id": "card-14",
+          "english": "it always looks tiny. I don't want to come across as a suck-up, so I always say, no, that's too small, give me a kilo. Then it arrives, they put it on the table and I go, whoa, that's actually huge. But it's like 78 euros, Milan prices. Exactly. And then it always turns out to be like twenty euros and I go, ah okay, for two people, fine.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-14.mp3"
+        },
+        {
+          "italian": "Va bene comunque Allora, che gelati porti? Che gusti porti? Un cioccolato, per far contenti tutti Un cioccolato Un frutto perché, per far contenti tutti Non tipo melone, occhio, perché poi c'è chi è allergico Poi porti un gusto fighetto, tipo il pistacchio Che ci vuole",
+          "start": 2914.56,
+          "end": 2930.02,
+          "id": "card-15",
+          "english": "It's fine anyway. So, what ice cream do you bring? What flavors? A chocolate, to make everyone happy. A chocolate. A fruit one, because, to make everyone happy — not melon, though, watch out, because some people are allergic. Then you bring a fancy flavor, like pistachio. Standard.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-15.mp3"
+        },
+        {
+          "italian": "Oddio, c'è anche di più fighetto Dici che è fighetto ancora il pistacchio? Ma adesso, cazzo, cioè Eri rivoluzionario se lo prendevi nel 2006 Oggi che te lo infilano pure nel Qual è il gusto hipster di oggi?",
+          "start": 2930.02,
+          "end": 2939.16,
+          "id": "card-16",
+          "english": "Oh my god, there's even fancier stuff out there. You're saying pistachio's still fancy? But nowadays, come on, I mean — you were a revolutionary if you got it back in 2006. These days they stuff it into everything. What's today's hipster flavor?",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-16.mp3"
+        },
+        {
+          "italian": "È tipo croccante Tipo il fico caramellato Il fico Stringiamoci la mano a distanza Hai ragione, scusami Il fico Io manco li guardo quei gusti Hai ragione, il fico caramellato per il gusto hipster E crema, frutta, cosa E poi una nocciola Sì Sì, la nocciola secondo me sta sempre bene",
+          "start": 2939.22,
+          "end": 2956.64,
+          "id": "card-17",
+          "english": "It's like crunchy stuff. Like caramelized fig. Fig. Let's shake hands from a distance. You're right, my bad. Fig. I don't even look at those flavors. You're right, caramelized fig for the hipster flavor. And cream, fruit, whatever. And then a hazelnut. Yeah. Yeah, hazelnut always works, in my opinion.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-17.mp3"
+        },
+        {
+          "italian": "La nocciola Il gusto nutella è il più buono di tutti comunque Certo, siamo d'accordo, è una bomba pazzesca Gusto nutella proprio Quello lo porti i suoi amici bene Me lo iniescerei nelle vene Troppo di nicchia, troppo di nicchia E poi sapete che non sono un grande fan del gelato",
+          "start": 2956.64,
+          "end": 2968.14,
+          "id": "card-18",
+          "english": "Hazelnut. The Nutella flavor is honestly the best of all. Sure, we agree, it's an absolute bomb. Straight-up Nutella flavor. That's the one you bring to actually please people. I'd inject it straight into my veins. Too niche, too niche. And you know, I'm actually not a huge ice cream fan.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-18.mp3"
+        },
+        {
+          "italian": "Cioè, nel senso, lo mangio Però io conosco persone che in estate Ma anche in inverno a casa Hanno sempre la vaschetta di gelato Devono mangiarla sempre Tutti i giorni, io?",
+          "start": 2968.14,
+          "end": 2976.94,
+          "id": "card-19",
+          "english": "I mean, I eat it. But I know people who, in summer, but even in winter, at home, always have a tub of ice cream. They need to eat it constantly, every day. Me?",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-19.mp3"
+        },
+        {
+          "italian": "Io no Quelli confezionati Cioè io lo mangio tipo in vacanza o... Io se mi sposo faccio la torta gelata, ve lo dico Fantastico Voi siete molto più fan di me Cioè io ne faccio un po' così La rampa del nonno Ah no No",
+          "start": 2977.26,
+          "end": 2988.38,
+          "id": "card-20",
+          "english": "Not me. The packaged ones. I mean, I eat it like on vacation, or... If I ever get married, I'm having an ice cream cake, I'm telling you now. Amazing. You two are way bigger fans than I am. I mean, I just kind of dabble. The Coppa del Nonno — oh no. No.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-20.mp3"
+        },
+        {
+          "italian": "Con il congellone Grissimbon, grissimbon, grissimbon Il gran sole E l'abbuntata estiva, siamo felici! Ciao a tutti, alla prossima! Non è finita, no? No, non è finita Volevo creare un po' di disagio in questo genere Comunque niente, non mi ricordo cosa avevo detto in sta vaschetta",
+          "start": 2988.92,
+          "end": 3006.22,
+          "id": "card-21",
+          "english": "With the big freezer, Grissin Bond, Grissin Bond, Grissin Bond. The Grand Soleil. And with our summer episode wrapped up, we're happy! Bye everyone, see you next time! It's not over, right? No, it's not over. I just wanted to create a bit of awkward tension there. Anyway, never mind, I don't even remember what I said about this ice cream tub.",
+          "audio": "audio/non-ho-mai/ep1/block-10/card-21.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-11",
+      "label": "50:00–55:00",
+      "cards": [
+        {
+          "italian": "Mi hanno devastata, ho cancellato il video Sai chi sono questi? Quelli che portano il gusto yogurt Sicuro Brava Sicuro, sono quelli lì Che comunque, se posso per me, è terminato che l'ho preso per cent'anni E cioccolato yogurt ti dà la dolcezza e l'acidità",
+          "start": 3006.22,
+          "end": 3021.22,
+          "id": "card-1",
+          "english": "They wrecked me, I deleted the video. You know who these people are? The ones who bring yogurt flavor. Definitely. Nice one. Definitely, that's them. Which, if I can say — personally, it's over, I used to get it for years. And chocolate-yogurt gives you the sweetness and the tartness.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-1.mp3"
+        },
+        {
+          "italian": "E poi però ne sei uscita Sì, però posso dire che... Però è perfetto se ci pensi Io comunque prendo cioccolato Cioccolato, fior di latte o stracciatella e fragola Perché ho la frutta, la crema pesante e la crema leggera Giusto? Mi piace, bella chiamata",
+          "start": 3021.28,
+          "end": 3038.4,
+          "id": "card-2",
+          "english": "And then you got over it? Yeah, but I can say that... But it's actually perfect if you think about it. I still get chocolate. Chocolate, fior di latte or stracciatella, and strawberry. Because then I've got the fruit, the heavy cream, and the light cream. Right? I like it, good call.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-2.mp3"
+        },
+        {
+          "italian": "Bella Tu Claudione che gusti porti e quindi? Sì, più o meno un cioccolato, una frutta Io ne ho portato tre perché ho detto che comunque Non voglio spentere, no sto scherzando Io lo riduco a tre Cioccolato, frutto e uno un po' più fighetto",
+          "start": 3038.4,
+          "end": 3054.12,
+          "id": "card-3",
+          "english": "Nice. What about you, big Claudio, what flavors do you bring? Yeah, more or less a chocolate, a fruit. I brought three because I figured, anyway... I don't want to overdo it — no, I'm joking. I keep it to three. Chocolate, fruit, and one a bit fancier.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-3.mp3"
+        },
+        {
+          "italian": "Un pistacchio Sì, un pistacchio tipo di... Bronte Perché poi c'è uno dove... Perché quello è lo stagio Ma com'è possibile che tutto il pistacchio venga da quel cazzo di posto in Sicilia?",
+          "start": 3054.12,
+          "end": 3064.66,
+          "id": "card-4",
+          "english": "A pistachio. Yeah, a pistachio, like from... Bronte. Because then there's one where... Because that's the real deal. But how is it possible that all the pistachio in the world comes from that one place in Sicily?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-4.mp3"
+        },
+        {
+          "italian": "Ma non è possibile come le acciughe del Cantabrico Ma comunque vogliamo parlare delle file fuori dalla gelateria a Milano? Certo Tutto a posto? Certo Ciacco, quello in fondo a Bielebligni Sì, Romana Ma che è?",
+          "start": 3064.66,
+          "end": 3076.44,
+          "id": "card-5",
+          "english": "It's like the anchovies from the Cantabrian Sea — makes no sense. But anyway, should we talk about the lines outside ice cream shops in Milan? Sure. Everything okay? Sure. Ciacco, that one at the end of Buenos Aires. Yeah, on via Romana. What's that about?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-5.mp3"
+        },
+        {
+          "italian": "Sì State calmi Eh vabbè ma perché d'estate... Vabbè Per chi rimane in città Esatto ma... È il place to be, la gelateria dopo cena Ma scusa C'è anche uno qua dietro molto buono Vabbè, diciamo Sempre per far arrabbiare il popolo del web Sì",
+          "start": 3077.56,
+          "end": 3090.94,
+          "id": "card-6",
+          "english": "Yeah. Stay calm. Well, but why in summer... Well, for people who stay in the city. Exactly, but... It's the place to be, the ice cream shop after dinner. But wait, there's also a really good one right behind here. Well, let's say — always to make the internet mad. Yeah.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-6.mp3"
+        },
+        {
+          "italian": "Prendiamo delle posizioni nette Ah Il tè freddo alla pesca o al limone? Ah non è un'altra carta No, è Costanza che vuole... Il tè freddo alla pesca o al limone?",
+          "start": 3090.94,
+          "end": 3102.6,
+          "id": "card-7",
+          "english": "Let's take some firm stances. Ah. Peach iced tea or lemon? Ah, not another one of these. No, it's Costanza who wants... Peach iced tea or lemon?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-7.mp3"
+        },
+        {
+          "italian": "Ah, il tè freddo Ovviamente facciamo così, diciamolo al mio tre Sì E vediamo se è la stessa Devi dire o pesca o limone Ah, va bene Ok No ti deluderò, vai Ok, ovviamente il tè freddo si beve a...",
+          "start": 3103.6,
+          "end": 3114.96,
+          "id": "card-8",
+          "english": "Ah, iced tea. Obviously let's do this — we'll say it on the count of three. Yeah. And let's see if we match. You have to say either peach or lemon. Ah, okay. Okay. I won't let you down, go. Okay, obviously iced tea gets drunk at...",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-8.mp3"
+        },
+        {
+          "italian": "Uno, due, tre Limone Pesca Eccoci qua Grande Grande Tu pesca di satana come me Mi fa cagare quello al limone Finalmente Mi è mai piaciuto Ovviamente stiamo parlando di quel noto marchio Certamente La cui crasi è...",
+          "start": 3115.56,
+          "end": 3129.78,
+          "id": "card-9",
+          "english": "One, two, three. Lemon. Peach. There we go. Nice. Nice. You're a peach-loving devil like me. Lemon flavor is trash. Finally. Never liked it. Obviously we're talking about that well-known brand. Of course. Whose blended name is...",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-9.mp3"
+        },
+        {
+          "italian": "È state tu È restate con noi Esatto Oh, eh lo so che sbaglio Ma non mi piace al limone Nel bricchettino No A parte che quel bagaglio lì nel bricchettino Vabbè, oramai è anacronistico Mamma mia, quanto zu Perché bagaglio?",
+          "start": 3129.78,
+          "end": 3140.26,
+          "id": "card-10",
+          "english": "It's you, Estathé. Stay with us. Exactly. Oh, yeah I know it's wrong of me, but I don't like the lemon one in the little juice box. No — besides, that stuff in the little box, well, it's outdated by now. Oh my god, so much sugar. Why do you call it that?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-10.mp3"
+        },
+        {
+          "italian": "Scusa, è un termine di parma, quell'affare Però giustamente lo bevi a 14 anni Stavo per dire Vabbè, ti piace È un po' una Madeleine E nei ricordi De Bruste, la sapete questa citazione?",
+          "start": 3140.56,
+          "end": 3150.78,
+          "id": "card-11",
+          "english": "Sorry, that's a Parma term for that thing. But yeah, you drink it when you're 14. I was about to say — well, you like it, it's a bit of a Proustian madeleine, a trip down memory lane. Do you all know that reference?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-11.mp3"
+        },
+        {
+          "italian": "Se no la sapete Sapetela Esatto Tu limone Perché c'è quelli del tè al limone Sono quelli che dicono che sono i puristi del tè Sì, sì Oh raga, la pesca per me è troppo Troppo cosa?",
+          "start": 3150.94,
+          "end": 3163.78,
+          "id": "card-12",
+          "english": "If you don't know it, now you know it. Exactly. You're a lemon person. Because there are the lemon tea people, and they're the ones who say they're the tea purists. Yeah, yeah. Oh guys, peach is too much for me. Too much what?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-12.mp3"
+        },
+        {
+          "italian": "Troppo dolce È perché al limone no Mmm Sta affogato nello zucchero Mmm Il limone è più Il limone si dà un tono Costanza di come?",
+          "start": 3163.84,
+          "end": 3171.62,
+          "id": "card-13",
+          "english": "Too sweet. And lemon isn't? Mmm, it's drowning in sugar. Mmm. Lemon is more... lemon comes across as more refined, Costanza, in what sense?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-13.mp3"
+        },
+        {
+          "italian": "Il limone si dà un tono No, pesca Ah, pesca? Io ti imbesso di satana Daniele? Più radica la pesca Dai, diciamolo Io, cioè No, no, no Pesca o limone Eh no, qua bisogna prendere una posizione Anche Claudio l'ha presa Limone Limone, due pari",
+          "start": 3171.62,
+          "end": 3185.24,
+          "id": "card-14",
+          "english": "Lemon comes across as more refined. No, peach. Ah, peach? Daniele, I'll drown you in devil-peach juice. Peach is more grounded. Come on, let's just say it. I mean, no, no, no. Peach or lemon. No, here you've got to take a stance. Claudio's already taken his. Lemon. Lemon, tied two-two.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-14.mp3"
+        },
+        {
+          "italian": "Letizia? Pesca? Cazzo tre due? Pesca Mamma mia Incredibile Incredibile Netta minoranza Netta minoranza Vince la pesca Il podcast che vorrei Lo sapevo Vabbè Non ho mai Aspettate un attimo Ho avuto un momento Non ho mai trascorso Un'estate A Milano Questa è la carta",
+          "start": 3185.24,
+          "end": 3205.04,
+          "id": "card-15",
+          "english": "Letizia? Peach? Damn, three-two? Peach. Oh my god. Unbelievable. Unbelievable. Clear minority. Clear minority. Peach wins. The podcast I've always wanted. I knew it. Well — wait a second, I just had a moment. I've never spent a summer in Milan. This is the card",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-15.mp3"
+        },
+        {
+          "italian": "Che Costanza secondo me Ha scritto pensando Alla persona seduta Alla tua destra Perché Giulia È partita il tour È un gran tour L'abbiamo intercettata L'abbiamo L'abbiamo detto Rimani qui questo giorno a Milano Sei mesi fa Gli abbiamo detto Abbiamo parlato con la Martina",
+          "start": 3205.04,
+          "end": 3220.12,
+          "id": "card-16",
+          "english": "that, in my opinion, Costanza wrote thinking about the person sitting to your right. Because Giulia's been on tour, a huge tour. We intercepted her. We told her — stay here in Milan on this day. Six months ago, we told her. We talked to Martina about it.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-16.mp3"
+        },
+        {
+          "italian": "Non sai di la sua gente Abbiamo detto Oh Marti Ci puoi bloccare Giulia Perché lei Se il suo tour riesce di nuovo A rincrociarvi alla cena Per sbaglio Sì, perché purtroppo No, l'estate a Milano Ma manco Aspetta, per l'estate si chiama agosto?",
+          "start": 3220.12,
+          "end": 3230.64,
+          "id": "card-17",
+          "english": "You have no idea about her people. We said, hey Marti, can you block off Giulia's schedule — because if her tour happens to cross paths with dinner by accident... Yeah, because unfortunately... No, summer in Milan, not even. Wait, does summer just mean August here?",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-17.mp3"
+        },
+        {
+          "italian": "Agosto, sì Perché comunque vabbè Giugno e luglio Sì, ovvio Diciamo Che non sei mai andato via Anch'io ho lavorato in passato Sì, però Per motivi economici Lavorativi Di esami università C'è gente che No, è vero, è vero Ti spacchi un piede Diciamo all'estate",
+          "start": 3230.74,
+          "end": 3244.2,
+          "id": "card-18",
+          "english": "August, yeah. Because anyway, well, June and July, yeah, obviously — let's say you've never actually left. I've worked in the past too, yeah, but for financial reasons, work reasons, university exams. There's people who — no, it's true, it's true — you break your foot, let's say, in summer",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-18.mp3"
+        },
+        {
+          "italian": "Ti spacchi un piede Che non ti fai le vacanze L'estate in città volevo dire L'estate in città Beh, sì, sì, no Fatto, certo, per carità Nel senso, poi non tutta l'estate Però La maggior parte Sento tanta gente dire Tra cui il mio fidanzato",
+          "start": 3244.2,
+          "end": 3255.2,
+          "id": "card-19",
+          "english": "and don't get to go on vacation. I meant summer in the city. Summer in the city. Well, yeah, yeah, no, done it, sure, for real. I mean, not the whole summer, but most of it. I hear a lot of people say, including my boyfriend—",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-19.mp3"
+        },
+        {
+          "italian": "Guarda che agosto a Milano È bellissima Si sta da Dio C'ha una pace incredibile Al che io gli faccio come la Leti What? Maccarè Maccarè Ma che cazzo No Allora, ti do il mio parere Da persona che Ha collezionato Forse almeno Cinque Agosti",
+          "start": 3255.2,
+          "end": 3271.8,
+          "id": "card-20",
+          "english": "Look, August in Milan is beautiful, it's amazing, it's got this incredible calm to it. And I respond, just like Leti — what? What the hell? What the hell? No. Okay, let me give you my take, as someone who's clocked, I'd say, at least five Augusts",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-20.mp3"
+        },
+        {
+          "italian": "A Milano Almeno per un Quantitativo di tempo Superiore alle Due settimane Si declinano i mesi? Al plurale? Si declinano 5 agosto Come al solito Le risposte in questo podcast Arrivano con molte risate Vabbè Nel dubbio Mi ridoppio Nella versione Definitiva del podcast Ci sono io che faccio",
+          "start": 3271.8,
+          "end": 3287.56,
+          "id": "card-21",
+          "english": "in Milan, for at least a stretch of time longer than two weeks. Do months even take a plural? Do they? Five Augusts. As usual, the answers on this podcast come wrapped in a lot of laughing. Anyway, when in doubt, I dub myself over in the final version of the podcast, where it's me doing",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-21.mp3"
+        },
+        {
+          "italian": "Agosti Ma dico agosto Così facciamo Finta Per un periodo di tempo Dicevo superiore Alle due settimane Perché ovvio che Insomma così Allora All'inizio Rosicavo Ti dico la verità Nel senso che Per lavoro Io sono qua perché Faccio il mestiere Allo speaker radiofonico E la radio non si ferma mai",
+          "start": 3287.64,
+          "end": 3303.56,
+          "id": "card-22",
+          "english": "the 'Augusts.' But I'll just say August, let's pretend, for a stretch of time — I said, more than two weeks. Because obviously, well, anyway. So, at first, I was bitter about it, I'll be honest with you. Because for work — I'm here because my job is being a radio host, and radio never stops.",
+          "audio": "audio/non-ho-mai/ep1/block-11/card-22.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-12",
+      "label": "55:00–60:00",
+      "cards": [
+        {
+          "italian": "E quindi ad agosto Lavoro Tra l'altro più degli altri Mesi dell'anno Ma Con gli anni Ho imparato Ad apprezzare una cosa E cioè In effetti che Se sai come muoverti Se sai dove andare Se sai cosa fare Milano Non è O comunque la città",
+          "start": 3303.56,
+          "end": 3318.8,
+          "id": "card-1",
+          "english": "So in August I work, actually more than in other months of the year. But over the years, I've learned to appreciate one thing — which is, if you know how to get around, if you know where to go, if you know what to do, Milan isn't... or at least the city...",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-1.mp3"
+        },
+        {
+          "italian": "Poi noi parliamo di Milano Perché viviamo qui Non è Una catastrofe Mettiamola così Certo Mi vuoi chiedere Preferiresti stare In un altro posto E fare il tuo lavoro Piuttosto che stare a Milano La risposta è Sì Ovviamente Tuttavia Quello che io demonizzavo Come",
+          "start": 3318.8,
+          "end": 3334.4,
+          "id": "card-2",
+          "english": "We're talking about Milan because we live here. It's not a catastrophe, let's put it that way. Sure. You want to ask me, would you rather be somewhere else doing your job than being in Milan? The answer is yes, obviously. However, the thing I used to demonize as...",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-2.mp3"
+        },
+        {
+          "italian": "Uno dei mali Di vivere del mondo Quello di dover trascorrere Il mese estivo In agosto a Milano Sai perché? Puoi andare via da Milano Ecco Anche per brevi periodi No no Sto scherzando Era per dire che Allora innanzitutto Io non è che mi muovo",
+          "start": 3334.68,
+          "end": 3350.14,
+          "id": "card-3",
+          "english": "one of the worst things about living in this world — having to spend the summer month of August in Milan. You know why? You can leave Milan, even for short stretches. No, no, I'm joking. What I meant was — well first of all, it's not like I get around...",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-3.mp3"
+        },
+        {
+          "italian": "In macchina più di tanto Però Il fatto di poter arrivare Qua sotto e Nemmeno parcheggiarla Metto in folle Mi butto fuori Aspetto che la macchina Si fermi Facciamo una bella lista Di aspetti positivi Dello Stato di Milano C'è parcheggio ovunque Fate pure Non c'è traffico",
+          "start": 3350.14,
+          "end": 3363.74,
+          "id": "card-4",
+          "english": "by car all that much. But being able to just pull up here and not even park it — I put it in neutral, I jump out, I wait for the car to stop. Let's make a nice list of the positives of Milan in this state. There's parking everywhere, go ahead. No traffic.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-4.mp3"
+        },
+        {
+          "italian": "C'è parcheggio Non c'è gente A meno che non vai Nelle zone turistiche Non c'è gente Certo Stai per i cazzi tuoi Sei tutto chiuso Quindi devi camminare tantissimo Per trovare un posto aperto Ecco L'unica cosa un po' Un'altra di cazzo Ma questo lo devi sapere",
+          "start": 3363.74,
+          "end": 3376.02,
+          "id": "card-5",
+          "english": "There's parking. There's no people, unless you go into the touristy areas, no people. Sure. You just mind your own business. Everything's closed, so you end up having to walk forever to find a place that's actually open. That's the one downside — a real pain, but you have to know that going in.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-5.mp3"
+        },
+        {
+          "italian": "E' per dire Le farmacie Io una volta Quattro anni fa Ad agosto Avevo bisogno Di un farmaco Poi gli amici Non c'è nessuno E io però Ho la fortuna Di avere un po' di amici Agostani Agostani qui a Milano Quindi in realtà Ho un po' rivalutato",
+          "start": 3376.02,
+          "end": 3390.72,
+          "id": "card-6",
+          "english": "Just to give an example, pharmacies — once, four years ago, in August, I needed some medicine, and there was nobody around, my friends were all gone. But I'm lucky enough to have a few 'August friends,' people who stay in Milan in August. So actually, I've come around a bit on this.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-6.mp3"
+        },
+        {
+          "italian": "Non è Ripeto Ci stai provando No Probabilmente la volpe Quando arriva Non ha l'uva Dice cacerba Comunque a luglio Fa spesso più caldo Che ad agosto O sbaglio Ma infatti scusate Vorrei fare una classifica Improvvisata Visto che abbiamo giocato Le classifiche prima Ponendo che i mesi estivi",
+          "start": 3390.72,
+          "end": 3407.28,
+          "id": "card-7",
+          "english": "It's not — I repeat — you're just trying to sell it. No, probably it's like the fox and the grapes: when she can't reach them, she says they're too sour anyway. Anyway, in July it's often hotter than in August, or am I wrong? But actually, sorry, I'd like to do an impromptu ranking, since we already did rankings earlier — assuming the summer months",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-7.mp3"
+        },
+        {
+          "italian": "Sono tre Cioè giugno, luglio, agosto Maggio e settembre Li leviamo da questa cosa Mi metti Mi fai la top 3 Dei tuoi tre mesi preferiti Dell'anno?",
+          "start": 3407.28,
+          "end": 3415.2,
+          "id": "card-8",
+          "english": "are three — June, July, August. Let's leave May and September out of this. Can you give me — give me your top 3 of your three favorite months of the year?",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-8.mp3"
+        },
+        {
+          "italian": "No Dei tuoi tre mesi preferiti Di questi tre Dell'estate Mi fai la top 3 Ho parlato in italiano oppure Scusami però sai che Io svengo Lei si dimentica delle cose Sì ho capito Giugno Primo Perché io adesso ci ho pensato Giugno Primo Luglio",
+          "start": 3415.44,
+          "end": 3427.48,
+          "id": "card-9",
+          "english": "No, your three favorite months, out of these three summer ones. Give me the top 3. Was I speaking Italian or what? Sorry, but you know, I faint, she forgets things. Yeah, I got it. June, first. Because, having thought about it now — June, first. July,",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-9.mp3"
+        },
+        {
+          "italian": "Secondo Agosto Terzo Ok Perché giugno Comincia Quindi sei felice Non fa ancora Caldissimissimissimo Ma fa caldo E hai ancora Tanto tempo davanti Sei felice Luglio come secondo Perché fa un po' più caldino A volte non si dorme di notte Però è ancora bello",
+          "start": 3427.48,
+          "end": 3444.02,
+          "id": "card-10",
+          "english": "second. August, third. Okay, why June? It's the start, so you're happy. It's not blazing hot yet, but it is warm, and you've still got a ton of time ahead of you, you're happy. July as second, because it's a bit hotter, sometimes you can't sleep at night, but it's still nice.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-10.mp3"
+        },
+        {
+          "italian": "C'è ancora la gente in città Vedi i tuoi amici Agosto è bello Perché fai la vacanzona Almeno per quanto mi riguarda Però sta già finendo Eh E c'ho l'angoscio Ma infatti io guarda Ti dico così Siccome le classifiche di nuovo Si fanno dal terzo posto",
+          "start": 3444.02,
+          "end": 3455.0,
+          "id": "card-11",
+          "english": "There's still people in the city, you see your friends. August is nice because you take your big vacation, at least as far as I'm concerned, but it's already ending, and that gives me anxiety. Actually, look, I'll tell you — since rankings, again, always start from third place—",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-11.mp3"
+        },
+        {
+          "italian": "Ah sì Vabbè ma questo Al terzo posto Agosto Eh beh lavori Sì ma poi perché appunto Costa tutto tanto Sinceramente E poi come dici tu Le giornate Già iniziano ad accorciarsi L'estate sta finendo Un anno se ne va Sto diventando grande Lo sai che non",
+          "start": 3455.0,
+          "end": 3471.64,
+          "id": "card-12",
+          "english": "Ah, yeah, well, this — third place, August. Well, you're working. Yeah, but also because, exactly, everything gets so expensive, honestly. And then, like you said, the days are already starting to get shorter, summer's ending, a year is going by, I'm getting older, you know that—",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-12.mp3"
+        },
+        {
+          "italian": "E se lo sta finendo Eh non la so Mi va Mi va Mi va Scusate Scusate Scusate Scusate Scusate Scusate Secondo giugno Perché comunque È il mese in cui inizia tutto Eh Il primo mare Eh Costanza che sviene E tutto quanto Primo luglio",
+          "start": 3472.3,
+          "end": 3488.0,
+          "id": "card-13",
+          "english": "And if it's ending — eh, I don't know, whatever, whatever, whatever. Sorry, sorry, sorry, sorry, sorry, sorry. Second, June. Because, anyway, it's the month everything starts — the first trip to the sea, Costanza fainting, all of that. First, July.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-13.mp3"
+        },
+        {
+          "italian": "Primo luglio Che te ne fai? Perché luglio è Il centro dell'estate Il mese Rischio Hai ragione In Calabria il maestrale Hai ragione Una sera freschino Hai ragione Luglio perfetto Fa buio tardi Fa caldo Sei nel pieno dell'estate Hai ancora tanto Quindi non hai il pensiero",
+          "start": 3488.0,
+          "end": 3510.18,
+          "id": "card-14",
+          "english": "What do you make of that? Because July is right in the middle of summer, the — risk month. You're right, in Calabria, the maestrale wind. You're right, a cool little evening. You're right. July, perfect. It gets dark late, it's hot, you're right in the thick of summer, you've still got plenty of time left, so you don't have the anxiety",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-14.mp3"
+        },
+        {
+          "italian": "Che l'estate sta finendo Infatti io da anni Le vacanze Quelle grosse Le faccio sempre a luglio Perché per me Agosto lavori Sì Vabbè a parte per quello Costi quest'anno Trasloc Io ho una bella estate di merda A Milano Proprio il motivo Per cui ho fatto questa carta",
+          "start": 3510.18,
+          "end": 3524.56,
+          "id": "card-15",
+          "english": "of summer ending. In fact, for years now, I've always taken my big vacation in July, because for me August means work. Yeah, well, apart from that — this year, Costi, you're moving. I'm having a lovely crap summer here in Milan. Which is exactly the reason I made this card.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-15.mp3"
+        },
+        {
+          "italian": "Ma non puoi farla a settembre Il trasloco Per una serie di cose Molto noiose A spiegare in un podcast Purtroppo dobbiamo farlo ad agosto Vuoi mettere E parcheggiare Il camion del trasloco Sotto perché c'è parco Conto i giorni E i minuti Che mancano",
+          "start": 3524.56,
+          "end": 3537.02,
+          "id": "card-16",
+          "english": "But can't you move in September? For a bunch of boring reasons that would take too long to explain on a podcast, unfortunately we have to do it in August. And imagine parking the moving truck right outside because there's parking. I'm counting the days and the minutes left",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-16.mp3"
+        },
+        {
+          "italian": "A quel momento Non vedo l'ora Vabbè ma scusa Quanto ci vuoi trasgare un giorno? Ma sì però robe Case Consegne di robe Vabbè robe di vita vera Che succedono Va bene così Non c'è trago trasloco C'era una canzone Quando ero bambino Di Alex Britt",
+          "start": 3537.02,
+          "end": 3549.86,
+          "id": "card-17",
+          "english": "until that moment, I can't wait. Okay but wait, how long does a move even take, a single day? Well yeah, but there's stuff — house stuff, deliveries of things, well, real-life stuff that just happens. It is what it is, no dragging out the move. There was a song when I was a kid, by Alex Britti,",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-17.mp3"
+        },
+        {
+          "italian": "Che si chiamava Notte di mezz'estate Non so se ve la ricordate Bella per i rotti Cioè notte Di mezz'estate Ok va bene Sì sì sì ce l'ho E io mi ricordo Che la sentivo sempre La notte del 15 luglio Perché per me Era la mezza dell'estate",
+          "start": 3549.86,
+          "end": 3563.36,
+          "id": "card-18",
+          "english": "called 'Midsummer Night.' I don't know if you remember it, great for people my age. So, 'Midsummer Night.' Okay, fine. Yeah, yeah, yeah, I remember it. And I remember I'd always listen to it on the night of July 15th, because for me that was the exact middle of summer.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-18.mp3"
+        },
+        {
+          "italian": "E me la pompavo Tipo Col mio mp3 E facevo Notte E piangevo Perché era la mezza dell'estate Ma scusate Volevo condividere Su Claudio Ok Qual è la tua canzone Dell'estate di quest'anno?",
+          "start": 3563.36,
+          "end": 3574.58,
+          "id": "card-19",
+          "english": "And I'd blast it, like, on my mp3 player, and it'd be nighttime and I'd cry, because it was the exact middle of summer. But sorry, I wanted to move on — Claudio, okay, what's your song of the summer this year?",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-19.mp3"
+        },
+        {
+          "italian": "Splendida domanda Allora Sai che Forse Non lo so Allora Beh Samurai Jay L'hai forse anche intercettato tu Sta conquistando il mondo Come fa? Ossessione È quella di Sanremo Ma adesso c'è Flamenco Paranoia Ah no Quella mi manca E come fa?",
+          "start": 3575.38,
+          "end": 3594.36,
+          "id": "card-20",
+          "english": "Great question. Well, you know, maybe, I don't know. Well — 'Samurai Jay.' Maybe you've caught it too, it's taking over the world. How does it go? 'Ossessione,' that's the one from Sanremo. But now there's 'Flamenco Paranoia.' Ah no, I don't know that one. How does it go?",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-20.mp3"
+        },
+        {
+          "italian": "Eh aspetta Perché non mi viene Ossessione Flamenco Non me la ricordo No Raga ma perché io Io non l'ho mai sentita. Come cazzo fa? Flamenco paranoia. Aspetta, porca miseria, non me la sto ricordando. Mai sentito nominare, ma chi è Flamenco paranoia? La stiamo passando in radio in questi giorni, ah.",
+          "start": 3594.88,
+          "end": 3607.18,
+          "id": "card-21",
+          "english": "Eh, wait, I can't remember it. 'Ossessione.' 'Flamenco'... I can't remember it. No, guys, but I've genuinely never heard it. How the hell does it go? 'Flamenco Paranoia.' Wait, damn it, I really can't remember it. Never even heard of it — who's this 'Flamenco Paranoia'? We've been playing it on the radio lately, ah.",
+          "audio": "audio/non-ho-mai/ep1/block-12/card-21.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-13",
+      "label": "60:00–65:00",
+      "cards": [
+        {
+          "italian": "Flamenco paranoia. Va beh, ok. No, di quest'estate non lo so. Io ti posso dire quella di tutti i tempi. Vai. Cioè, o meglio, di quando vivevo l'estate. Vai, tanto mi fa schifo, dilla.",
+          "start": 3608.86,
+          "end": 3616.68,
+          "id": "card-1",
+          "english": "'Flamenco Paranoia.' Okay, well, fine. No, for this summer I don't know. But I can tell you my all-time one. Go on. I mean, or rather, from back when I actually lived summer to the fullest. Go on, I already know it's going to be terrible, just say it.",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-1.mp3"
+        },
+        {
+          "italian": "Summer Paradise Simple Plan. Come fa? Come un Sean Paul. Non lo so. Ma non la possiamo mettere, vero? Eh, no. Ok, allora faccio così. Come fa?",
+          "start": 3617.28,
+          "end": 3625.14,
+          "id": "card-2",
+          "english": "'Summer Paradise,' Simple Plan. How does it go? Like a Sean Paul thing. I don't know. We can't actually play it, right? Yeah, no. Okay, so I'll do it like this. How does it go?",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-2.mp3"
+        },
+        {
+          "italian": "Non mi ricordo il testo. Questa è la canzone dell'estate? Questa è il top del top. Questa è la mia canzone dell'estate? Io sono un ragazzo semplice. Cosa dovevo dirvi? Non lo so. Ma non lo so.",
+          "start": 3631.4,
+          "end": 3643.5,
+          "id": "card-3",
+          "english": "I don't remember the lyrics. Is this the song of the summer? This is the top of the top. Is this my song of the summer? I'm a simple guy. What was I supposed to tell you? I don't know. I just don't know.",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-3.mp3"
+        },
+        {
+          "italian": "Una roba di quelle che dicono siamo giovani, young and free. Quella lì me la ricordo perché me la sentivo. Come avete capito, non possiamo mettere la musica nel podcast.",
+          "start": 3644.96,
+          "end": 3659.74,
+          "id": "card-4",
+          "english": "One of those songs that goes on about how we're young, 'young and free.' I remember that one because I used to listen to it. As you've probably figured out, we can't actually play music on this podcast.",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-4.mp3"
+        },
+        {
+          "italian": "No? Living young and wild and free. Non lo so. Perché facevo Whiskalifari? Non lo so. Quando eravamo bambini. Va beh. No? Se qualche volta ho creduto che fosse impossibile. Ha fatto no e la sapeva. Ma salutiamo così? Non ho mai art. Solo te. Finale, finale, poi risalutiamo.",
+          "start": 3659.74,
+          "end": 3694.58,
+          "id": "card-5",
+          "english": "No? 'Living young and wild and free.' I don't know. Why was I doing the 'Wiz Khalifa' thing? I don't know. Back when we were kids. Well. No? 'If I ever thought it was impossible.' She said no and she knew it. So is this how we sign off? 'Non Ho Mai'... just you. Final, final, and then we say goodbye again.",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-5.mp3"
+        },
+        {
+          "italian": "E comunque io mi nutro. Tu ti nutri? No. Frank? Frank? La nutria? Sinatra? Frank Sinatra, no? Non ho mai è un podcast scritto da Claudio Pavese, Giulia Torelli e Costanza Danelon. Siamo noi. Fonico di studio Daniele D'Abrosca. Grande Dani. Curre editoriale Viola Frifa. Magica. Supervisione tecnica Gabriele Rosi. Sempre magico. Responsabile della produzione audio Danny Stucchi. Grande Danny. Una produzione audio e video, one podcast. Sì.",
+          "start": 3701.8,
+          "end": 3741.28,
+          "id": "card-6",
+          "english": "And anyway, I nourish myself. Do you nourish myself? No. Frank? Frank? The nutria? Sinatra? Frank Sinatra, no? 'Non Ho Mai' is a podcast written by Claudio Pavese, Giulia Torelli, and Costanza Danelon. That's us. Studio sound engineer, Daniele D'Ambrosio. Great work, Dani. Editorial curator, Viola Frifa. Magical. Technical supervision, Gabriele Rosi. Always magical. Audio production lead, Danny Stucchi. Great work, Danny. An audio and video production, One Podcast. Yeah.",
+          "audio": "audio/non-ho-mai/ep1/block-13/card-6.mp3"
+        }
+      ]
     }
   ]
 }
