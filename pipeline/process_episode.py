@@ -24,11 +24,19 @@ involved for it at all) and runs it as a subprocess — sidesteps any local
 pip/package-index weirdness entirely. Keep the "yt-dlp" file in the same
 folder as this script (or pass --yt-dlp-bin to point elsewhere).
 
-Usage:
+Usage (from a YouTube link):
     python3 process_episode.py "https://youtu.be/GHIXwFF7w38" \\
         --openai-key sk-... \\
         --show non-ho-mai \\
         --episode ep1 \\
+        --out ./output
+
+Usage (from an audio file you already have — skips the download step
+entirely, useful if YouTube is blocking yt-dlp for a particular video):
+    python3 process_episode.py --audio-file ~/Desktop/episode.mp3 \\
+        --openai-key sk-... \\
+        --show non-ho-mai \\
+        --episode ep2 \\
         --out ./output
 
 The OpenAI key is only used locally on your machine to call the API directly —
@@ -48,13 +56,14 @@ def die(msg):
     print(f"\n✗ {msg}", file=sys.stderr)
     sys.exit(1)
 
-def check_deps(yt_dlp_bin):
-    if not os.path.exists(yt_dlp_bin):
-        die(f"yt-dlp binary not found at '{yt_dlp_bin}'. Run:\n"
-            f"  curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o yt-dlp\n"
-            f"  chmod +x yt-dlp")
-    if not os.access(yt_dlp_bin, os.X_OK):
-        die(f"'{yt_dlp_bin}' isn't executable. Run:  chmod +x {yt_dlp_bin}")
+def check_deps(yt_dlp_bin, need_yt_dlp=True):
+    if need_yt_dlp:
+        if not os.path.exists(yt_dlp_bin):
+            die(f"yt-dlp binary not found at '{yt_dlp_bin}'. Run:\n"
+                f"  curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos -o yt-dlp\n"
+                f"  chmod +x yt-dlp")
+        if not os.access(yt_dlp_bin, os.X_OK):
+            die(f"'{yt_dlp_bin}' isn't executable. Run:  chmod +x {yt_dlp_bin}")
     try:
         import requests  # noqa: F401
     except ImportError:
@@ -65,13 +74,16 @@ def check_deps(yt_dlp_bin):
         die("ffprobe not found (usually comes with ffmpeg). Run:  brew install ffmpeg")
 
 
-def download_audio(url, out_dir, yt_dlp_bin):
+def download_audio(url, out_dir, yt_dlp_bin, cookies_from_browser=None):
     audio_base = os.path.join(out_dir, "audio")
     output_template = audio_base + ".%(ext)s"
     cmd = [
         yt_dlp_bin, "-x", "--audio-format", "mp3", "--audio-quality", "192K",
-        "--print-json", "--no-warnings", "-o", output_template, url,
+        "--print-json", "--no-warnings", "-o", output_template,
     ]
+    if cookies_from_browser:
+        cmd += ["--cookies-from-browser", cookies_from_browser]
+    cmd.append(url)
     print("→ Downloading audio via standalone yt-dlp binary...")
     result = subprocess.run(cmd, capture_output=True, text=True)
     print(result.stdout)
@@ -96,6 +108,25 @@ def download_audio(url, out_dir, yt_dlp_bin):
         "duration": info.get("duration") if info else None,
     }
     return final_path, meta
+
+
+def prepare_local_audio(audio_file, out_dir):
+    """Copy/convert a locally-provided audio file into out_dir/audio.mp3, so the
+    rest of the pipeline sees the same layout it would after a yt-dlp download."""
+    dest = os.path.join(out_dir, "audio.mp3")
+    print(f"→ Using local audio file: {audio_file}")
+    cmd = ["ffmpeg", "-y", "-i", audio_file, "-vn", "-acodec", "libmp3lame", "-b:a", "192k", dest]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0 or not os.path.exists(dest):
+        print(result.stderr, file=sys.stderr)
+        die(f"Failed to convert {audio_file} to mp3.")
+    meta = {
+        "sourceUrl": None,
+        "title": os.path.splitext(os.path.basename(audio_file))[0],
+        "uploader": None,
+        "duration": None,
+    }
+    return dest, meta
 
 
 def get_duration(path):
@@ -143,8 +174,9 @@ def transcribe_chunk(requests, api_key, chunk_path, lang):
 
 
 def main():
-    p = argparse.ArgumentParser(description="Download + transcribe a YouTube episode for Capisco.")
-    p.add_argument("url", help="YouTube video URL")
+    p = argparse.ArgumentParser(description="Download/transcribe an episode for Capisco.")
+    p.add_argument("url", nargs="?", default=None, help="YouTube video URL (omit if using --audio-file)")
+    p.add_argument("--audio-file", default=None, help="Path to a local audio file to use instead of downloading from YouTube")
     p.add_argument("--openai-key", required=True, help="Your OpenAI API key (sk-...)")
     p.add_argument("--show", required=True, help="Show slug, e.g. non-ho-mai")
     p.add_argument("--episode", required=True, help="Episode slug, e.g. ep1")
@@ -152,15 +184,25 @@ def main():
     p.add_argument("--lang", default="it", help="Language code for transcription (default: it)")
     p.add_argument("--chunk-minutes", type=float, default=15.0, help="Chunk length in minutes for the Whisper API's 25MB limit")
     p.add_argument("--yt-dlp-bin", default="./yt-dlp", help="Path to the standalone yt-dlp binary (default: ./yt-dlp)")
+    p.add_argument("--cookies-from-browser", default=None,
+                    help="Browser to pull YouTube cookies from if yt-dlp gets a 403 (e.g. firefox, safari, chrome)")
     args = p.parse_args()
 
-    check_deps(args.yt_dlp_bin)
+    if not args.url and not args.audio_file:
+        die("Provide either a YouTube URL or --audio-file <path>.")
+
+    check_deps(args.yt_dlp_bin, need_yt_dlp=bool(args.url and not args.audio_file))
     import requests
 
     out_dir = os.path.join(args.out, f"{args.show}-{args.episode}")
     os.makedirs(out_dir, exist_ok=True)
 
-    audio_path, meta = download_audio(args.url, out_dir, args.yt_dlp_bin)
+    if args.audio_file:
+        if not os.path.exists(args.audio_file):
+            die(f"Audio file not found: {args.audio_file}")
+        audio_path, meta = prepare_local_audio(args.audio_file, out_dir)
+    else:
+        audio_path, meta = download_audio(args.url, out_dir, args.yt_dlp_bin, args.cookies_from_browser)
     duration = get_duration(audio_path)
     print(f"→ Audio downloaded: {duration/60:.1f} minutes")
 
