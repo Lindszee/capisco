@@ -228,6 +228,44 @@ button {
   color: var(--text-faint);
 }
 
+.card-picker {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 0 20px 14px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.card-picker::-webkit-scrollbar { display: none; }
+.card-dot {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--purple-pale);
+  color: var(--text-gray);
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid transparent;
+}
+.card-dot.done {
+  background: var(--green);
+  color: var(--white);
+}
+.card-dot.current {
+  border-color: var(--purple);
+  background: var(--purple-light);
+  color: var(--purple);
+}
+.card-dot.done.current {
+  background: var(--green);
+  color: var(--white);
+  border-color: var(--purple);
+}
+
 .card-body {
   padding: 6px 4px 0;
 }

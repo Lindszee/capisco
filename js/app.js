@@ -40,6 +40,10 @@ function episodeDoneCount(showId, episodeId, blocks) {
   blocks.forEach(b => { total += b.cards.length; done += blockDoneCount(showId, episodeId, b); });
   return { done, total };
 }
+function firstUnstudiedIndex(showId, episodeId, block) {
+  const idx = block.cards.findIndex(c => !isCardDone(showId, episodeId, block.id, c.id));
+  return idx === -1 ? 0 : idx; // all done (or empty) -> start over from the top
+}
 
 // ---------------- Data loading ----------------
 async function loadShows() {
@@ -173,8 +177,9 @@ async function renderBlocks(app, showId, episodeId) {
     const total = b.cards.length;
     const pct = total ? Math.round((done / total) * 100) : 0;
     const isDone = total > 0 && done === total;
+    const startIdx = firstUnstudiedIndex(showId, episodeId, b);
     tiles += `
-      <button class="block-tile" style="text-align:left" onclick="go('#/show/${showId}/${episodeId}/${b.id}/0')">
+      <button class="block-tile" style="text-align:left" onclick="go('#/show/${showId}/${episodeId}/${b.id}/${startIdx}')">
         ${isDone ? '<div class="block-check">&#10003;</div>' : ''}
         <p class="block-tile-title">${escapeHtml(b.label || `Block ${i + 1}`)}</p>
         <p class="block-tile-sub">${total} phrase${total === 1 ? '' : 's'}</p>
@@ -206,6 +211,14 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   const hasNextInBlock = cardIndex < block.cards.length - 1;
   const hasNextBlock = blockIdx < full.blocks.length - 1;
 
+  let pickerHtml = '<div class="card-picker">';
+  block.cards.forEach((c, i) => {
+    const cDone = isCardDone(showId, episodeId, block.id, c.id);
+    const isCurrent = i === cardIndex;
+    pickerHtml += `<button class="card-dot ${cDone ? 'done' : ''} ${isCurrent ? 'current' : ''}" onclick="go('#/show/${showId}/${episodeId}/${block.id}/${i}')">${cDone && !isCurrent ? '&#10003;' : i + 1}</button>`;
+  });
+  pickerHtml += '</div>';
+
   let bodyHtml = '';
   if (state.tab === 'text') {
     bodyHtml = `<p class="italian-text">${escapeHtml(card.italian)}</p>`;
@@ -221,6 +234,7 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
       title: '',
       right: `<div class="card-position">${cardIndex + 1} / ${block.cards.length}</div>`
     })}
+    ${pickerHtml}
     <div class="scroll-area">
       <div class="card-body">${bodyHtml}</div>
       <button class="mark-done-row ${done ? 'checked' : ''}" id="markDoneBtn">
