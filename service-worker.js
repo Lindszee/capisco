@@ -1,5 +1,5 @@
-const SHELL_CACHE = 'capisco-shell-v1';
-const DATA_CACHE = 'capisco-data-v1';
+const SHELL_CACHE = 'capisco-shell-v2';
+const DATA_CACHE = 'capisco-data-v2';
 
 const SHELL_FILES = [
   './',
@@ -27,8 +27,30 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== 'GET' || url.origin !== location.origin) return;
 
-  // Data & audio: cache-first, fall back to network, then cache the response.
-  if (url.pathname.includes('/data/') || url.pathname.includes('/audio/')) {
+  // JSON data (episodes/shows/translations): network-first, fall back to cache when
+  // offline. This content changes often — new episodes, translations, corrections —
+  // and cache-first here was the reason updates needed a manual Safari data clear to
+  // ever show up. Network-first means new deploys just show up automatically.
+  if (url.pathname.includes('/data/')) {
+    event.respondWith(
+      caches.open(DATA_CACHE).then(async (cache) => {
+        try {
+          const res = await fetch(event.request);
+          if (res.ok) cache.put(event.request, res.clone());
+          return res;
+        } catch (e) {
+          const cached = await cache.match(event.request);
+          return cached || Response.error();
+        }
+      })
+    );
+    return;
+  }
+
+  // Audio clips: cache-first, fall back to network. These almost never change once
+  // published, so caching aggressively here is what makes cards work offline/on replay
+  // without re-downloading — unlike the JSON above, staleness isn't a practical risk.
+  if (url.pathname.includes('/audio/')) {
     event.respondWith(
       caches.open(DATA_CACHE).then(async (cache) => {
         const cached = await cache.match(event.request);
