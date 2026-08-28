@@ -6,7 +6,10 @@ const state = {
   episodesByShow: {},   // showId -> [episode summaries]
   episodeData: {},      // "showId/episodeId" -> full episode object (blocks/cards)
   progress: loadProgress(),
-  tab: 'text',           // current card tab: text | translation | audio
+  edits: loadEdits(),    // local corrections to transcriptions/translations, overlaid on shipped data
+  editingField: null,    // 'italian' | 'english' | null — which field is being edited right now, on the current card
+  editingCardKey: null,  // which card the above applies to (editing auto-cancels if you navigate away)
+  tab: 'audio',           // current card tab: text | translation | audio
   speed: 1,
 };
 
@@ -43,6 +46,36 @@ function episodeDoneCount(showId, episodeId, blocks) {
 function firstUnstudiedIndex(showId, episodeId, block) {
   const idx = block.cards.findIndex(c => !isCardDone(showId, episodeId, block.id, c.id));
   return idx === -1 ? 0 : idx; // all done (or empty) -> start over from the top
+}
+
+// ---------------- Local corrections (transcription/translation fixes) ----------------
+// Whisper transcriptions and machine translations aren't always perfect. Rather than
+// require a full re-deploy for every fix, cards can be corrected right on the device;
+// corrections are stored locally and overlaid on top of the shipped data. Use the
+// "My Corrections" screen (pencil icon on the library) to review/copy them and send
+// them back to Claude so they can be folded into the real data files permanently.
+function loadEdits() {
+  try {
+    return JSON.parse(localStorage.getItem('capisco:edits') || '{}');
+  } catch (e) { return {}; }
+}
+function saveEdits() {
+  localStorage.setItem('capisco:edits', JSON.stringify(state.edits));
+}
+function getEdit(showId, episodeId, blockId, cardId) {
+  return state.edits[cardKey(showId, episodeId, blockId, cardId)] || null;
+}
+function setEditField(showId, episodeId, blockId, cardId, field, value) {
+  const k = cardKey(showId, episodeId, blockId, cardId);
+  state.edits[k] = { ...(state.edits[k] || {}), [field]: value };
+  saveEdits();
+}
+function revertEditField(showId, episodeId, blockId, cardId, field) {
+  const k = cardKey(showId, episodeId, blockId, cardId);
+  if (!state.edits[k]) return;
+  delete state.edits[k][field];
+  if (Object.keys(state.edits[k]).length === 0) delete state.edits[k];
+  saveEdits();
 }
 
 // ---------------- Data loading ----------------
@@ -83,7 +116,9 @@ async function route() {
   const app = document.getElementById('app');
   const parts = parseHash();
   try {
-    if (parts[0] === 'show' && parts[1] && parts[2] && parts[3] && parts[4] !== undefined) {
+    if (parts[0] === 'edits') {
+      await renderEditsReview(app);
+    } else if (parts[0] === 'show' && parts[1] && parts[2] && parts[3] && parts[4] !== undefined) {
       await renderCard(app, parts[1], parts[2], parts[3], parseInt(parts[4], 10));
     } else if (parts[0] === 'show' && parts[1] && parts[2]) {
       await renderBlocks(app, parts[1], parts[2]);
@@ -131,12 +166,57 @@ async function renderLibrary(app) {
         <div class="chevron">&#8250;</div>
       </button>`;
   }
+  const editsCount = Object.keys(state.edits).length;
   app.innerHTML = `
-    ${topbar({ title: 'Capisco' })}
+    ${topbar({
+      title: 'Capisco',
+      right: `<button class="icon-btn" onclick="go('#/edits')">&#9998;${editsCount ? `<span class="edit-badge">${editsCount}</span>` : ''}</button>`
+    })}
     <div class="scroll-area">
       <div class="section-label">Your shows</div>
       ${cards || '<div class="empty-state">No shows yet. Ask Claude to add a podcast to get started.</div>'}
     </div>`;
+}
+
+async function renderEditsReview(app) {
+  const keys = Object.keys(state.edits);
+  let rows = '';
+  for (const k of keys) {
+    const [showId, episodeId, blockId, cardId] = k.split('/');
+    const edit = state.edits[k];
+    const full = await loadEpisode(showId, episodeId);
+    const block = full ? full.blocks.find(b => b.id === blockId) : null;
+    const idx = block ? block.cards.findIndex(c => c.id === cardId) : 0;
+    rows += `
+      <div class="edit-review-row">
+        <p class="edit-review-key">${escapeHtml(showId)} · ${escapeHtml(episodeId)} · ${escapeHtml(blockId)} · ${escapeHtml(cardId)}</p>
+        ${edit.italian != null ? `<p class="edit-review-field"><b>IT:</b> ${escapeHtml(edit.italian)}</p>` : ''}
+        ${edit.english != null ? `<p class="edit-review-field"><b>EN:</b> ${escapeHtml(edit.english)}</p>` : ''}
+        <button class="edit-review-open" onclick="go('#/show/${showId}/${episodeId}/${blockId}/${idx}')">Open card &#8250;</button>
+      </div>`;
+  }
+  app.innerHTML = `
+    ${topbar({ left: backBtn('#/'), title: 'My Corrections' })}
+    <div class="scroll-area">
+      ${keys.length ? `
+        <p class="edits-intro">${keys.length} correction${keys.length === 1 ? '' : 's'} saved on this device only. Tap "Copy all as JSON" and send it to Claude to bake these into the app permanently (local corrections don't survive a Safari data clear).</p>
+        <button class="pill-btn" id="copyEditsBtn" style="margin-bottom:16px">Copy all as JSON</button>
+        ${rows}
+      ` : '<div class="empty-state">No corrections yet. On any card, tap the pencil next to the Italian text or the translation to fix it.</div>'}
+    </div>`;
+  const copyBtn = document.getElementById('copyEditsBtn');
+  if (copyBtn) {
+    copyBtn.onclick = async () => {
+      const json = JSON.stringify(state.edits, null, 2);
+      try {
+        await navigator.clipboard.writeText(json);
+        copyBtn.textContent = 'Copied!';
+        setTimeout(() => { copyBtn.textContent = 'Copy all as JSON'; }, 1500);
+      } catch (e) {
+        window.prompt('Copy this text:', json);
+      }
+    };
+  }
 }
 
 async function renderEpisodes(app, showId) {
@@ -204,8 +284,14 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   const block = full.blocks[blockIdx];
   if (!block || !block.cards[cardIndex]) { app.innerHTML = '<div class="empty-state">Card not found.</div>'; return; }
   const card = block.cards[cardIndex];
-  state.tab = state.tab || 'text';
+  state.tab = state.tab || 'audio';
   const done = isCardDone(showId, episodeId, block.id, card.id);
+
+  const ck = cardKey(showId, episodeId, block.id, card.id);
+  if (state.editingCardKey !== ck) { state.editingField = null; state.editingCardKey = ck; }
+  const edit = getEdit(showId, episodeId, block.id, card.id) || {};
+  const italianText = edit.italian != null ? edit.italian : card.italian;
+  const englishText = edit.english != null ? edit.english : card.english;
 
   const hasPrev = cardIndex > 0;
   const hasNextInBlock = cardIndex < block.cards.length - 1;
@@ -219,11 +305,31 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   });
   pickerHtml += '</div>';
 
+  function fieldBlock(field, text, hasFieldEdit) {
+    if (state.editingField === field) {
+      return `
+        <div class="edit-block">
+          <textarea id="editTextarea" class="edit-textarea" rows="${field === 'italian' ? 6 : 5}">${escapeHtml(text)}</textarea>
+          <div class="edit-actions">
+            <button class="edit-btn save" id="saveEditBtn">Save</button>
+            <button class="edit-btn cancel" id="cancelEditBtn">Cancel</button>
+            ${hasFieldEdit ? '<button class="edit-btn revert" id="revertEditBtn">Revert to original</button>' : ''}
+          </div>
+        </div>`;
+    }
+    const isItalian = field === 'italian';
+    return `
+      <div class="text-row">
+        <${isItalian ? 'p' : 'div'} class="${isItalian ? 'italian-text' : 'translation-box'}">${escapeHtml(text)}</${isItalian ? 'p' : 'div'}>
+        <button class="edit-link" data-field="${field}">&#9998;${hasFieldEdit ? ' Edited' : ''}</button>
+      </div>`;
+  }
+
   let bodyHtml = '';
   if (state.tab === 'text') {
-    bodyHtml = `<p class="italian-text">${escapeHtml(card.italian)}</p>`;
+    bodyHtml = fieldBlock('italian', italianText, edit.italian != null);
   } else if (state.tab === 'translation') {
-    bodyHtml = `<p class="italian-text">${escapeHtml(card.italian)}</p><div class="translation-box">${escapeHtml(card.english)}</div>`;
+    bodyHtml = fieldBlock('italian', italianText, edit.italian != null) + fieldBlock('english', englishText, edit.english != null);
   } else {
     bodyHtml = `<div class="audio-only-hint"><span class="big-icon">&#127911;</span>Just listen — no text.<br>Switch to "Text" if you get stuck.</div>`;
   }
@@ -327,6 +433,30 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.onclick = () => { state.tab = btn.dataset.tab; route(); };
   });
+  document.querySelectorAll('.edit-link').forEach(btn => {
+    btn.onclick = () => { state.editingField = btn.dataset.field; route(); };
+  });
+  const saveEditBtn = document.getElementById('saveEditBtn');
+  const cancelEditBtn = document.getElementById('cancelEditBtn');
+  const revertEditBtn = document.getElementById('revertEditBtn');
+  if (saveEditBtn) {
+    saveEditBtn.onclick = () => {
+      const val = document.getElementById('editTextarea').value.trim();
+      setEditField(showId, episodeId, block.id, card.id, state.editingField, val);
+      state.editingField = null;
+      route();
+    };
+  }
+  if (cancelEditBtn) {
+    cancelEditBtn.onclick = () => { state.editingField = null; route(); };
+  }
+  if (revertEditBtn) {
+    revertEditBtn.onclick = () => {
+      revertEditField(showId, episodeId, block.id, card.id, state.editingField);
+      state.editingField = null;
+      route();
+    };
+  }
   const prevBtn = document.getElementById('prevBtn');
   const nextBtn = document.getElementById('nextBtn');
   if (hasPrev) prevBtn.onclick = () => go(`#/show/${showId}/${episodeId}/${block.id}/${cardIndex - 1}`);
