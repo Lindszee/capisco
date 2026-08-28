@@ -65,13 +65,21 @@ function saveEdits() {
 function getEdit(showId, episodeId, blockId, cardId) {
   return state.edits[cardKey(showId, episodeId, blockId, cardId)] || null;
 }
+// setEditField/revertEditField re-read localStorage immediately before writing, rather
+// than trusting the in-memory `state.edits` snapshot. That snapshot can go stale — e.g.
+// the app open in two tabs/devices at once, or backgrounded and resumed — and writing
+// through a stale copy would silently wipe out edits saved elsewhere in the meantime.
+// Re-reading right before the merge makes every save atomic against what's really on disk.
 function setEditField(showId, episodeId, blockId, cardId, field, value) {
   const k = cardKey(showId, episodeId, blockId, cardId);
-  state.edits[k] = { ...(state.edits[k] || {}), [field]: value };
+  const current = loadEdits();
+  current[k] = { ...(current[k] || {}), [field]: value };
+  state.edits = current;
   saveEdits();
 }
 function revertEditField(showId, episodeId, blockId, cardId, field) {
   const k = cardKey(showId, episodeId, blockId, cardId);
+  state.edits = loadEdits();
   if (!state.edits[k]) return;
   delete state.edits[k][field];
   if (Object.keys(state.edits[k]).length === 0) delete state.edits[k];
@@ -105,6 +113,12 @@ async function loadEpisode(showId, episodeId) {
 // ---------------- Router ----------------
 window.addEventListener('hashchange', route);
 window.addEventListener('DOMContentLoaded', route);
+// Refresh from localStorage whenever this tab/instance comes back into view — catches
+// edits or progress saved from another tab or device while this one was in the background.
+// Skipped mid-edit so an in-progress, unsaved correction never gets wiped out by this.
+function refreshIfIdle() { if (!state.editingField) route(); }
+document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshIfIdle(); });
+window.addEventListener('pageshow', refreshIfIdle);
 
 function parseHash() {
   const parts = (location.hash || '#/').slice(2).split('/').filter(Boolean);
@@ -115,6 +129,10 @@ function parseHash() {
 async function route() {
   const app = document.getElementById('app');
   const parts = parseHash();
+  // Always render from the freshest data on disk, not a snapshot from whenever this
+  // tab/instance first loaded — see the note above setEditField/revertEditField.
+  state.progress = loadProgress();
+  state.edits = loadEdits();
   try {
     if (parts[0] === 'edits') {
       await renderEditsReview(app);
