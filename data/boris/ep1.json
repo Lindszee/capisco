@@ -8,8 +8,8 @@
       "label": "0:00–5:00",
       "cards": [
         {
-          "italian": "Scusi sa dov'è il regista? Eh? Il regista sa dov'è? Ma vattene a fare il culo eh! Gli occhi del cuore, gli occhi del cuore, Boris! Userò gli occhi del cuore per capire i tuoi segreti, per capire cosa pensi nei tuoi primi piani intensi, Boris! I tuoi piani americani, così intensi e così italiani, Boris!",
-          "start": 12.0,
+          "italian": "Scusi sa dov'è il regista? Eh? Il regista sa dov'è? Ma vattene a fare il culo eh! Gli occhi del cuore, gli occhi del cuore, Boris! Userò gli occhi del cuore per capire i tuoi segreti, per capire cosa pensi nei tuoi primi piani intensi, Boris! nei tuoi piani americani, così intensi e così italiani, Boris!",
+          "start": 12,
           "end": 45.7,
           "id": "card-1",
           "english": "Excuse me, do you know where the director is? Huh? Does the director know where he is? Oh, go to hell! The Eyes of the Heart, the Eyes of the Heart, Boris! I'll use the eyes of the heart to understand your secrets, to understand what you're thinking in your intense close-ups, Boris! Your American shots, so intense and so Italian, Boris!",
@@ -33,7 +33,7 @@
         },
         {
           "italian": "Dobbiamo spaccare tutto, Boris, dai! Dai, dai, dai! Scusi, lei è il regista? È arrivato Lopez. Chi sei, che vuoi, che fai qua? Eh, veramente sono lo stagista, volevo solo... No, tu non vuoi niente, tu stai fermo qui, in silenzio e aspetti i ordini, ok? Non è del tuo reparto. Tutti dicono che fare Gli Occhi del Cuore 2 è un'autentica pazzia.",
-          "start": 116.0,
+          "start": 116,
           "end": 148.26,
           "id": "card-4",
           "english": "We have to smash it, Boris, come on! Come on, come on, come on! Excuse me, are you the director? Lopez has arrived. Who are you, what do you want, what are you doing here? Uh, actually I'm the intern, I just wanted... No, you don't want anything, you stand right here, keep quiet, and wait for orders, okay? This isn't your department. Everyone says making Eyes of the Heart 2 is pure madness.",
@@ -87,7 +87,7 @@
       "cards": [
         {
           "italian": "Ma scusami. È l'Immortan Guerrieri. Ma guardate pure lo schiavo, scusami tanto, lo devo togliere? No, no, che toglie? Ah sì, lo tolgo, va bene. No, lo toglio! E io lo tolgo, va bene. È l'Immortan Guerrieri! È l'Immortan Guerrieri, cammina! Dai! È sempre uguale. Signori, allora adesso iniziamo con la 168. Vi ricordo che non si fuma sul set. Grazie, Duccio, l'ho visto buttare quella sigaretta.",
-          "start": 312.0,
+          "start": 312,
           "end": 342.42,
           "id": "card-1",
           "english": "Excuse me. It's the Immortan Warriors. But look, it's the slave — sorry, should I take it out? No, no, why take it out? Oh yeah, I'll take it out, fine. No, I'll take it out! And I'll take it out, fine. It's the Immortan Warriors! It's the Immortan Warriors, walk! Come on! It's always the same. Ladies and gentlemen, let's start with scene 168. Reminder — no smoking on set. Thanks, Duccio, I just saw you throw that cigarette.",
@@ -243,7 +243,7 @@
       "cards": [
         {
           "italian": "e troppo italiana. Siediti, l'hai vista le prime due puntate? Sì, qualcosa. Ti è piaciuta la fotografia? Molto. Non capisci un cazzo, la fotografia fa schifo. Lo sai perché fa schifo? Non lo so. Perché non vogliono l'oro, non vogliono l'oro. Nella fiction la fotografia non deve essere più bella di quella della pubblicità, sennò la gente cambia canale. Hanno pensato a tutto. Hai paura? Arianna voleva sapere quanto ci metterebbe per me.",
-          "start": 900.0,
+          "start": 900,
           "end": 939.28,
           "id": "card-1",
           "english": "...and too Italian. Sit down — did you watch the first two episodes? Yeah, a bit. Did you like the cinematography? A lot. You don't understand a thing, the cinematography is garbage. You know why it's garbage? I don't know. Because they don't want gold tones, they don't want gold. In a TV drama the cinematography can't look better than the commercials, or else people will change the channel. They've thought of everything. Are you scared? Arianna wanted to know how long it would take for me.",
