@@ -374,6 +374,29 @@ button {
 .edit-review-field { font-size: 14px; line-height: 1.5; margin: 0 0 8px; color: var(--text-dark); }
 .edit-review-open { font-size: 13px; font-weight: 700; color: var(--purple); }
 
+.sync-card {
+  padding: 16px;
+  border-radius: var(--radius-md);
+  background: var(--purple-pale);
+  margin-bottom: 20px;
+}
+.sync-status {
+  font-size: 13px;
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+.sync-status.on { color: var(--green); }
+.sync-status.off { color: var(--text-faint); }
+.sync-hint { font-size: 13px; color: var(--text-gray); line-height: 1.5; margin: 0 0 14px; }
+.sync-input {
+  min-height: auto;
+  height: 48px;
+  padding: 0 14px;
+  margin-bottom: 12px;
+  font-size: 15px;
+}
+.pill-btn.ghost { border-color: var(--border); color: var(--text-gray); }
+
 .audio-only-hint {
   margin-top: 60px;
   text-align: center;

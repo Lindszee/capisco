@@ -86,6 +86,80 @@ function revertEditField(showId, episodeId, blockId, cardId, field) {
   saveEdits();
 }
 
+// ---------------- Direct GitHub sync (optional, per-device) ----------------
+// If a GitHub token is configured on this device, corrections commit straight to the
+// repo via GitHub's Contents API when you hit Save — no copy/paste, no Mac. GitHub
+// Pages rebuilds automatically afterward. Falls back to the local-only correction
+// flow above when no token is set, or if a direct save fails for any reason.
+const GITHUB_OWNER = 'lindszee';
+const GITHUB_REPO = 'capisco';
+const GITHUB_BRANCH = 'main';
+
+function getGitHubToken() {
+  try { return localStorage.getItem('capisco:ghtoken') || ''; } catch (e) { return ''; }
+}
+function setGitHubToken(token) {
+  try {
+    if (token) localStorage.setItem('capisco:ghtoken', token);
+    else localStorage.removeItem('capisco:ghtoken');
+  } catch (e) {}
+}
+
+// btoa/atob are byte-oriented, so accented Italian text needs this UTF-8 round trip.
+function b64EncodeUnicode(str) {
+  return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode('0x' + p1)));
+}
+function b64DecodeUnicode(str) {
+  return decodeURIComponent(atob(str).split('').map(c => '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join(''));
+}
+
+async function githubApi(path, options = {}) {
+  const token = getGitHubToken();
+  return fetch(`https://api.github.com${path}`, {
+    ...options,
+    headers: {
+      'Accept': 'application/vnd.github+json',
+      'Authorization': `Bearer ${token}`,
+      'X-GitHub-Api-Version': '2022-11-28',
+      ...(options.headers || {}),
+    },
+  });
+}
+
+// Reads a JSON file from the repo, applies `mutate(data)` to it, and commits the
+// result. Retries once on a 409 (someone else committed to the same file in between)
+// by re-fetching the latest version and re-applying the mutation on top of it.
+async function commitJsonFile(path, mutate, message, attempt = 0) {
+  const getRes = await githubApi(`/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${path}?ref=${GITHUB_BRANCH}`);
+  if (!getRes.ok) {
+    if (getRes.status === 401) throw new Error('GitHub token is invalid, expired, or missing permission.');
+    if (getRes.status === 404) throw new Error(`File not found in repo: ${path}`);
+    throw new Error(`GitHub read failed (${getRes.status}).`);
+  }
+  const fileData = await getRes.json();
+  const current = JSON.parse(b64DecodeUnicode(fileData.content));
+  const updated = mutate(current);
+
+  const putRes = await githubApi(`/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${path}`, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      message,
+      content: b64EncodeUnicode(JSON.stringify(updated, null, 2)),
+      sha: fileData.sha,
+      branch: GITHUB_BRANCH,
+    }),
+  });
+  if (putRes.status === 409 && attempt < 2) {
+    return commitJsonFile(path, mutate, message, attempt + 1);
+  }
+  if (!putRes.ok) {
+    const body = await putRes.text().catch(() => '');
+    throw new Error(`GitHub write failed (${putRes.status}): ${body.slice(0, 200)}`);
+  }
+  return updated;
+}
+
 // ---------------- Data loading ----------------
 async function loadShows() {
   if (state.shows) return state.shows;
@@ -198,6 +272,7 @@ async function renderLibrary(app) {
 
 async function renderEditsReview(app) {
   const keys = Object.keys(state.edits);
+  const token = getGitHubToken();
   let rows = '';
   for (const k of keys) {
     const [showId, episodeId, blockId, cardId] = k.split('/');
@@ -213,14 +288,27 @@ async function renderEditsReview(app) {
         <button class="edit-review-open" onclick="go('#/show/${showId}/${episodeId}/${blockId}/${idx}')">Open card &#8250;</button>
       </div>`;
   }
+  const syncSection = token ? `
+      <div class="sync-card">
+        <p class="sync-status on">&#9679; Direct GitHub sync is ON for this device</p>
+        <p class="sync-hint">Corrections save straight to the repo when you hit Save — no copy/paste needed. Live on the site within about a minute.</p>
+        <button class="pill-btn ghost" id="disconnectGhBtn">Disconnect this device</button>
+      </div>` : `
+      <div class="sync-card">
+        <p class="sync-status off">&#9679; Direct GitHub sync is OFF for this device</p>
+        <p class="sync-hint">Paste a GitHub token scoped to just the capisco repo (Contents: read and write) to save corrections directly from here, with no copy/paste.</p>
+        <input type="password" id="ghTokenInput" class="edit-textarea sync-input" placeholder="github_pat_...">
+        <button class="pill-btn" id="connectGhBtn">Connect</button>
+      </div>`;
   app.innerHTML = `
     ${topbar({ left: backBtn('#/'), title: 'My Corrections' })}
     <div class="scroll-area">
+      ${syncSection}
       ${keys.length ? `
-        <p class="edits-intro">${keys.length} correction${keys.length === 1 ? '' : 's'} saved on this device only. Tap "Copy all as JSON" and send it to Claude to bake these into the app permanently (local corrections don't survive a Safari data clear).</p>
+        <p class="edits-intro">${keys.length} correction${keys.length === 1 ? '' : 's'} saved on this device only${token ? ' (from before sync was on, or a direct save that failed)' : ''}. Tap "Copy all as JSON" and send it to Claude to bake these into the app permanently.</p>
         <button class="pill-btn" id="copyEditsBtn" style="margin-bottom:16px">Copy all as JSON</button>
         ${rows}
-      ` : '<div class="empty-state">No corrections yet. On any card, tap the pencil next to the Italian text or the translation to fix it.</div>'}
+      ` : `<div class="empty-state">No pending local corrections. ${token ? 'Direct sync is handling new ones automatically.' : 'On any card, tap the pencil next to the Italian text or the translation to fix it.'}</div>`}
     </div>`;
   const copyBtn = document.getElementById('copyEditsBtn');
   if (copyBtn) {
@@ -233,6 +321,19 @@ async function renderEditsReview(app) {
       } catch (e) {
         window.prompt('Copy this text:', json);
       }
+    };
+  }
+  const connectBtn = document.getElementById('connectGhBtn');
+  if (connectBtn) {
+    connectBtn.onclick = () => {
+      const val = document.getElementById('ghTokenInput').value.trim();
+      if (val) { setGitHubToken(val); route(); }
+    };
+  }
+  const disconnectBtn = document.getElementById('disconnectGhBtn');
+  if (disconnectBtn) {
+    disconnectBtn.onclick = () => {
+      if (confirm('Disconnect direct GitHub sync on this device?')) { setGitHubToken(''); route(); }
     };
   }
 }
@@ -458,9 +559,35 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   const cancelEditBtn = document.getElementById('cancelEditBtn');
   const revertEditBtn = document.getElementById('revertEditBtn');
   if (saveEditBtn) {
-    saveEditBtn.onclick = () => {
+    saveEditBtn.onclick = async () => {
       const val = document.getElementById('editTextarea').value.trim();
-      setEditField(showId, episodeId, block.id, card.id, state.editingField, val);
+      const field = state.editingField;
+      const token = getGitHubToken();
+      if (token) {
+        saveEditBtn.disabled = true;
+        cancelEditBtn.disabled = true;
+        saveEditBtn.textContent = 'Saving to GitHub…';
+        try {
+          const path = `data/${showId}/${episodeId}.json`;
+          const updated = await commitJsonFile(path, (data) => {
+            const b = data.blocks.find(bb => bb.id === block.id);
+            const c = b.cards.find(cc => cc.id === card.id);
+            c[field] = val;
+            return data;
+          }, `Correct ${field}: ${showId}/${episodeId}/${block.id}/${card.id}`);
+          // The repo now has the fix directly — drop any stale local override for this
+          // field and refresh the in-memory copy so the new text shows immediately.
+          revertEditField(showId, episodeId, block.id, card.id, field);
+          state.episodeData[`${showId}/${episodeId}`] = updated;
+          state.editingField = null;
+          route();
+          return;
+        } catch (err) {
+          console.error(err);
+          alert(`Direct save to GitHub failed:\n${err.message}\n\nSaved on this device instead — you can retry later from "My Corrections."`);
+        }
+      }
+      setEditField(showId, episodeId, block.id, card.id, field, val);
       state.editingField = null;
       route();
     };
