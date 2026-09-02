@@ -9,7 +9,7 @@
       "cards": [
         {
           "italian": "Cosa ci faceva con quelle ragazze? Erano in macchina con lei, no? Quali ragazze? Se lei continua a non rispondere, la sua situazione si aggrava. Se proprio lo volete sapere, ne conoscevo solo una. L'ho vista qualche volta nel quartiere. Mi ha chiesto un passaggio a lei e alle sue amiche. Mo è un reato dare un passaggio? Per il solito, quando si dà un passaggio, non si svuotano le borsette, né tantomeno si prendono a sberle le persone. Non le pare? Che c'entra? Quello era... uno scherzo.",
-          "start": 0.0,
+          "start": 0,
           "end": 30.48,
           "id": "card-1",
           "english": "What were you doing with those girls? They were in the car with you, weren't they? What girls? If you keep refusing to answer, your situation is only going to get worse. If you really want to know, I only knew one of them. I'd seen her around the neighborhood a few times. She asked me for a ride, her and her friends. Is giving someone a ride a crime now? Normally, when you give someone a ride, you don't empty out their purses, let alone rough people up. Don't you think? What's that got to do with anything? That was... a joke.",
@@ -40,7 +40,7 @@
           "audio": "audio/polizia-di-napoli/ep1/block-1/card-4.mp3"
         },
         {
-          "italian": "Tante volte una botta di culo. Tanto sotto sta cazzo di galleria ci sta sempre un barbono, un nero, qualcuno. O no? Lo sento, siamo fortunati, Roma'. Hai capito? E poi Roma, secondo me puoi darsi pure che ci... Arago', statt' nu poch' zitt'. Ma perché tieni sta faccia da funerale? Ma perché non ti fai i cazzo tuoi? Pensiamo a lavorare. È bello fare coppie con te. Aspetta, te l'ho detto io che c'abbiamo la botta di culo. E lui scendi, scendi, scendi, scendi. Sì, però stavolta Arago' non ce lo facciamo scappare. Angela prima di venire qui faceva la prostituta.",
+          "italian": "Tante volte una botta di culo. Tanto sotto sta cazzo di galleria ci sta sempre un barbono, un nero, qualcuno. O no? Lo sento, siamo fortunati, Roma'. Hai capito? E poi Roma', secondo me puoi darsi pure che ci... Arago', statt' nu poch' zitt'. Ma perché tieni sta faccia da funerale? Ma perché non ti fai i cazzo tuoi? Pensiamo a lavorare. È bello fare coppie con te. Aspetta, te l'ho detto io che c'abbiamo la botta di culo. E lui scendi, scendi, scendi, scendi. Sì, però stavolta Arago' non ce lo facciamo scappare. Angela prima di venire qui faceva la prostituta.",
           "start": 127.36,
           "end": 160.44,
           "id": "card-5",
@@ -73,7 +73,7 @@
         },
         {
           "italian": "I vestiti chiaramente stanno nelle valigie. E poi in cucina piatti e bicchieri di plastica. Stai messo proprio bene. E Nellina che dice? No, no, a lei piace a Nellina. Avanti e indietro nel corridoio, poi si accuccia sul mio letto. Ma tu perché non vieni a prenderti un caffè qualche volta? Mi dai qualche consiglio? E va bene, una volta ci vengo. Però adesso me ne vado anche perché fa un freddo. Freddo? A Napoli un inverno così non c'è mai stato. Anzi, ti do un passaggio, dai. Proprio oggi sono venuta con la macchina. Vabbe', Ciao, Ciao Otta'.",
-          "start": 259.0,
+          "start": 259,
           "end": 297.44,
           "id": "card-9",
           "english": "The clothes are obviously still in the suitcases. And in the kitchen, it's all plastic plates and cups. You're really set up nicely. And what does Nellina think? No, no, she likes it. Back and forth down the hallway, then she curls up on my bed. Why don't you come by for a coffee sometime? Give me some advice? All right, I'll come by sometime. But now I have to get going, it's freezing out. Cold? Naples has never had a winter like this. Actually, let me give you a ride, come on. I came by car today, as it happens. Okay then. Bye. Bye, Otta'.",
