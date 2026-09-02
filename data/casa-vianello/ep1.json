@@ -1,0 +1,295 @@
+{
+  "id": "ep1",
+  "title": "La Partita di Poker",
+  "sourceUrl": "",
+  "blocks": [
+    {
+      "id": "block-1",
+      "label": "0:00–5:00",
+      "cards": [
+        {
+          "italian": "L'una e mezza, chiamiamo i giri. Facciamo ancora due giri e poi tutti a dormire? Per me va bene. No, scusate, io così non ho neanche il tempo di rifarmi, con quel che sto perdendo, facciamo cinque giri, va? Ah, se voi siete d'accordo. D'accordo, d'accordo. Bene, bene, bene. Allora, toccavano a te, sai Anna. Speriamo di rifarsi qua, perché io, io devo, io perdo, certo? Sono a pari, va benissimo. Ecco, il telefono. E chi sarà a quest'ora?",
+          "start": 2.48,
+          "end": 32.54,
+          "id": "card-1",
+          "english": "It's half past one, let's call for the last hands. Should we do two more rounds and then all go to sleep? Fine by me. No, wait, this way I don't even have a chance to win back what I'm losing — let's do five rounds, okay? Well, if you're all in agreement. Agreed, agreed. Good, good, good. Alright, it was your turn, you know, Anna. Let's hope I can win it back here, because I — I have to — I'm losing, right? I'm even, that's fine. Ah, the phone. Who could that be at this hour?",
+          "audio": "audio/casa-vianello/ep1/block-1/card-1.mp3"
+        },
+        {
+          "italian": "Pronto? Francesca, ma come mai questo? Come? Scusa, e tuo marito dov'è? A Lucca? No, no, per carità, vengo subito. Stai sdraiata, stai buona, stai buona, stai ferma, finché non arrivo io. Sì, aspettami, aspettami, arrivo subito, sì, ciao. Oh, mamma mia, ma che pensa con tantissimi. Scusa Sandra, ma dove vai? Ah, c'ho il popo, scusate, ma devo correre, devo correre perché c'è una mia amica che ha le doglie in casa, no?",
+          "start": 37.78,
+          "end": 69.5,
+          "id": "card-2",
+          "english": "Hello? Francesca, what is it? What? Sorry, where's your husband? In Lucca? Oh no, for heaven's sake, I'm coming right away. Lie down, stay calm, stay calm, don't move until I get there. Yes, wait for me, wait for me, I'm coming right now, yes, bye. Oh my goodness, what could she possibly be thinking... Sorry, Sandra, where are you going? Oh, sorry everyone, I have to run because a friend of mine is in labor at home, you know?",
+          "audio": "audio/casa-vianello/ep1/block-1/card-2.mp3"
+        },
+        {
+          "italian": "E il marito non c'è, allora devo accompagnarmi in clinica, scusate. Sì, Sandra, vabbè, tu hai ragione, ma mi lasci così? Io come faccio a dire al mio marito che ho perso tutti questi soldi? Proprio adesso che mi sembrava che la fortuna stesse girando. Eh, ho capito, ma cosa, scusa, cosa posso farci? Devo andare e... Vabbè, si vede che è la destina. Vai, vai, che senz'altro avrà più bisogno di me. No, no, aspetta, eh, perché io una soluzione ce l'ho. Raimondo, Raimondo, mi raccomando, gioca bene, io tornerò domani mattina, domani sera, dopodomani, non lo so.",
+          "start": 69.5,
+          "end": 111.82,
+          "id": "card-3",
+          "english": "And her husband's not there, so I have to take her to the clinic myself, sorry. Yes, Sandra, well, you're right, but you're just going to leave me like this? How am I supposed to tell my husband I lost all this money? Especially now that I felt my luck was turning around. I understand, but what — sorry, what can I do about it? I have to go and... Well, I guess that's just fate. Go on, go, she surely needs me more right now. No, no, wait, because I do have a solution. Raimondo, Raimondo, please, play well — I'll be back tomorrow morning, tomorrow evening, the day after tomorrow, I don't know.",
+          "audio": "audio/casa-vianello/ep1/block-1/card-3.mp3"
+        },
+        {
+          "italian": "Capirai, io ho giocato tre volte in vita mia a poker, non è che... Ah, sì, meglio per noi, allora. Sì, vabbè, vabbè, ciao a tutti, eh, ciao, ciao, ciao. Bene, riprendiamo? Sì, una carta. Due. Eh, signor Vianella? Sì? Tocca a lei? Che devo fare? Quante carte vuole? Non saprei, io non lo... Deve dire una, due, tre. Quattro, cinque.",
+          "start": 112.76,
+          "end": 142.98,
+          "id": "card-4",
+          "english": "You understand, I've played poker maybe three times in my life, so it's not like... Ah, well, better for us, then. Yeah, well, well, bye everyone, bye, bye, bye. Alright, shall we continue? Yes, one card. Two. Uh, Mr. Vianello? Yes? It's your turn? What do I do? How many cards do you want? I wouldn't know, I don't... You have to say one, two, three. Four, five.",
+          "audio": "audio/casa-vianello/ep1/block-1/card-4.mp3"
+        },
+        {
+          "italian": "No, cinque veramente no, massimo quattro. Quattro massimo, quattro. Una, due, tre. Una per me, aspetti. Ed ecco la sua quarta. Centomila? Cento. Cento lo devi mettere? Mhm. Cento. Ci sto. Doppia gli assi.",
+          "start": 143.34,
+          "end": 174.82,
+          "id": "card-5",
+          "english": "No, five is really too many, four at most. Four at most, four. One, two, three. One for me, wait. And here's your fourth. A hundred thousand? A hundred. You have to put in a hundred? Mm-hm. A hundred. I'm in. I'll double the raise on the aces.",
+          "audio": "audio/casa-vianello/ep1/block-1/card-5.mp3"
+        },
+        {
+          "italian": "Mi dispiace per voi, tre dieci. Signor Vianello? A lei ha tre donne? A parte mia moglie, non so chi siano le altre due. Tre donne nelle carte. Tre donne nelle carte? Allora che? Ha vinto. Ha vinto? Sì, tre donne vincono tre dieci. Ho capito. Beh, bella fortuna. Ecco qua, prenda tutto allora. Prenda, prenda. Certo che per essere un principiante, lei è una fortuna sfacciata.",
+          "start": 175.42,
+          "end": 209.68,
+          "id": "card-6",
+          "english": "Sorry, gentlemen, three tens. Mr. Vianello? You have three queens? Aside from my wife, I have no idea who the other two are. Three queens on the cards. Three queens? So what happens? He wins. He wins? Yes, three queens beats three tens. I see. Well, quite the lucky streak. There you go, take it all then. Take it, take it. For a beginner, you really do have shameless luck.",
+          "audio": "audio/casa-vianello/ep1/block-1/card-6.mp3"
+        },
+        {
+          "italian": "Vergognosa, direi. Lei mi sta rovinando, signor Vianello. Ma scusate, io non volevo. Vabbè, siamo l'ultima mano. Quante carte? Una. Due. Lei? Niente, grazie, sto così. Una per me. Tre milioni. Vedo i tre milioni.",
+          "start": 210.3,
+          "end": 241.52,
+          "id": "card-7",
+          "english": "Scandalous, I'd say. You're ruining me, Mr. Vianello. But listen, I didn't mean to... Well, this is the last hand. How many cards? One. Two. And you? Nothing, thanks, I'll stay as is. One for me. Three million. I'll call the three million.",
+          "audio": "audio/casa-vianello/ep1/block-1/card-7.mp3"
+        },
+        {
+          "italian": "Vabbè, vedo anch'io. Cinque milioni. Ma lei è matta. Poi io ho il diritto di rifarmi, eh. Anna, tu non hai cinque milioni. E poi hai già abbastanza debiti. Eh sì, Anna. Devi ritirarti. A meno che? A meno che? Bene, offro me stessa. Sempre che siate d'accordo. Oh, certo. Per me va benissimo. D'accordissimo. Io non capisco, che significa?",
+          "start": 242.9,
+          "end": 275.84,
+          "id": "card-8",
+          "english": "Well, I'll call too. Five million. Are you out of your mind? Besides, I have every right to try and win it back, you know. Anna, you don't have five million. And you've already got plenty of debts as it is. Yes, Anna. You need to withdraw. Unless...? Unless what? Fine — I'll wager myself. Assuming you're all in agreement. Oh, of course. That's perfectly fine with me. Completely agreed. I don't understand — what does that mean?",
+          "audio": "audio/casa-vianello/ep1/block-1/card-8.mp3"
+        },
+        {
+          "italian": "Significa che chi vincerà il piatto, oltre alle fish, vincerà anche il resto della nottata... con Anna. Ma come? No, no, no. Ma io non posso accettare questo modo di giocare. Ma è scandaloso, ma... Anche lei... Ma lei non si preoccupi, signor Raimondo. È un mio diritto quello di rifarmi. Anzi, la prego, se vuole essere gentile, di essere d'accordo con gli altri. Certo, non può negare ad Anna questo diritto. Però posso prestarle io e... No, non sarebbe regolare. E potreste poi alla fine far gioco di coppia, eh?",
+          "start": 276.44,
+          "end": 307.58,
+          "id": "card-9",
+          "english": "It means that whoever wins the pot wins not just the chips, but also the rest of the night... with Anna. What? No, no, no. I can't accept playing this way. This is outrageous, but... you too, even you... Please, don't worry about it, Mr. Raimondo. Winning back my losses is my right. In fact, I'd ask you kindly to go along with the others on this. Of course, you can't deny Anna this right. But I could lend her the money and... No, that wouldn't be proper. And besides, couldn't the two of you just team up in the end anyway?",
+          "audio": "audio/casa-vianello/ep1/block-1/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-2",
+      "label": "5:00–10:00",
+      "cards": [
+        {
+          "italian": "Vede, io la ringrazio del pensiero, ma... tra di noi, nel poker, le regole sono molto rigide. È proprio una questione d'onore. Chiamato l'onore. Bene, allora, la mia offerta va bene per tutti? Ma io... Io sarei contrario, ma contenti voi. Eravamo al mio rilancio. Chi vede i miei 5 milioni? Io li vedo. Li vedo anch'io. E lei, signor Pianello? Ma oramai me l'avete incastrato. Anch'io li vedo, ecco qua. Full di re.",
+          "start": 309.02,
+          "end": 339.3,
+          "id": "card-1",
+          "english": "You see, I appreciate the thought, but... among us, poker has very strict rules. It's really a matter of honor. Called honor, exactly. Alright then, so my offer works for everyone? But I... I'd be against it, but if you're all happy, fine. We were at my raise. Who's calling my five million? I'll call it. Me too. And you, Mr. Vianello? Well, at this point you've cornered me into it. I'll call too, here you go. Full house, kings.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-1.mp3"
+        },
+        {
+          "italian": "Io vedo una scala. Di donne. Io avrei un full d'assi. Ma che fortuna! Apportuno dei principianti. Ma no, che fate? Un momento! Queste le aveva perse la signora Sandra. Adesso siamo pari. Queste sono nostre. E io cosa vinco? Lei ha vinto la parte migliore. Ma scusi... Anna. Ma no, ma io non potrei mai approfittare di questa situazione. Non ci penso nemmeno. Lei non deve dire questo. I debiti di gioco si pagano fino in fondo.",
+          "start": 339.64,
+          "end": 370.28,
+          "id": "card-2",
+          "english": "I've got a flush. Of queens. I'd have a full house of aces. What luck! Beginner's luck, apparently. No, wait, what are you doing? Hold on! This was Mrs. Sandra's money that she lost. Now we're even. This belongs to us. And what do I win? You've won the better part of the deal. But excuse me... Anna. No, I could never take advantage of this situation. I wouldn't even dream of it. You mustn't say that. Gambling debts get paid in full.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-2.mp3"
+        },
+        {
+          "italian": "È una questione di dignità del giocatore. Ma i debiti sono debiti, lo so. Però... Però questa vincita è un'altra cosa. Dal momento che lei ha accettato di giocare il piatto, è tenuto ad avere la sua vincita. Sì, sì, ha ragione Boggi. Vede, è proprio una questione di dignità mia, personale. Se io non pagassi il debito, non vorrei più accettata ai tavoli da gioco. Eh, ho capito, ma... Signor Pianello. Sì. Non abbiaremo, eh. Beato lei, signor Pianello. Bene, arrivederci. E buon divertimento.",
+          "start": 370.72,
+          "end": 401.36,
+          "id": "card-3",
+          "english": "It's a matter of a player's dignity. Debts are debts, I know. But... but this win is a different matter. Since you agreed to play for the pot, you're entitled to your winnings. Yes, yes, Boggi's right. You see, it really is a matter of my own personal dignity. If I didn't pay the debt, I wouldn't want to be welcomed at the gaming tables anymore. Uh, I understand, but... Mr. Vianello. Yes. We won't wait up, then. Lucky you, Mr. Vianello. Alright, goodbye. And have fun.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-3.mp3"
+        },
+        {
+          "italian": "Divertitevi. Signor Raimondo, sa che volevo ringraziarla veramente. Lei è un vero gentiluomo. Sì, perché non voleva approfittare della situazione. Però lei mi deve promettere una cosa. Che rimarrà tra noi due. Cosa? Cioè, che non lo dirà nessuno che io non ho pagato il mio debito di gioco. No, no, un momento. Forza, scusi. No, no, eh... I debiti di gioco sono... sono una cosa seria. Noi non possiamo trasgredire una regola, che me lo lasci dire, è una regola fondamentale del...",
+          "start": 403.2,
+          "end": 438.84,
+          "id": "card-4",
+          "english": "Enjoy yourselves. Mr. Raimondo, you know, I really wanted to thank you. You're a true gentleman. Yes, because you didn't want to take advantage of the situation. But you have to promise me one thing. That this stays between the two of us. What? That you won't tell anyone that I didn't pay my gambling debt. No, no, wait a second. Come on, excuse me. No, no, uh... gambling debts are... a serious matter. We can't break a rule — let me say this — it's a fundamental rule of...",
+          "audio": "audio/casa-vianello/ep1/block-2/card-4.mp3"
+        },
+        {
+          "italian": "Ma scusi, se fino a un momento fa lei era contrario. Eh, sì, eh... ero contrario, ma poi tutti mi avete fatto capire che non... che non dovevo tirarmi indietro. Ho capito. Voi uomini siete tutti uguali, eh. Vabbè, tanto sono stata io a mettermi in queste situazioni. Beh, insomma... arrivati a questo punto delle cose... Con sua moglie che non si sa quando torna. Eh, sì, io ne avrei fatto anche a meno, ma insomma... i debiti di gioco, insomma... sono... debiti d'onore, ecco, d'onore. E vabbè, allora vorrei chiederti una cosa.",
+          "start": 438.84,
+          "end": 471.5,
+          "id": "card-5",
+          "english": "But excuse me, just a moment ago you were against this. Uh, yes, uh... I was against it, but then all of you made me understand that I... that I shouldn't back out. I see. You men are all the same, you know. Well, anyway, I'm the one who got myself into this situation. Well, I mean... at this point... with your wife, who knows when she'll be back. Uh, yes, I could've done without it too, but well... gambling debts, I mean... are... debts of honor, that's it, of honor. Well then, I'd like to ask you something.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-5.mp3"
+        },
+        {
+          "italian": "Hai notato? Già sono passata al tuo, eh. Eh beh, sì, perché quando ci sono i debiti, il tuo è giusto da risolvere. Eh, sì. Perché non beviamo qualcosa? Sì, come no, subito. Beviamo qualcosa. Così, dico, tanto per scaldare un po' l'atmosfera, no? Eh già, per scaldare l'atmosfera ci beviamo qualcosa, ma senz'altro. Eh, così ci conosciamo un po'. Ci conosciamo più. Whisky va bene, vero? Oh sì, sì, quello che vuoi. Ecco qui il whisky. Tanto per riscaldarci un po'.",
+          "start": 471.98,
+          "end": 502.9,
+          "id": "card-6",
+          "english": "Have you noticed? I've already switched to calling you by your first name. Well, yes, because when there are debts involved, it's only right to sort things out on a first-name basis. Uh, yes. Why don't we have a drink? Yes, of course, right away. Let's have a drink. You know, just to warm up the atmosphere a bit, right? Ah yes, to warm up the atmosphere let's have a drink, absolutely. So we get to know each other a little. Get to know each other better. Whisky's fine, right? Oh yes, yes, whatever you like. Here's the whisky. Just to warm us up a little.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-6.mp3"
+        },
+        {
+          "italian": "Eh, scusa, però... Sì? Una cortesia, un cubetto di ghiaccio, non ce l'hai? Un cubetto? Un altro che uno? Eh, ci basta uno. No, no, ma ne ho tanti io. Vado a prendere il ghiaccio, perché ci sta bene il ghiaccio. Sì. Torno subito, eh. Eccolo qui.",
+          "start": 503.12,
+          "end": 540.96,
+          "id": "card-7",
+          "english": "Uh, excuse me, though... Yes? A favor — you don't happen to have an ice cube, do you? An ice cube? Just the one? Uh, one's enough for us. No, no, I have plenty. I'll go get the ice, because ice goes well with this. Yes. I'll be right back, okay. Here it is.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-7.mp3"
+        },
+        {
+          "italian": "Ecco il ghiaccio. Gentile. Pronti, pronti, pronti, pronti. Eccolo qui, il cubetto di ghiaccio. Basta uno, grazie. Ecco. Allora... Allora brindiamo. Brindiamo. Brindiamo alla nostra notte insieme. Sì, sì, sì, sì, sì, sì, sì, sì. È un saporaccio questo, eh? Ma no, è buonissimo. Che whisky è? Deve essere una buona marca.",
+          "start": 541.92,
+          "end": 572.68,
+          "id": "card-8",
+          "english": "Here's the ice. How kind. Ready, ready, ready, ready. Here it is, the ice cube. One's enough, thanks. There you go. So... Let's toast. Let's toast. Let's toast to our night together. Yes, yes, yes, yes, yes, yes, yes, yes. This tastes awful, doesn't it? Oh no, it's excellent. What brand of whisky is this? It must be a good one.",
+          "audio": "audio/casa-vianello/ep1/block-2/card-8.mp3"
+        },
+        {
+          "italian": "Ma mi... Ma che... Che ore sono? Ma cosa conta l'ora? Eh... Ma cosa... Cosa dicevamo prima? Sì, rilassiamoci un po'. Ehi, ti va? Ah, sì, devi ti... Ti devi dire qualcosa. Sì, dì. Sì, dì. Ma Sandra è una mania la tua moglie. Ma Raimondo! Ma sono io, Anna. Raimondo. Come Anna?",
+          "start": 573.94,
+          "end": 606.52,
+          "id": "card-9",
+          "english": "But I... but what... What time is it? But what does the time matter? Uh... But what... What were we saying before? Yes, let's relax a little. Hey, are you up for it? Ah, yes, I need to... I need to tell you something. Yes, go ahead. Yes, go ahead. But Sandra — your wife is such a bore. But Raimondo! But it's me, Anna. Raimondo. What do you mean, Anna?",
+          "audio": "audio/casa-vianello/ep1/block-2/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-3",
+      "label": "10:00–15:00",
+      "cards": [
+        {
+          "italian": "Sì, Raimondo. Ma che ore sono? Eh, sono le nove e mezza, è tardi, pigrone. No, Raimondo. Le nove e mezza? Ma Anna, ma che... Raimondo sei stato bravissimo. Bravissimo a far cosa? Eh, straordinario. Io non avrei mai potuto immaginare la notte di fuoco che abbiamo passato insieme. Dimmelo a me, io... Tu, Raimondo, sei vigoroso, sei instancabile, sei pieno di fantasia. Ti dirò anche di tecnica.",
+          "start": 606.66,
+          "end": 638.48,
+          "id": "card-1",
+          "english": "Yes, Raimondo. But what time is it? Uh, it's half past nine, it's late, sleepyhead. No, Raimondo. Half past nine? But Anna, but what... Raimondo, you were amazing. Amazing at what? Extraordinary. I never could have imagined the night of passion we spent together. Tell me about it — I... You, Raimondo, you're vigorous, you're tireless, you're full of imagination. I'd even say — technique.",
+          "audio": "audio/casa-vianello/ep1/block-3/card-1.mp3"
+        },
+        {
+          "italian": "Sì, effettivamente io, quando giocavo centrocampista, insomma, sapevo... Ma quale centrocampista, Raimondo? Tu sei un'amante eccezionale, un vero Casanova. Sì, onestamente sì, insomma, anche quello, ma... Non è che mi ricordo molto bene, forse è stato l'ultimo che... Eh, ma mi ricordo io. Questa notte non mi hai dato tregua. La tua virilità è insaziabile. Sì, ma tutto così... Non hai avuto neanche il tempo di spogliarti tant'era la foga.",
+          "start": 639.76,
+          "end": 674.06,
+          "id": "card-2",
+          "english": "Yes, actually, when I used to play as a midfielder, well, I knew how to... What midfielder, Raimondo? You're an exceptional lover, a real Casanova. Yes, honestly, yes, well, that too, but... I don't really remember it very well, maybe it was the last time that... Well, but I remember. Last night you gave me no rest. Your virility is insatiable. Yes, but everything so... You didn't even have time to undress, that's how urgent it was.",
+          "audio": "audio/casa-vianello/ep1/block-3/card-2.mp3"
+        },
+        {
+          "italian": "Ma proprio... Ma poi, scusa, guardati, non ti vedi. Ma guarda, guarda. Scusa, voglio dire, non vedi i segni della nostra notte di fuoco? Guarda, guarda. Ma scusa, c'è pure un capello qua. Un capello? E poi non senti il mio profumo su di te? Che effettivamente sì. Ma sei proprio sicura che tu ed io... Ma Raimondo, ma non ti ricordo... Ma vieni, ma vieni a vedere.",
+          "start": 674.22,
+          "end": 704.6,
+          "id": "card-3",
+          "english": "But really... But wait, look at yourself, you can't even see yourself. But look, look. Sorry, I mean, can't you see the marks from our night of passion? Look, look. But wait, there's even a hair here. A hair? And can't you smell my perfume on you? Actually, yes. But are you really sure that you and I... But Raimondo, you don't remember...? But come here, come see.",
+          "audio": "audio/casa-vianello/ep1/block-3/card-3.mp3"
+        },
+        {
+          "italian": "Vieni, guarda. Ci è bastata una nottata per ottenere questo risultato. Ma che cosa abbiamo fatto per ridurla così? Ma come, birrichino? Adesso fai finto di non ricordarti. Ma tu guarda. Abbiamo cominciato con... Madonna! E poi abbiamo continuato con...",
+          "start": 709.16,
+          "end": 740.28,
+          "id": "card-4",
+          "english": "Come, look. It only took one night to end up looking like this. But what did we do to end up like this? Oh come on, you little rascal. Now you're pretending you don't remember. Just look. We started off with... Good Lord! And then we continued with...",
+          "audio": "audio/casa-vianello/ep1/block-3/card-4.mp3"
+        },
+        {
+          "italian": "Addirittura? E poi lì... Beh, devo dire che, insomma, alla mia età mi difendo ancora bene. Non sono nemmeno stanco. Mi dispiace, ma adesso, Raimondo, io devo proprio andare. Il mio debito è saldato. E noi siamo amici come prima, vero?",
+          "start": 740.28,
+          "end": 771.2,
+          "id": "card-5",
+          "english": "Really? And then there... Well, I have to say that, well, at my age I still hold up quite well. I'm not even tired. I'm sorry, but I really do have to go now, Raimondo. My debt is settled. And we're still friends as before, right?",
+          "audio": "audio/casa-vianello/ep1/block-3/card-5.mp3"
+        },
+        {
+          "italian": "Ok. Ciao, stallone. Ma... Ma è qualcosa? Ah, devo... Devo telefonare subito a Dolores per dirle che non sa quello che si perde. Ecco qui. Ah, Sandra, Sandra! Per lì, per lì. Madonna, Raimondo, ma che cosa meravigliosa un parto!",
+          "start": 771.32,
+          "end": 803.4,
+          "id": "card-6",
+          "english": "Okay. Bye, stallion. But... something wrong? Ah, I need... I need to call Dolores right away and tell her what she's missing. Here it is. Ah, Sandra, Sandra! This way, this way. Good Lord, Raimondo, what a wonderful thing, a birth!",
+          "audio": "audio/casa-vianello/ep1/block-3/card-6.mp3"
+        },
+        {
+          "italian": "Pensa che il bambino di Francesco pesa 3,850 kg. E il parto è stato naturale, proprio lei non ha sofferto niente, niente. Beh, sono proprio contento, guarda. Devo uscire subito perché devo andare a fare la spesa perché lei, poverina, non si può muovere. Eh, già. Perché ha la mano sulla fronte? Ha un mal di testa. E perché ce l'ha anche sul collo? Eh, torcicollo. Certo che sei anche tutto un cencio, eh. Un postraccio proprio, sì. Eh, va bene, va bene. Ah, a proposito, il poker com'è andato?",
+          "start": 803.94,
+          "end": 834.14,
+          "id": "card-7",
+          "english": "Just think, Francesca's baby weighs 3.85 kilos. And it was a natural birth — she didn't suffer at all, not one bit. Well, I'm really happy, you know. I have to go out right away because I need to do the shopping, since she, poor thing, can't move around. Uh, right. Why does she have her hand on her forehead? She has a headache. And why is it on her neck too? Uh, stiff neck. You really look like a wreck too, you know. An absolute mess, really. Well, alright, alright. Ah, by the way, how did the poker game go?",
+          "audio": "audio/casa-vianello/ep1/block-3/card-7.mp3"
+        },
+        {
+          "italian": "Ti dirò, all'inizio... Sì, va bene, me lo racconterai, Raimondo, perché può darsi anche che dobbiamo prendere il latte, perché... Io non credo che Francesco possa già lattare, anzi, senz'altro non può. Perché poi, sai, non ci sono né oli né franga. Ho capito, ma quando dormi tu? È quando torno, è quando avrò fatto la spesa, eh. Sì. Oh, sempre ti lascia un solo preoccuparti. Tu comunque non ti preoccupare. No. Perché quando torno, torno. Ah, ma... Sei tornata, eh, non ti è bastato quello che abbiamo combinato questa notte per?",
+          "start": 834.72,
+          "end": 866.26,
+          "id": "card-8",
+          "english": "I'll tell you, at first... Yes, fine, you can tell me later, Raimondo, because it's also possible we'll need to get some milk, because... I don't think Francesca can breastfeed yet, actually, definitely not. Because then, you know, there's neither the... nor the setup. I understand, but when do you sleep? Whenever I get back, whenever I've finished the shopping. Yes. Oh, you're always leaving me to worry alone. Anyway, don't you worry about it. No. Because whenever I get back, I get back. Ah, but... you're back already, huh — wasn't what we got up to last night enough for you?",
+          "audio": "audio/casa-vianello/ep1/block-3/card-8.mp3"
+        },
+        {
+          "italian": "Ma, vuoi... Sì. Ma che succede? Ma che? Mio marito, mio marito sta salendo qui. Io non capisco cos'è successo, doveva tornare alla fine della settimana. Invece l'ho incontrato per strada, sta salendo. Eh, ho capito, ma che devo fare, che dobbiamo fare? Devi dirgli la verità. Devo dirgli che siamo stati insieme? Ho detto che devi dirgli la verità, cioè che noi non siamo stati insieme. Eh, ma allora devo mentire. No, tu nega, nega tutto. Buongiorno, con chi ho il piacere?",
+          "start": 866.26,
+          "end": 899.98,
+          "id": "card-9",
+          "english": "But, do you want... Yes. But what's happening? But what? My husband, my husband is coming up here. I don't understand what happened, he was supposed to be back at the end of the week. But I ran into him on the street, he's coming up. Uh, I understand, but what do I do, what do we do? You have to tell him the truth. I have to tell him we slept together? I said you have to tell him the truth — that is, that we did NOT sleep together. But then I have to lie. No, you deny it, deny everything. Good day, and who do I have the pleasure of speaking with?",
+          "audio": "audio/casa-vianello/ep1/block-3/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-4",
+      "label": "15:00–20:00",
+      "cards": [
+        {
+          "italian": "Ah, no, non mentire. Non dire niente. Non aggiungere altra vergogna. No, Riccardo. Ho parlato con Bocci. Gli ho strappato tutta la verità. So tutto. Della partita a poker. Della notte che hai passato qui. No, Riccardo. No, Riccardo, non è come sembra. Tu ti sbagli. Sì, lo so, lo so. Conosco questo tuo vizio maledetto che hai. Ma... Il vizio per il gioco. Hai dilapidato una fortuna. Ma mai avrei immaginato che sareste arrivata al punto di vendere il tuo corpo. Vergogna! È vergogna anche a lei, signor Pianello. Io? Perché? Mia moglie è vittima, è schiava del suo vizio per il gioco. Ma lei?",
+          "start": 900.0,
+          "end": 930.64,
+          "id": "card-1",
+          "english": "Oh no, don't lie. Don't say anything. Don't add more shame to this. No, Riccardo. I spoke with Boggi. I got the whole truth out of him. I know everything. About the poker game. About the night you spent here. No, Riccardo. No, Riccardo, it's not what it looks like. You're wrong. Yes, I know, I know. I know this cursed vice of yours. But... The vice for gambling. You've squandered a fortune. But I never would have imagined you'd go so far as to sell your own body. Shame on you! Shame on you too, Mr. Vianello. Me? Why? My wife is a victim, a slave to her gambling addiction. But you?",
+          "audio": "audio/casa-vianello/ep1/block-4/card-1.mp3"
+        },
+        {
+          "italian": "Io ho un vizio per un altro tipo. Però le posso assicurare che tra sua moglie e me non c'è stato niente. Niente. Non c'è stato niente? Niente, niente, niente. È questo? È questo? Eh? Sono la prova lampante che quello che dico è la verità. Lei è un bugiardo. No, come si permette? No, questi sono i segni di una notte passata con mia moglie. Con sua moglie? Ma se lo sanno tutti che sono anni che non fate più nulla? Appunto, però, quando succede sono centinaio di anni. Lei ha distrutto il mio matrimonio.",
+          "start": 932.16,
+          "end": 964.44,
+          "id": "card-2",
+          "english": "I have a vice for a different kind of thing. But I can assure you that nothing happened between your wife and me. Nothing. Nothing happened? Nothing, nothing, nothing. Is this it? Is this it? Huh? These are clear proof that what I'm saying is the truth. You're a liar. No, how dare you? No, these are marks from a night spent with my wife. With your wife? But everyone knows you two haven't done anything in years! Exactly, but when it does happen, it's a once-in-a-hundred-years event. You've destroyed my marriage.",
+          "audio": "audio/casa-vianello/ep1/block-4/card-2.mp3"
+        },
+        {
+          "italian": "Anna, non voglio più vederti. Vabbè, Riccardo, tu farai come vuoi, però adesso mi ascolti. Tra me e il signor Raimondo non è successo assolutamente niente perché io l'ho narcotizzato. Ma va allora a contare a qualcun altro. Allora te lo dimostro. Vedi questi due bicchieri? Sono quelli in cui abbiamo bevuto ieri sera. Questo è quello del signor Raimondo. Senti l'odore. Lo riconosci? Questo è il mio sonnifero. Gli ho versato una fialetta intera. È vero, questo è il sonnifero che uso ogni tanto. Ma tutta una fialetta gli hai messo? E lui l'ha bevuto prima di riscuotere la vincita e si è addormentato di botto.",
+          "start": 965.32,
+          "end": 1000.02,
+          "id": "card-3",
+          "english": "Anna, I never want to see you again. Fine, Riccardo, do as you please, but now you listen to me. Nothing whatsoever happened between me and Mr. Raimondo, because I drugged him. Oh, go tell that to someone else. Then let me prove it to you. See these two glasses? These are the ones we drank from last night. This one is Mr. Raimondo's. Smell it. Recognize it? This is my sleeping medication. I poured an entire vial into it. It's true, this is the sleeping medication I use from time to time. But you put a whole vial in there? And he drank it right before collecting his winnings and fell asleep instantly.",
+          "audio": "audio/casa-vianello/ep1/block-4/card-3.mp3"
+        },
+        {
+          "italian": "Ma allora non sono io ad essere cornuto, ma lui è un fesso. Io finalmente l'ho capito. No, no, no, un momento. Quale fesso? Quale fesso? Signor Coso, non so lì come si chiama. Venga qui, venga qui. Finché si scherza, si scherza. Venga. Guardi, è qui che sua moglie ed io abbiamo passato la notte. Che gliele pare? Ma cosa avete fatto per ridurla così? Ah, vuol saperlo.",
+          "start": 1001.6,
+          "end": 1032.4,
+          "id": "card-4",
+          "english": "So then I'm not the one who's been cheated on — he's the fool. I finally understand it now. No, no, no, wait a second. What fool? What fool? Mister — whatchamacallit, I don't even know his name. Come here, come here. As long as we're joking around, we're joking around. Come here. Look, this is where your wife and I spent the night. What do you say to that? But what did you two do to end up looking like this? Ah, you want to know?",
+          "audio": "audio/casa-vianello/ep1/block-4/card-4.mp3"
+        },
+        {
+          "italian": "Prima abbiamo cominciato con... Ma no. E poi abbiamo continuato con... Addirittura, queste cose non le fanno neanche con me. Eh, caro mio, ma io sono un amante eccezionale, sai. Ciao. Ciao, Sandra. Il giorno l'ha capito o no, signor Coso, che io e Anna abbiamo passato una notte di fuoco. Io sono di una virilità insensata.",
+          "start": 1033.16,
+          "end": 1065.26,
+          "id": "card-5",
+          "english": "First we started with... Oh, come on. And then we continued with... Unbelievable, she doesn't even do these things with me. Well, my friend, but I'm quite an exceptional lover, you know. Bye. Bye, Sandra. Have you finally understood, Mister whatchamacallit, that Anna and I spent a night of passion together? I possess an insane virility.",
+          "audio": "audio/casa-vianello/ep1/block-4/card-5.mp3"
+        },
+        {
+          "italian": "Insatiabile, un amante infaticabile. Abbiamo dato una ripassata al Kamasutra che lei se la sogna. Caro mio signor Coso. Che cosa? No. Tu hai fatto tutto questo? No. E allora beccati. Questo? Ma lei che uomo è? Sì. Non reagisce? Davvero, signora. Lei ha ragione, mi ha convinto. Perché ha convinto? Sono incornuto pure in questa se non reagisce. Ma è vero. Che noia, che barba, che barba, che noia.",
+          "start": 1065.26,
+          "end": 1100.26,
+          "id": "card-6",
+          "english": "Insatiable, a tireless lover. We gave the Kama Sutra a whole refresher course that you can't even dream of, my dear Mister whatchamacallit. What? No. You did all this? No. Well then, take that. This? But what kind of man are you? Yes. You're not going to react? Really, ma'am. You're right, you've convinced me. Convinced of what? I'm cheated on even in this scenario if he doesn't react. But it's true. What a bore, what a drag, what a drag, what a bore.",
+          "audio": "audio/casa-vianello/ep1/block-4/card-6.mp3"
+        }
+      ]
+    }
+  ]
+}
