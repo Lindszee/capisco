@@ -1,0 +1,333 @@
+{
+  "id": "ep1",
+  "title": "Il Primo Giorno",
+  "sourceUrl": "",
+  "blocks": [
+    {
+      "id": "block-1",
+      "label": "0:00–5:00",
+      "cards": [
+        {
+          "italian": "Scusi sa dov'è il regista? Eh? Il regista sa dov'è? Ma vattene a fare il culo eh! Gli occhi del cuore, gli occhi del cuore, Boris! Userò gli occhi del cuore per capire i tuoi segreti, per capire cosa pensi nei tuoi primi piani intensi, Boris! I tuoi piani americani, così intensi e così italiani, Boris!",
+          "start": 12.0,
+          "end": 45.7,
+          "id": "card-1",
+          "english": "Excuse me, do you know where the director is? Huh? Does the director know where he is? Oh, go to hell! The Eyes of the Heart, the Eyes of the Heart, Boris! I'll use the eyes of the heart to understand your secrets, to understand what you're thinking in your intense close-ups, Boris! Your American shots, so intense and so Italian, Boris!",
+          "audio": "audio/boris/ep1/block-1/card-1.mp3"
+        },
+        {
+          "italian": "Fatti un po' a cazzo di cane, Boris! Userò gli occhi del cuore come fa un dottore cieco, quando che opera i pazienti stanno tutti molto attenti. Oh Boris, Boris! Su, attacca sta spina, su!",
+          "start": 46.8,
+          "end": 80.66,
+          "id": "card-2",
+          "english": "Get your shit together, Boris! I'll use the eyes of the heart the way a blind doctor does — when he operates, the patients all pay very close attention. Oh Boris, Boris! Come on, plug that cable in, come on!",
+          "audio": "audio/boris/ep1/block-1/card-2.mp3"
+        },
+        {
+          "italian": "Non c'arrivo! E che ce vuoi? Dai, allungate un po' ste mani! Non c'arrivo! Mannaggia, sta a far perdere tempo la gente, tu eh! Deciappella subito, dai! Sì, certo, certo, però tu ascoltami bene adesso, Boris! Noi dobbiamo fare una grandissima regia, io ti voglio concentrato come l'anno scorso, capito?",
+          "start": 81.34,
+          "end": 114.04,
+          "id": "card-3",
+          "english": "I can't reach it! Well, what do you want from me? Come on, stretch your arms out a bit! I can't reach it! Damn it, you're wasting everyone's time! Get it unstuck, come on! Yes, of course, of course, but listen to me carefully now, Boris! We have to do some seriously great directing here — I want you as focused as you were last year, got it?",
+          "audio": "audio/boris/ep1/block-1/card-3.mp3"
+        },
+        {
+          "italian": "Dobbiamo spaccare tutto, Boris, dai! Dai, dai, dai! Scusi, lei è il regista? È arrivato Lopez. Chi sei, che vuoi, che fai qua? Eh, veramente sono lo stagista, volevo solo... No, tu non vuoi niente, tu stai fermo qui, in silenzio e aspetti i ordini, ok? Non è del tuo reparto. Tutti dicono che fare Gli Occhi del Cuore 2 è un'autentica pazzia.",
+          "start": 116.0,
+          "end": 148.26,
+          "id": "card-4",
+          "english": "We have to smash it, Boris, come on! Come on, come on, come on! Excuse me, are you the director? Lopez has arrived. Who are you, what do you want, what are you doing here? Uh, actually I'm the intern, I just wanted... No, you don't want anything, you stand right here, keep quiet, and wait for orders, okay? This isn't your department. Everyone says making Eyes of the Heart 2 is pure madness.",
+          "audio": "audio/boris/ep1/block-1/card-4.mp3"
+        },
+        {
+          "italian": "Dice, ti hanno sospeso la prima serie e la terza puntata, che fai? Ne fai un'altra? Ma cosa, sei scemo? Sei cretino? Ah, allora è cretino il dottor Cane, che ci crede così tanto. Allora sono cretini i greci che intanto stanno comprando il format! Dice che Gli Occhi del Cuore è andata male. No, non è andato male. È stato collocato male nel palinsesto.",
+          "start": 148.74,
+          "end": 182.36,
+          "id": "card-5",
+          "english": "They say — they suspended your first series after the third episode, so what do you do? You make another one? What, are you an idiot? Are you stupid? Oh, so Dr. Cane is stupid, is he, for believing in it so much? So the Greeks are stupid too, for buying the format right now! They say Eyes of the Heart flopped. No, it didn't flop. It was scheduled badly.",
+          "audio": "audio/boris/ep1/block-1/card-5.mp3"
+        },
+        {
+          "italian": "Non era giusta la fascia oraria, non era giusto il periodo. Ma allora sospenderlo è stata una sconfitta? No, al contrario! È stata la preparazione a una vittoria. Sì, perché noi ora siamo pronti a rimandare in onda la prima serie, ma con un lancio, un, signori, un lancio straordinario! Però... bisogna cambiare mentalità. Sì, sì, sì. E io mi domando, ma voi siete in grado di cambiare mentalità?",
+          "start": 183.48,
+          "end": 215.78,
+          "id": "card-6",
+          "english": "The time slot wasn't right, the season wasn't right. So suspending it was a defeat? No, quite the opposite! It was the setup for a victory. Yes, because now we're ready to put the first series back on air — but with a launch, ladies and gentlemen, an extraordinary launch! But... we need to change our mindset. Yes, yes, yes. And I ask you — are you all capable of changing your mindset?",
+          "audio": "audio/boris/ep1/block-1/card-6.mp3"
+        },
+        {
+          "italian": "Perché io vi avverto, se non si cambia mentalità qui, noi gireremo questa, la puntata conclusiva, l'attentato dove muoiono tutti i personaggi e finisce tutto. E poi tutti a casa ad aggiornare il curriculum. Hai capito, René? No, io lo so che di voi mi posso fidare. Sì, già vedo un grande direttore a fotografia in perfetta forma, Duccio, che si è ripreso completamente. E poi, René Ferretti.",
+          "start": 216.62,
+          "end": 249.64,
+          "id": "card-7",
+          "english": "Because I'm warning you — if the mindset here doesn't change, we're going to shoot this, the final episode, the attack where all the characters die and it all ends. And then everyone goes home to update their résumé. Understood, René? No, I know I can trust you. Yes, I can already picture a great director of photography in perfect form, Duccio, fully recovered. And then, René Ferretti.",
+          "audio": "audio/boris/ep1/block-1/card-7.mp3"
+        },
+        {
+          "italian": "René non è un regista. René è la regia! Eccoli, puntualissimi, gli auguri del dottor Cane. Ma che tempismo! Ai quali, senz'altro, mi unisco anch'io, ma ricordatevi, bisogna cambiare la mentalità. Io vi chiedo di mettere il cuore negli occhi del cuore 2. Buon lavoro a tutti. Dottor! Biascica!",
+          "start": 250.62,
+          "end": 281.5,
+          "id": "card-8",
+          "english": "René isn't a director. René is direction itself! And there they are, right on time — Dr. Cane's best wishes. Talk about timing! Which, of course, I echo as well — but remember, we need to change our mindset. I'm asking you all to put your heart into Eyes of the Heart 2. Good work, everyone. Doctor! Biascica!",
+          "audio": "audio/boris/ep1/block-1/card-8.mp3"
+        },
+        {
+          "italian": "No, no, trattutto rispetto. Dottor, noi il cuore ce lo mettiamo, eppure l'occhi, 2. Però c'è ancora in piedi qua la questione dei straordinari d'aprile. Ma quale straordinari? A me piace. Quelli dell'Ibeccio. Ancora? Ma quella è una storia di un anno e mezzo fa. Appunto, un anno e mezzo che aspettiamo. Biascica, quei soldi non li vedrete mai. No, non è giusto. Mai. Non è mica una cosa bella. Non si fa così. Biascica, ho capito che è giusto. No, è l'Immortan Guerrieri.",
+          "start": 281.74,
+          "end": 311.94,
+          "id": "card-9",
+          "english": "No, no, with all due respect. Doctor, we're putting our heart into it, and the eyes too. But there's still the matter of April's overtime pay. What overtime? I like this guy. The one from Ibeccio. Still? But that's a story from a year and a half ago. Exactly — a year and a half we've been waiting. Biascica, you're never going to see that money. No, that's not right. Never. That's not a nice thing to do. It's not right. Biascica, I get that it's not right. No, it's the Immortan Warriors.",
+          "audio": "audio/boris/ep1/block-1/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-2",
+      "label": "5:00–10:00",
+      "cards": [
+        {
+          "italian": "Ma scusami. È l'Immortan Guerrieri. Ma guardate pure lo schiavo, scusami tanto, lo devo togliere? No, no, che toglie? Ah sì, lo tolgo, va bene. No, lo toglio! E io lo tolgo, va bene. È l'Immortan Guerrieri! È l'Immortan Guerrieri, cammina! Dai! È sempre uguale. Signori, allora adesso iniziamo con la 168. Vi ricordo che non si fuma sul set. Grazie, Duccio, l'ho visto buttare quella sigaretta.",
+          "start": 312.0,
+          "end": 342.42,
+          "id": "card-1",
+          "english": "Excuse me. It's the Immortan Warriors. But look, it's the slave — sorry, should I take it out? No, no, why take it out? Oh yeah, I'll take it out, fine. No, I'll take it out! And I'll take it out, fine. It's the Immortan Warriors! It's the Immortan Warriors, walk! Come on! It's always the same. Ladies and gentlemen, let's start with scene 168. Reminder — no smoking on set. Thanks, Duccio, I just saw you throw that cigarette.",
+          "audio": "audio/boris/ep1/block-2/card-1.mp3"
+        },
+        {
+          "italian": "Allora, primo, tu non parli se non interpellato. Mai. Secondo, se ti dico di fare una cosa, tu la fai e basta. Terzo, tu non sei lo stagista di regia. Tu sei una macchina, sei una scheggia, sei un furetto. Se non ti sta bene, te ne vai. Va bene, io sono Alessandro. Sì, non fa niente, le ricordiamo. Vieni con me. Piacica, ti può servire questo? Dai, vai da bianco, vai. De che squadra sei? Come scusa? De che squadra sei? De la...",
+          "start": 343.08,
+          "end": 376.86,
+          "id": "card-2",
+          "english": "Right, first rule — you don't speak unless spoken to. Ever. Second, if I tell you to do something, you do it, no questions. Third, you are not the directing intern. You're a machine, you're a splinter, you're a ferret. If you don't like it, you can leave. Okay, I'm Alessandro. Yeah, doesn't matter, we'll remember. Come with me. Biascica, could you use this? Come on, go get some white, go. What team do you support? Sorry, what? What team do you support? The...",
+          "audio": "audio/boris/ep1/block-2/card-2.mp3"
+        },
+        {
+          "italian": "De la... Roma? Bravo. Ti vedi quei statini? Dove li devo portare? No, li devi guardare. Che qua si rubano tutto. E poi prepara sei caffè per i ragazzi. Sette, che sei da Roma. Forza Roma. Allora, signori, a parte le cazzate che ha detto Lopez, qui si comincia sul serio, chiaro? Con la 168. Duccio, dov'è Duccio? Dai, c'hai mezz'ora, eh? Non sa ma fa complic. Ma dai.",
+          "start": 378.94,
+          "end": 409.24,
+          "id": "card-3",
+          "english": "The... Roma? Nice. See those extras over there? Where do I take them? No, you keep an eye on them. Because around here people steal everything. And then get six coffees for the guys. Seven, since you're from Rome. Forza Roma. Alright, ladies and gentlemen, forget the nonsense Lopez just said — here we work seriously, clear? Starting with 168. Duccio, where's Duccio? Come on, you've got half an hour, huh? He doesn't know it, but he's making it complicated. Come on.",
+          "audio": "audio/boris/ep1/block-2/card-3.mp3"
+        },
+        {
+          "italian": "Alfredo! Dai, fai l'aiuto a regista, che non t'ho ancora sentito. Allora, per favore, silenzio tutti. Sì, fra mezz'ora tutti pronti con la 168. Abbiamo sentito il regista, non si vuole sentire volare una mosca. Va bene così, mi piace. E della... Tu sei Lorenzo, no? Lo stagista di fotografia? Ti sei ambientato un po'?",
+          "start": 411.18,
+          "end": 443.98,
+          "id": "card-4",
+          "english": "Alfredo! Come on, act like an assistant director — I haven't even heard you yet. Alright, everyone, quiet please. Yes, in half an hour everyone ready for scene 168. We heard the director — he doesn't want to hear a fly buzz. Good, I like that. And you — you're Lorenzo, right? The camera intern? Have you settled in a bit?",
+          "audio": "audio/boris/ep1/block-2/card-4.mp3"
+        },
+        {
+          "italian": "Stai capendo? Ma sei muto? Mi hanno detto che devo tacere. Muto! Devi stare muto! Che straordinario odore di sette. Mi sento a casa. E vi invidio, signori, sì. Voi artigiani, eh? Che lavorate con mano e con occhio, con sapienza. Ed è per rispetto profondo della concretezza che trasuda da queste pareti che io mi sento di esprimere un mio umile pensiero.",
+          "start": 444.98,
+          "end": 478.56,
+          "id": "card-5",
+          "english": "Are you getting it? Are you mute or something? They told me I have to stay quiet. Mute! You have to stay mute! What an extraordinary smell of set. Makes me feel right at home. And I envy you, gentlemen, yes. You craftsmen, eh? Working with hand and eye, with real know-how. And it's out of deep respect for the down-to-earth spirit that oozes from these walls that I feel moved to share a humble thought of mine.",
+          "audio": "audio/boris/ep1/block-2/card-5.mp3"
+        },
+        {
+          "italian": "Grazie, cara. Andatevene a fanculo tutti. Appena posso la mollo questa serie, sì. Sto scherzando. Sto scherzando, sto in gran forma! Signori, fammi tutti! Eccolo qua! Stanislao Roscellito! Genio! Non conosco quest'uomo. Eccolo lì, è sempre lui! E là, Stanis, come stai? Bene, grazie. Sei andato a giocare a tennis? Certo. Ti ricordo che da contratto tu non puoi giocare a tennis e neanche andare in moto. Io ti ricordo che il giorno che io e te faremo l'amore, tu piangerai per tre giorni consecutivi, bambina.",
+          "start": 479.78,
+          "end": 510.34,
+          "id": "card-6",
+          "english": "Thanks, sweetheart. All of you can go to hell. The moment I can, I'm dropping this show, yeah. I'm kidding. I'm kidding, I'm in great shape! Everyone, look at this! Here he is! Stanislao Roscellito! Genius! I don't know this man. There he is, same as ever! Hey there, Stanis, how are you? Good, thanks. Did you go play tennis? Sure did. I'll remind you that, by contract, you're not allowed to play tennis or ride a motorcycle. And I'll remind you that the day you and I make love, you'll cry for three days straight, baby.",
+          "audio": "audio/boris/ep1/block-2/card-6.mp3"
+        },
+        {
+          "italian": "Non ho dubbi. Ti devo parlare. Dopo. No! No! Ma guarda chi c'è! Me l'ho dimenticato del più grande di tutti! Allora, come stai? Dacci tua! Ma tu che cazzo sei? Io sono Alessandro, il nuovo stagista di regia. No, no. No, tu da oggi in poi ti chiamerai... ...seppia. Tu ti chiamerai seppia. Ti piace seppia? E abituati, che io faccio ammazzare le realizzate. Seppia. Dai, mori, spegner.",
+          "start": 510.6,
+          "end": 544.92,
+          "id": "card-7",
+          "english": "No doubt about it. I need to talk to you. Later. No! No! Well, look who it is! I completely forgot about the greatest one of all! So, how are you? Give it here! But who the hell are you? I'm Alessandro, the new directing intern. No, no. No, from today on, your name is going to be... Cuttlefish. You'll be called Cuttlefish. Like it? Get used to it, because I get people fired for real. Cuttlefish. Come on, drop dead, turn it off.",
+          "audio": "audio/boris/ep1/block-2/card-7.mp3"
+        },
+        {
+          "italian": "Portiamo a casa la giornata. Ti va? Eh? Quanto per Corinna? Quanto per Corinna? Tre minuti. Va bene. Allora tu adesso vai... ...e dille che... ...cominciamo con una scena facilissima... ...ma siccome lei è una cagna la farà di merda. Vai, vai, vai. Senti Corinna, mi mamma Renè per dirti che iniziamo con una scena difficilissima... ...e si scusa di questo... ...però dice che siccome tu sei bravissima la farai alla grande.",
+          "start": 545.6,
+          "end": 576.94,
+          "id": "card-8",
+          "english": "Let's wrap the day. You up for it? Huh? What's the deal with Corinna? What's the deal with Corinna? Three minutes. Fine. Alright, you go over there now... ...and tell her that... ...we're starting with a really easy scene... ...but since she's a bitch, she'll butcher it. Go, go, go. Listen, Corinna, René sent me to tell you we're starting with a really difficult scene... ...and he's sorry about that... ...but he says that since you're brilliant, you'll nail it.",
+          "audio": "audio/boris/ep1/block-2/card-8.mp3"
+        },
+        {
+          "italian": "Grazie. Eh, te l'avevo detto che diventavi protagonista! Te l'avevo detto o non te l'avevo detto? Senti, mi hanno chiamato per una fiction. Dovresti fare una santa. Una specie di padre pio d'onda. Non sarà troppo il trucco? Cioè, nella scena si è appena svegliata. Non da retta! Lascia abbondante il trucco! Così va meglio. Sei andata? Ti dicevo, ce la devi mettere tutta. Ricordati che se tutto va come dico io tra due anni... ...tu sei là per illi. Due anni...",
+          "start": 577.5,
+          "end": 610.28,
+          "id": "card-9",
+          "english": "Thanks. See, I told you you'd become the lead! Did I tell you or didn't I tell you? Listen, they called me about a TV movie. You'd play a saint. Kind of a female Padre Pio. Won't the makeup be too much? I mean, in the scene she's just woken up. Don't listen to him! Lay the makeup on thick! It looks better that way. Did you get it? I keep telling you, you've got to give it everything. Remember, if everything goes the way I say, in two years... ...you'll be up there for real. Two years...",
+          "audio": "audio/boris/ep1/block-2/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-3",
+      "label": "10:00–15:00",
+      "cards": [
+        {
+          "italian": "Due anni, due anni... Due anni... Stanis... Ti ricordi l'ultima scena degli occhi del cuore 1? Sei vestito uguale, eh? Camice e stetoscopio al collo, eh? Stanis... Stanis... Dio, scusa... Sei già entrata nel personaggio, eh? Scusa, scusa... Ciao, Stanis.",
+          "start": 610.28,
+          "end": 642.18,
+          "id": "card-1",
+          "english": "Two years, two years... Two years... Stanis... Do you remember the last scene of Eyes of the Heart 1? You're dressed the same, huh? White coat, stethoscope around your neck, huh? Stanis... Stanis... God, sorry... You're already in character, huh? Sorry, sorry... Hi, Stanis.",
+          "audio": "audio/boris/ep1/block-3/card-1.mp3"
+        },
+        {
+          "italian": "Mamma mia, gli spacchiamo il culo. Vieni qua. Mi mette quest'anno delle gatti. Vai, vai. Allora, tesoro, senti una cosa. Io direi questa di girarla subito, va bene? Non la proviamo neanche. Stanis, sei d'accordo? Te la senti? Va bene. Brava. Allora, dai. Forza, ragazzi, giriamo. Che abbiamo oltre quattro pagine prima di pausa. Forza, su, giriamo. Cambiamo mentalità. E dai che con questa scena ci giochiamo tutto. Stanis! Stanis! Dai, fai una prova, come sei italiana.",
+          "start": 642.4,
+          "end": 672.98,
+          "id": "card-2",
+          "english": "Wow, we're going to kick ass with this one. Come here. This year's really got me feeling like a wreck. Go on, go on. Alright, sweetheart, listen. I'd say let's just shoot this one right away, okay? Not even rehearse it. Stanis, are you okay with that? Do you feel ready? Fine. Good girl. Alright, come on. Let's go, everyone, we're shooting. We've got over four pages before the break. Come on, let's go, we're shooting. Change your mindset. And come on, we're betting everything on this scene. Stanis! Stanis! Come on, do a take, like the Italian you are.",
+          "audio": "audio/boris/ep1/block-3/card-2.mp3"
+        },
+        {
+          "italian": "Mamma mia. Quando vuoi. Sempre perfetta, giusto? René, scusa, facciamo un applauso. Primo shock. Allora, signori, un bell'applauso per Stanis e Corinna. E anche per il maestro. Va bene, grazie, grazie. Ok, dai, giriamo. Occhi del cuore 2, 168 prima. E azione. Certe volte avrei voglia di ricominciare tutto da capo.",
+          "start": 673.6,
+          "end": 708.92,
+          "id": "card-3",
+          "english": "Wow. Whenever you're ready. Perfect as always, right? René, sorry, let's give them a round of applause. First shock. Alright, everyone, a big round of applause for Stanis and Corinna. And for the maestro too. Okay, thanks, thanks. Okay, come on, let's shoot. Eyes of the Heart 2, scene 168, take one. And action. Sometimes I feel like starting everything all over again from scratch.",
+          "audio": "audio/boris/ep1/block-3/card-3.mp3"
+        },
+        {
+          "italian": "Non so, andare in un luogo nuovo, dove non mi conosce nessuno. Cambia maledetta. Non so, cambiare città. Non so, potermi mettere alla prova. Io la conosco questa sensazione. Si chiama crescere. Io ho 24 anni e tutti ancora mi considerano... Stop! 34, devi dire, 34 anni.",
+          "start": 710.38,
+          "end": 742.88,
+          "id": "card-4",
+          "english": "I don't know, going somewhere new, where nobody knows me. Change, damn it. I don't know, changing city. I don't know, testing myself. I know this feeling. It's called growing up. I'm 24 years old and everyone still treats me like... Cut! You have to say 34.",
+          "audio": "audio/boris/ep1/block-3/card-4.mp3"
+        },
+        {
+          "italian": "No, scusate, ma io non la dico. Ma come non la dici? Dai, su, rifacciamola. 34. No, non potete obbligarmi, quanti anni vi mostro secondo te? Corina, scusa. Io non la dico. Come non la dici? Ho detto che non la dico. No, scusa, Corina, quanti anni hai? Non c'è 31, 33, 34? Tutti me ne danno 24, quindi ho 24. Ma scusa, Corina, c'è un copione, mi sembra che tu l'abbia letto. I copioni si cambiano. Io ho già parlato con il mio agente, ho parlato con la rete, ho parlato con il dottor Cane, che mi ha detto testualmente che potevo dire quello che volevo. Ma certo, piccolo, puoi dire quello che vuoi.",
+          "start": 743.48,
+          "end": 774.78,
+          "id": "card-5",
+          "english": "No, sorry, but I'm not saying it. What do you mean you're not saying it? Come on, let's do it again. 34. No, you can't force me — how old do you think I look? Corinna, please. I'm not saying it. What do you mean you're not saying it? I said I'm not saying it. No, sorry, Corinna, how old are you? Isn't it 31, 33, 34? Everyone gives me 24, so I'm 24. But Corinna, there's a script — I thought you'd read it. Scripts can be changed. I've already talked to my agent, I've talked to the network, I've talked to Dr. Cane, who told me word for word that I could say whatever I wanted. But of course, sweetheart, you can say whatever you want.",
+          "audio": "audio/boris/ep1/block-3/card-5.mp3"
+        },
+        {
+          "italian": "Ma se non lo smetti... Sergio! Senti, io non so cosa fare. Risolvi questa situazione, chiama la rete, chiama chi te pare, ma io non posso lavorare in queste condizioni, chiaro? Ci ripenso io, non ti preoccupare, vado in ufficio. Anche perché questa, tra un po', tra cinque puntate, risulta che c'è un figlio di 13 anni. Quando l'ha fatto, sto figlio? A 11 anni l'ha fatto? Non mi sembra che questa serie sia ambientata in Cambogia, no? Biassica! Oh, Bignardino, vai, Bignardino, vai. Non me ne frega un cazzo! Maledetto, come si parli?",
+          "start": 775.98,
+          "end": 806.42,
+          "id": "card-6",
+          "english": "But if you don't stop this... Sergio! Listen, I don't know what to do. Fix this, call the network, call whoever you want, but I can't work under these conditions, clear? I'll take care of it, don't worry, I'm going to the office. Especially because in a few episodes it turns out there's a 13-year-old son. When did she even have this kid? At age 11? This series isn't set in Cambodia, is it? Biascica! Hey, Bignardino, come on, Bignardino, come on. I don't give a damn! Damn it, how do you even talk like that?",
+          "audio": "audio/boris/ep1/block-3/card-6.mp3"
+        },
+        {
+          "italian": "Secondo te l'ha pagnata di quanti anni aveva? Quanti anni ha dimostrato, secondo te? Arnold aveva 80 anni, faceva i ragazzini, la stessa cosa a Shirley Temples. No, no, no. Senti, vieni con me. Sai giocare a Bignardino? Sono un drago. Sei un grande. Allora, sei sposato, fidanzato? Fidanzato, però sta a Milano. Lascia perdere l'unità a sposare. No, no. Come ti chiami? Alessandra. Dai, Fabri, dai, giochiamo, tu stai in porta. Guarda che c'è la 170, che lo stesso ambiente, stessi costumi, te la metto in piedi in un quarto d'ora. Vero, Duccio? No, no, io c'ho da fare adesso. No, senti, non me ne frega un cazzo, lo sai perché?",
+          "start": 807.3,
+          "end": 837.6,
+          "id": "card-7",
+          "english": "How old do you think she looked, according to you? How old did she seem, in your opinion? Arnold was 80 and he still played teenagers, same thing with Shirley Temple. No, no, no. Listen, come with me. Do you know how to play foosball? I'm a shark at it. You're a champ. So, are you married, engaged? Engaged, but she lives in Milan. Forget marrying that one. No, no. What's your name? Alessandra. Come on, Fabri, let's play, you go in goal. Look, we've got scene 170 — same setting, same costumes — I can have it ready in fifteen minutes. Right, Duccio? No, no, I've got something to do right now. No, listen, I don't give a damn, you know why?",
+          "audio": "audio/boris/ep1/block-3/card-7.mp3"
+        },
+        {
+          "italian": "Non è una mia responsabilità. Neanche tua. I quattordici anni hanno il mio poster. Non si fanno il problema della mia età. La gioconda, la gioconda, era Mona Lisa? No, era Leonardo, era nomo. Voglio dire, la verità non si dice, non si dice mai. Ditala, per favore. Segna sul diario di lavorazione. Riprese, sospese, causa a rete. Vai. Guarda, Duccio, e mi chiami. Quanto ci mette a mettere in su la 170? Eh, lasciate, ho detto, lasciate. Mi serve a me, deve stare in porta. E poi non mi piace la 170. Chiaro? Mi piace la 168. Vai, gioca. Passo.",
+          "start": 837.78,
+          "end": 868.26,
+          "id": "card-8",
+          "english": "It's not my responsibility. Not yours either. Fourteen-year-olds have my poster on their wall. They don't worry about my age. The Mona Lisa — was that Mona Lisa? No, it was Leonardo, it was a man. What I mean is, the truth never gets told, never. Write it down, please. Note it in the shooting log. Filming — suspended, network's fault. Go. Look, Duccio, call me. How long to set up 170? Hey, leave it, I said leave it. I need him, he has to stay in goal. And anyway I don't like scene 170. Clear? I like 168. Go, play. Pass.",
+          "audio": "audio/boris/ep1/block-3/card-8.mp3"
+        },
+        {
+          "italian": "Passo. Duccio, 170. Sì, sono Alessandro. Non fa niente, grazie. Vai. Go! Duccio? Senti, io ho pensato di mollare la serie. Che effetto ti fa? Smettila, Sammi. No, sul serio, Arianna, sul serio. Perché io non sono contento. Sai benissimo che quando io non sono contento entrano in relazioni i miei avvocati, o no? Sai che stanno facendo? Stanno sciogliendo il mio contratto. Abbiamo un sacco di problemi, Stanis. Dai, fai il bravo. Sì, ma tu che dici? La mollo? La mollo? Oh, oh, la mollo. Sei un cretino, Stanis. Ok, ok, però Colino non è cretino.",
+          "start": 869.26,
+          "end": 899.98,
+          "id": "card-9",
+          "english": "Pass. Duccio, 170. Yeah, it's Alessandro. Never mind, thanks. Go. Go! Duccio? Listen, I've been thinking about quitting the show. How does that make you feel? Cut it out, Sammy. No, seriously, Arianna, seriously. Because I'm not happy. You know very well that when I'm not happy, my lawyers get involved, don't you? You know what they're doing? They're dissolving my contract. We've got a ton of problems, Stanis. Come on, behave. Yeah, but what do you say? Should I quit? Should I quit? Oh, quit. You're an idiot, Stanis. Okay, okay, but Colino's not an idiot.",
+          "audio": "audio/boris/ep1/block-3/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-4",
+      "label": "15:00–20:00",
+      "cards": [
+        {
+          "italian": "e troppo italiana. Siediti, l'hai vista le prime due puntate? Sì, qualcosa. Ti è piaciuta la fotografia? Molto. Non capisci un cazzo, la fotografia fa schifo. Lo sai perché fa schifo? Non lo so. Perché non vogliono l'oro, non vogliono l'oro. Nella fiction la fotografia non deve essere più bella di quella della pubblicità, sennò la gente cambia canale. Hanno pensato a tutto. Hai paura? Arianna voleva sapere quanto ci metterebbe per me.",
+          "start": 900.0,
+          "end": 939.28,
+          "id": "card-1",
+          "english": "...and too Italian. Sit down — did you watch the first two episodes? Yeah, a bit. Did you like the cinematography? A lot. You don't understand a thing, the cinematography is garbage. You know why it's garbage? I don't know. Because they don't want gold tones, they don't want gold. In a TV drama the cinematography can't look better than the commercials, or else people will change the channel. They've thought of everything. Are you scared? Arianna wanted to know how long it would take for me.",
+          "audio": "audio/boris/ep1/block-4/card-1.mp3"
+        },
+        {
+          "italian": "Mandala a fanculo Arianna. A fanculo. A fanculo. A fanculo. Pronto? No, no, qualcuno ha fatto un grosso lano errore qui amico mio. Questa deve dire che ha 34 anni, punto e basta. No, no, no. Che ha detto Duccio? Non l'ho trovato. La risolviamo, la risolviamo, la risolviamo, non si preoccupi. Va bene, non c'è problema, d'accord? Arrivederci, arrivederla, arrivederci.",
+          "start": 939.92,
+          "end": 972.82,
+          "id": "card-2",
+          "english": "Tell Arianna to go to hell. To hell. To hell. To hell. Hello? No, no, somebody made a huge mistake here, my friend. This girl has to say she's 34, period. No, no, no. What did Duccio say? I couldn't find him. We'll fix it, we'll fix it, we'll fix it, don't worry. Alright, no problem, agreed? Goodbye, goodbye, goodbye.",
+          "audio": "audio/boris/ep1/block-4/card-2.mp3"
+        },
+        {
+          "italian": "Bastardi fanno le cose a cazzo di cane e poi se la prendono con noi, hai capito? Che facciamo? La ceriamo, la ceriamo. Coso, vieni qua. Che facciamo? Andiamo a casa, no? Io c'avrei la pupetta che ha la febbre. Stiamo risolvendo Biascica. Lo dico per voi. Ciao. Ciao. Scusa per prima, tra l'altro ho fatto pure una figura di merda con Cosole, con Antonio Di Pollina di",
+          "start": 973.8,
+          "end": 1008.74,
+          "id": "card-3",
+          "english": "Bastards do things half-assed and then blame us for it, you get that? What do we do now? We'll sort it out, we'll sort it out. Hey, come here. What do we do? Let's go home, right? I've got my little girl at home with a fever. We're sorting it out, Biascica. I'm saying this for your own good. Bye. Bye. Sorry about earlier, by the way — I even made a fool of myself in front of Antonio Di Pollina from",
+          "audio": "audio/boris/ep1/block-4/card-3.mp3"
+        },
+        {
+          "italian": "Repubblica. Ah, c'è un giornalista? Sì, sì, c'è, eccolo là. Quello è un cagnaccio, perché siamo tutti di sinistra, ma poi parlano sempre male della televisione. Sì. Scrive un articolo su di noi. Ciao. Ciao. Scusami per prima, non lo so che mi è successo, io solito sono una ragazza normalissima. Ah. Sei Di Pollina? Sì, sì, sì. Sei Di Pollina?",
+          "start": 1009.4,
+          "end": 1039.66,
+          "id": "card-4",
+          "english": "Repubblica. Oh, there's a journalist here? Yeah, yeah, there is, there he is. That guy's a mutt, because we're all lefties around here, but then they always trash TV in print. Yeah. He's writing an article about us. Hi. Hi. Sorry about earlier, I don't know what got into me, I'm usually a totally normal girl. Ah. You're Di Pollina? Yes, yes, yes. You're Di Pollina?",
+          "audio": "audio/boris/ep1/block-4/card-4.mp3"
+        },
+        {
+          "italian": "Se vuoi. Allora diamoci del tuo. Vai signori, dai che la giriamo. Io quando torno dal lavoro mi faccio più o meno sempre la doccia tutti i giorni, sì sempre, con una spugna colorata, attualmente è viola, e un bagnoschema profumato, al lampone, alla fragola, al mertillo e al mandarino. Che fai, non lo scrivi? Cosa? Lampone, fragola, mertillo, mandarino. Ah, lo dovevo scrivere. Eh, che ne so. Dai, dai, dai, sbrigliamoci, giriamo, dai, forza. Scusa, ma come hai fatto? Poi ti dico, mi raccomando, manda via Coso lì, come si chiama? Lo stagista, quello nuovo.",
+          "start": 1040.42,
+          "end": 1069.22,
+          "id": "card-5",
+          "english": "If you want. Alright, let's use first names then. Go on, everyone, let's shoot this. When I get home from work I pretty much always take a shower, every day, yeah, always, with a colored sponge — right now it's purple — and a scented shower gel, raspberry, strawberry, blueberry and tangerine. What, aren't you writing this down? What? Raspberry, strawberry, blueberry, tangerine. Oh, I was supposed to write that down. Eh, how was I supposed to know. Come on, come on, come on, let's hurry up, let's shoot, come on, go. Sorry, how did you manage that? I'll tell you later, and remember, get rid of that guy, what's his name, the new intern.",
+          "audio": "audio/boris/ep1/block-4/card-5.mp3"
+        },
+        {
+          "italian": "Eh, mandalo via, è importante. Eh, domenica faccio un calendario tra le donne di Capocotta, tutta insabbiata, bellissimo. Infatti, se ti va, vieni. Ah, domenica? Eh, domenica. Ti intanto scrivo. Ok. Sarà una provocazione, ma io amo l'afficcio. Ah, il mio cd preferito è il libro di Mameli, me l'hanno regalato di recente, e mi emoziona così tanto, perché mi fa sentire parte di un tutto. Scrivi, l'è importante, la musica italiana va rivalutata. Sì, sì, la sto scrivendo. Però, vabbè. Scusa Corinna, siamo pronti a girare. Ok, e dopo ci scambiamo",
+          "start": 1069.58,
+          "end": 1104.52,
+          "id": "card-6",
+          "english": "Get rid of him, it's important. Sunday I'm doing a charity calendar with the women of Capocotta, all sandy, gorgeous. Actually, if you feel like it, come along. Oh, Sunday? Yeah, Sunday. I'll text you in the meantime. Okay. It might sound like a provocation, but I love office work. Ah, my favorite CD is the Hymn of Mameli, someone gave it to me recently, and it moves me so much, because it makes me feel part of something bigger. Write that down, it's important, Italian music needs to be reappraised. Yeah, yeah, I'm writing it down. But anyway. Sorry, Corinna, we're ready to shoot. Okay, and afterward let's swap",
+          "audio": "audio/boris/ep1/block-4/card-6.mp3"
+        },
+        {
+          "italian": "i numeri. Ah, sì, sì. Tiene il libro per domenica. Ti regalo una foto. Beh, che mi hai combinato che ti devo cacciare. Io? Fuori, fuori. Ma... Fuori. Ciliegia e mandarino. Dai, dai, dai, dai,",
+          "start": 1104.52,
+          "end": 1135.4,
+          "id": "card-7",
+          "english": "numbers. Oh, yes, yes. Keep the book for Sunday. I'll give you a photo. Well, what did you do that I have to fire you for? Me? Out, out. But... Out. Cherry and tangerine. Come on, come on, come on, come on,",
+          "audio": "audio/boris/ep1/block-4/card-7.mp3"
+        },
+        {
+          "italian": "forza, forza, dai, giriamolo, dai. E... motore. 168, seconda. E... azione. Certe volte avrei voglia di ricominciare tutto da capo. Cagna maledetta. Non so, andare in un luogo nuovo, dove non mi conosce nessuno. Non so, cambiare città. Non so, potermi mettere alla prova. Io la conosco, questa sensazione. Si chiama crescere. Io ho gli anni che ho. Me li sento tutti. Me li sento tutti.",
+          "start": 1135.4,
+          "end": 1175.64,
+          "id": "card-8",
+          "english": "let's go, let's go, come on, let's shoot it, come on. And... rolling. 168, take two. And... action. Sometimes I feel like starting everything all over again from scratch. Damn bitch. I don't know, going somewhere new, where nobody knows me. I don't know, changing city. I don't know, testing myself. I know this feeling. It's called growing up. I am whatever age I am. I feel every bit of it. I feel every bit of it.",
+          "audio": "audio/boris/ep1/block-4/card-8.mp3"
+        },
+        {
+          "italian": "Stop! Buona! Sono stato cacciato? Sì. Io non ho fatto niente. Ma non lo so perché, non... Oh, coso? Aspetta un attimo. Domani sette e mezza puntuale, eh? Occhio che sei già a rischio. Pronto? No, no, torno domani. Sì, lo so, te l'ho appena detto, ma qua le cose cambiano rapidamente. Ti chiamo da casa? Va bene. Sì, poi ti racconto. Ciao, ciao.",
+          "start": 1177.06,
+          "end": 1206.52,
+          "id": "card-9",
+          "english": "Cut! Good take! Am I fired? Yes. I didn't do anything. But I don't know why, no... Oh, hey? Hang on a second. Tomorrow, seven-thirty sharp, okay? Watch it, you're already on thin ice. Hello? No, no, I'm coming back tomorrow. Yeah, I know, I just told you that, but things change fast around here. I'll call you from home? Okay. Yeah, I'll tell you about it later. Bye, bye.",
+          "audio": "audio/boris/ep1/block-4/card-9.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-5",
+      "label": "20:00–25:00",
+      "cards": [
+        {
+          "italian": "Gli occhi del cuore, gli occhi del cuore, Boris. Userò gli occhi del cuore per capire i tuoi segreti, per capire cosa pensi nei tuoi primi piani intensi. Boris! Nei tuoi piani americani, così intensi e così italiani. Boris! Fatti un po' a cazzo di cane. Boris!",
+          "start": 1207.52,
+          "end": 1240.52,
+          "id": "card-1",
+          "english": "The eyes of the heart, the eyes of the heart, Boris. I'll use the eyes of the heart to understand your secrets, to understand what you're thinking in your intense close-ups. Boris! In your American shots, so intense and so Italian. Boris! Get your shit together. Boris!",
+          "audio": "audio/boris/ep1/block-5/card-1.mp3"
+        }
+      ]
+    }
+  ]
+}

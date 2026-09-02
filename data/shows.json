@@ -8,5 +8,10 @@
     "id": "polizia-di-napoli",
     "title": "Polizia di Napoli",
     "color": "#1F3A5F"
+  },
+  {
+    "id": "boris",
+    "title": "Boris",
+    "color": "#C77D3E"
   }
 ]
