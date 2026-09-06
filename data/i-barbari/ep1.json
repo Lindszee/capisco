@@ -1,0 +1,77 @@
+{
+  "id": "ep1",
+  "title": "Il Palpeggiatore",
+  "sourceUrl": "",
+  "blocks": [
+    {
+      "id": "block-1",
+      "label": "0:00–5:00",
+      "cards": [
+        {
+          "italian": "Lei ha allungato le mani su un'intera scuola e mezz'ora prima aveva già palpeggiato la maestra, la preside e si era pure fregato la merenda alla bidella! Vostro Onore, ho dato una smucinata qua e là, eh! Do coglio coglio, come si dice a Roma, no? Lei è un pericolo pubblico, signor Cenciarelli, un flaggello sociale, da rinchiudere e buttare la chiave. Ha qualcosa da dire a sua discolpa prima della sentenza? Vedica la verità, io prima di entrare in questa scuola mi sono fatto due bicchieri di fermentino di galluna a stomaco vuoto! Ah, ma lei aveva bevuto e dirlo prima no! Essendo lei in alterato stato psicofisico, palesemente obnubilato dalla coppia di fermentino, non poteva rendersi conto di quel che faceva!",
+          "start": 0.0,
+          "end": 38.46,
+          "id": "card-1",
+          "english": "He put his hands all over an entire school, and half an hour earlier he'd already groped the teacher, the principal, and even swiped the janitor's snack! Your Honor, I did some rummaging around here and there, eh! You know, feeling around, like they say in Rome, right? You are a public menace, Mr. Cenciarelli, a social scourge, who should be locked up and have the key thrown away. Do you have anything to say in your defense before sentencing? Tell the truth — before I went into that school I'd had two glasses of sparkling wine on an empty stomach! Ah, but you'd been drinking and didn't say so earlier! Given that you were in an altered state of mind, clearly clouded by that pair of drinks, you couldn't have been aware of what you were doing!",
+          "audio": "audio/i-barbari/ep1/block-1/card-1.mp3"
+        },
+        {
+          "italian": "Lei era una delle tante povere vittime dell'Happy Hour a stomaco vuoto! Ah sì? Ma scusi vostro Onore, ma l'alco non è un aggravante? Avvocato, non dica eresie! È un attenuante! Casomai l'aggravante andrebbe data al barista che non ha portato al signore neanche due noccioline per asciugare! Signor Cenciarelli, lei è vittima degli eventi, lei è libero! Cioè me ne posso andare a bere un'altra cosa? Così è deciso! L'udienza è tolta! Allora grazie tante, damose! Anche mia nonna mi giustifica così! Procediamo con l'udienza successiva! Entri l'imputato! Allì eccoci! Cenciarelli Ivano, sempre presente!",
+          "start": 38.76,
+          "end": 70.1,
+          "id": "card-2",
+          "english": "You were one of the many poor victims of Happy Hour on an empty stomach! Oh really? But excuse me, Your Honor, isn't alcohol supposed to be an aggravating factor? Counselor, don't spout nonsense! It's a mitigating factor! If anything, the aggravating factor should go to the bartender who didn't even bring the man a couple of peanuts to soak it up! Mr. Cenciarelli, you're a victim of circumstance, you're free to go! So I can go have another drink, then? So it's decided! This hearing is adjourned! Well, thanks a lot, let's go then! Even my grandmother lets me off like that! Let's move on to the next hearing! Bring in the defendant! There we are! Cenciarelli Ivano, present as always!",
+          "audio": "audio/i-barbari/ep1/block-1/card-2.mp3"
+        },
+        {
+          "italian": "Ma lei sta un'altra volta qua! Vostro Onore, ha appena allungato le mani sulla avvocatessa Pascucci! Ma è una bella chiappona, l'ho incrociata qua fuori, c'ha due prosciutti, d'enorcia, ma una cosa illegale non me lo potevo tirare indietro! Ma allora lei è recidivo, un palpeggiatore seriale senza ritegno! C'è un problema per l'ecosistema del tribunale! Qua vanno presi i provvedimenti e anche urgenti! Signor Giudice, lo ammetto! Io quando vedo due filastri portanti e due bombe alla crema, io me ce butto addosso! Tocco, faccio, c'ho il demone dentro, è più forte di me! E smucino, smucino giovani, vecchi, cardinali, impiegate, dottoresse!",
+          "start": 70.18,
+          "end": 100.94,
+          "id": "card-3",
+          "english": "You're here again? Your Honor, he just put his hands all over attorney Pascucci! But she's got quite the backside, I ran into her right outside, she's got two huge thighs on her — but I just couldn't resist something so illegal! So you're a repeat offender, a serial groper with no shame! This is a problem for the entire ecosystem of the courthouse! Measures need to be taken here, and urgently! Your Honor, I admit it! When I see two sturdy pillars and two cream-filled bombs, I just throw myself at them. I touch, I do it, I've got a demon inside me, it's stronger than I am! And I rummage, rummage — young, old, cardinals, clerks, doctors!",
+          "audio": "audio/i-barbari/ep1/block-1/card-3.mp3"
+        },
+        {
+          "italian": "Non ce posso fare niente! L'unica soluzione è schiaffarmi dentro e buttare via le chiavi! Ah, ma lei è un reo confesso! Ammette candidamente le sue debolezze umane! La sua trasparenza è lodevole, lei è collaborativo, consapevole e profondamente autocritico! Sono certo che la sola paura stratta della detenzione le impedirà di riprovarci! Lei è libero, signor Cenciarelli! Cioè me ne posso andare via, un'altra volta? Certamente, ma prima lei mi deve promettere che non lo rifarà più perché queste cose non si fanno! Sì, sì, giura, giurato, stra-giurato, tengo lontano ogni peccato! Giurino, giurello, tengo a bada pure luce, luce!",
+          "start": 101.08,
+          "end": 132.86,
+          "id": "card-4",
+          "english": "There's nothing I can do about it! The only solution is to lock me up and throw away the keys! Ah, so you're a confessed criminal! You candidly admit to your human weaknesses! Your transparency is commendable, you're cooperative, self-aware, and deeply self-critical! I'm certain that the sheer fear of imprisonment alone will stop you from trying again! You're free, Mr. Cenciarelli! So I can go, again? Certainly, but first you must promise me you won't do it again, because these things simply aren't done! Yes, yes, I swear, I swear it, I swear it a thousand times, I'll keep away from every sin! I swear, I swear, I'll keep temptation at bay too, temptation!",
+          "audio": "audio/i-barbari/ep1/block-1/card-4.mp3"
+        },
+        {
+          "italian": "Così è deciso, l'udienza è tolta! Oh, su Giudice è proprio un pezzo de core! Procediamo con l'udienza successiva, entrino il nuovo imputato e la difesa! Eccoci, Cenciarelli Ivano, tessera fedeltà numero uno! Ancora lei? Ma che è successo stavolta? È stato incolito io tre secondi neri! Ha appena allungato le mani sulla cancelliera! Ma questo è gravissimo! Sì, però mi dispiace, sono pentito, è una cosa che mi fa malarcole, guardi, mi sento male e mi viene da piangere, non lo volevo fare! Sono pentito e dispiaciuto, anzi, scusatemi tutti, vostro Onore mi perduni! Vabbè, ma se è dispiaciuto e profondamente pentito allora è tutta un'altra cosa!",
+          "start": 133.42,
+          "end": 165.62,
+          "id": "card-5",
+          "english": "So it's decided, this hearing is adjourned! Oh, Judge, you're such a softie! Let's move on to the next hearing, bring in the new defendant and the defense! Here we are, Cenciarelli Ivano, loyalty card number one! You again? What happened this time? I blacked out for three seconds! He just put his hands all over the court clerk! But this is extremely serious! Yes, but I'm sorry, I'm repentant, this is something that really pains me, look, I feel sick and I want to cry, I didn't mean to do it! I'm repentant and sorry, in fact, I apologize to everyone, Your Honor, forgive me! Well, if you're sorry and deeply repentant then that's a whole different matter!",
+          "audio": "audio/i-barbari/ep1/block-1/card-5.mp3"
+        },
+        {
+          "italian": "Il rimorso interiore è già una pena sufficiente! Lei è libero, signor Cenciarelli! L'udienza è tolta! Grazie tanto, è gentilissimo, vado che ha lasciato la macchina sulle strisce e già mi hanno fischiato due volte! Allora andiamo avanti con l'udienza successiva, entri il prossimo imputato! Cenciarelli Ivano, abbonamento premium, vero? Un'altra volta qua! Eh no, e adesso basta! Ma che è il gioco del loca? Chi ha smucinato stavolta? Ma ha appena fatto un collaudo generale mia moglie! Sì, con le mani! Ma l'ho trovata turgida, soda! Questo è sposato con la cavallona! L'ho archiviata con piacere, vero? Complimenti avvocato, lei è sposato con la fata!",
+          "start": 165.62,
+          "end": 196.82,
+          "id": "card-6",
+          "english": "Inner remorse is already punishment enough! You're free, Mr. Cenciarelli! This hearing is adjourned! Thanks so much, you're so kind, I'd better go since I left the car on the crosswalk and they've already honked at me twice! Alright, let's move on to the next hearing, bring in the next defendant! Cenciarelli Ivano, premium subscription, right? Here again! Oh no, that's enough now! What is this, some kind of game? Who did you grope this time? He just gave my wife a full inspection! Yes, with his hands! But I found her firm, taut! This one's married to quite the powerhouse! I filed it away with great pleasure, didn't I? Congratulations, counselor, you're married to a dream!",
+          "audio": "audio/i-barbari/ep1/block-1/card-6.mp3"
+        },
+        {
+          "italian": "Ora basta! Visto che la giustizia italiana non è una barzelletta d'osteria e visto che devo garantire l'incolumità di tutte le donne che le respirano intorno, considerata questa sua mostruosa e lunghissima sfilza di precedenti, io la sbatto al buio per almeno 15 anni! Oh, piano col clac che sono a vostro onore, ma quali precedenti? Io sono incensurato! Ah, già! Ma è vero! Ma lei non è mai stato condannato da nessuno! Eh, appunto! Volevo dirgli io! Ma allora in questo caso cambia tutto! Non essendoci sentenze, a suo carico lei per la legge d'italiana è un cittadino modello!",
+          "start": 197.24,
+          "end": 228.62,
+          "id": "card-7",
+          "english": "Enough now! Since Italian justice isn't some tavern joke, and since I have to guarantee the safety of every woman who so much as breathes near you, and considering this monstrous, endless string of priors of yours, I'm locking you away in the dark for at least 15 years! Whoa, easy there, Your Honor, but what priors? I have a clean record! Ah, right! That's true! You've never been convicted by anyone! Exactly! That's what I was trying to tell him! Well then, in that case, everything changes! Since there are no rulings against you, under Italian law you're a model citizen!",
+          "audio": "audio/i-barbari/ep1/block-1/card-7.mp3"
+        },
+        {
+          "italian": "Lei è libero, signor Cenciarelli! Lei è libero e incensurato! Così è deciso! D'altronde la legge è uguale per tutti! Beh, a sto giro speriamo proprio di no, eh! Palesemente obnubilato dal tandem alcolico... Cioè ha due comodini di addosso?",
+          "start": 228.92,
+          "end": 247.78,
+          "id": "card-8",
+          "english": "You're free, Mr. Cenciarelli! You're free and with a clean record! So it's decided! After all, the law is the same for everyone! Well, this time around, let's really hope not, eh! Clearly clouded by the alcoholic tandem... Meaning he's got two nightstands on him?",
+          "audio": "audio/i-barbari/ep1/block-1/card-8.mp3"
+        }
+      ]
+    }
+  ]
+}
