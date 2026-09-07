@@ -205,6 +205,52 @@ button {
   border-radius: 3px;
 }
 .episode-sub { font-size: 12px; color: var(--text-gray); margin: 5px 0 0; }
+.reviewed-badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--green);
+  background: #E9F9F0;
+  padding: 2px 8px;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
+.reviewed-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  margin: 10px 0 4px;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  border: 1.5px solid var(--border);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-gray);
+  text-align: left;
+}
+.reviewed-row.checked {
+  border-color: var(--green);
+  color: var(--green);
+  background: #F0FBF5;
+}
+.reviewed-row .dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  flex-shrink: 0;
+}
+.reviewed-row.checked .dot {
+  border-color: var(--green);
+  background: var(--green);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
 
 /* ---------- Block grid ---------- */
 .block-grid {
@@ -355,6 +401,9 @@ button {
 .edit-btn.save { background: var(--purple); color: var(--white); }
 .edit-btn.cancel { background: var(--purple-light); color: var(--purple); }
 .edit-btn.revert { background: transparent; color: var(--text-gray); text-decoration: underline; padding: 10px 4px; }
+.edit-btn.regen { background: #0F766E; color: var(--white); }
+.edit-btn.regen:disabled { opacity: 0.6; }
+.edit-local-hint { font-size: 12px; color: var(--text-gray); line-height: 1.5; margin: 10px 2px 0; }
 
 .edits-intro { font-size: 13px; color: var(--text-gray); line-height: 1.55; margin: 4px 0 16px; }
 .edit-review-row {

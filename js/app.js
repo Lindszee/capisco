@@ -7,6 +7,7 @@ const state = {
   episodeData: {},      // "showId/episodeId" -> full episode object (blocks/cards)
   progress: loadProgress(),
   edits: loadEdits(),    // local corrections to transcriptions/translations, overlaid on shipped data
+  reviewedOverrides: loadReviewedOverrides(), // local-only "checked by a native speaker" flags, overlaid on shipped data
   editingField: null,    // 'italian' | 'english' | null — which field is being edited right now, on the current card
   editingCardKey: null,  // which card the above applies to (editing auto-cancels if you navigate away)
   tab: 'audio',           // current card tab: text | translation | audio
@@ -86,6 +87,68 @@ function revertEditField(showId, episodeId, blockId, cardId, field) {
   saveEdits();
 }
 
+// ---------------- "Checked by a native speaker" per-episode flag ----------------
+// A single flag per episode (not per card) marking that every card's transcription and
+// translation has been reviewed end-to-end. Same overlay pattern as edits above: a local
+// override wins over whatever's shipped in episodes.json until it's committed (via direct
+// GitHub sync, when configured) or bundled up for Claude to fold in.
+function loadReviewedOverrides() {
+  try { return JSON.parse(localStorage.getItem('capisco:reviewed') || '{}'); } catch (e) { return {}; }
+}
+function saveReviewedOverrides(obj) {
+  localStorage.setItem('capisco:reviewed', JSON.stringify(obj));
+}
+function episodeKey(showId, episodeId) {
+  return `${showId}/${episodeId}`;
+}
+function getReviewedOverride(showId, episodeId) {
+  const k = episodeKey(showId, episodeId);
+  return Object.prototype.hasOwnProperty.call(state.reviewedOverrides, k) ? state.reviewedOverrides[k] : null;
+}
+function setReviewedOverride(showId, episodeId, value) {
+  const k = episodeKey(showId, episodeId);
+  const current = loadReviewedOverrides();
+  current[k] = value;
+  state.reviewedOverrides = current;
+  saveReviewedOverrides(current);
+}
+function clearReviewedOverride(showId, episodeId) {
+  const k = episodeKey(showId, episodeId);
+  state.reviewedOverrides = loadReviewedOverrides();
+  if (k in state.reviewedOverrides) { delete state.reviewedOverrides[k]; saveReviewedOverrides(state.reviewedOverrides); }
+}
+// `ep` is the episode summary object from episodes.json (may carry a shipped `reviewed` flag).
+function isEpisodeReviewed(showId, episodeId, ep) {
+  const override = getReviewedOverride(showId, episodeId);
+  if (override !== null) return override;
+  return !!(ep && ep.reviewed);
+}
+// Toggles the flag. Commits straight to data/<show>/episodes.json when a GitHub token is
+// configured on this device (same direct-sync flow as card corrections); otherwise falls
+// back to a local-only override.
+async function toggleReviewed(showId, episodeId, newValue) {
+  const token = getGitHubToken();
+  if (token) {
+    try {
+      const path = `data/${showId}/episodes.json`;
+      const updated = await commitJsonFile(path, (data) => {
+        const ep = data.find(e => e.id === episodeId);
+        if (ep) ep.reviewed = newValue;
+        return data;
+      }, `Mark ${showId}/${episodeId} reviewed: ${newValue}`);
+      clearReviewedOverride(showId, episodeId);
+      state.episodesByShow[showId] = updated;
+      route();
+      return;
+    } catch (err) {
+      console.error(err);
+      alert(`Direct save to GitHub failed:\n${err.message}\n\nSaved on this device instead — you can retry later.`);
+    }
+  }
+  setReviewedOverride(showId, episodeId, newValue);
+  route();
+}
+
 // ---------------- Direct GitHub sync (optional, per-device) ----------------
 // If a GitHub token is configured on this device, corrections commit straight to the
 // repo via GitHub's Contents API when you hit Save — no copy/paste, no Mac. GitHub
@@ -103,6 +166,52 @@ function setGitHubToken(token) {
     if (token) localStorage.setItem('capisco:ghtoken', token);
     else localStorage.removeItem('capisco:ghtoken');
   } catch (e) {}
+}
+
+// ---------------- Translation regeneration (optional, per-device) ----------------
+// If an OpenAI API key is configured on this device, the English field's edit view gets
+// a "Regenerate from Italian" button that re-translates the current Italian text — handy
+// after correcting a transcription, since the shipped English may no longer match. Like
+// the GitHub token, this key lives only in this device's localStorage and is sent straight
+// to OpenAI's API from the browser; it never touches Claude or the repo.
+function getOpenAIKey() {
+  try { return localStorage.getItem('capisco:openaikey') || ''; } catch (e) { return ''; }
+}
+function setOpenAIKey(key) {
+  try {
+    if (key) localStorage.setItem('capisco:openaikey', key);
+    else localStorage.removeItem('capisco:openaikey');
+  } catch (e) {}
+}
+async function regenerateTranslation(italianText) {
+  const key = getOpenAIKey();
+  if (!key) throw new Error('No OpenAI API key configured on this device.');
+  const res = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${key}`,
+    },
+    body: JSON.stringify({
+      model: 'gpt-4o-mini',
+      temperature: 0.3,
+      messages: [
+        {
+          role: 'system',
+          content: 'You translate short clips of Italian dialogue into natural, idiomatic English for an Italian-listening-comprehension flashcard app. Preserve register, tone, humor, crudeness, and dialect flavor faithfully — never sanitize or soften. Reply with ONLY the English translation, no notes, no quotes.',
+        },
+        { role: 'user', content: italianText },
+      ],
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text().catch(() => '');
+    throw new Error(`OpenAI request failed (${res.status}): ${body.slice(0, 200)}`);
+  }
+  const data = await res.json();
+  const text = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+  if (!text) throw new Error('OpenAI returned no translation.');
+  return text.trim();
 }
 
 // btoa/atob are byte-oriented, so accented Italian text needs this UTF-8 round trip.
@@ -207,6 +316,7 @@ async function route() {
   // tab/instance first loaded — see the note above setEditField/revertEditField.
   state.progress = loadProgress();
   state.edits = loadEdits();
+  state.reviewedOverrides = loadReviewedOverrides();
   try {
     if (parts[0] === 'edits') {
       await renderEditsReview(app);
@@ -300,10 +410,24 @@ async function renderEditsReview(app) {
         <input type="password" id="ghTokenInput" class="edit-textarea sync-input" placeholder="github_pat_...">
         <button class="pill-btn" id="connectGhBtn">Connect</button>
       </div>`;
+  const openaiKey = getOpenAIKey();
+  const openaiSection = openaiKey ? `
+      <div class="sync-card">
+        <p class="sync-status on">&#9679; AI translation regeneration is ON for this device</p>
+        <p class="sync-hint">On any card's English field, tap "Regenerate from Italian" to get a fresh AI translation after correcting the Italian — handy since a transcription fix can leave the shipped English out of date.</p>
+        <button class="pill-btn ghost" id="disconnectOpenAiBtn">Disconnect this device</button>
+      </div>` : `
+      <div class="sync-card">
+        <p class="sync-status off">&#9679; AI translation regeneration is OFF for this device</p>
+        <p class="sync-hint">Paste an OpenAI API key to enable regenerating the English translation from the Italian, right on the card.</p>
+        <input type="password" id="openaiKeyInput" class="edit-textarea sync-input" placeholder="sk-...">
+        <button class="pill-btn" id="connectOpenAiBtn">Connect</button>
+      </div>`;
   app.innerHTML = `
     ${topbar({ left: backBtn('#/'), title: 'My Corrections' })}
     <div class="scroll-area">
       ${syncSection}
+      ${openaiSection}
       ${keys.length ? `
         <p class="edits-intro">${keys.length} correction${keys.length === 1 ? '' : 's'} saved on this device only${token ? ' (from before sync was on, or a direct save that failed)' : ''}. Tap "Copy all as JSON" and send it to Claude to bake these into the app permanently.</p>
         <button class="pill-btn" id="copyEditsBtn" style="margin-bottom:16px">Copy all as JSON</button>
@@ -336,6 +460,19 @@ async function renderEditsReview(app) {
       if (confirm('Disconnect direct GitHub sync on this device?')) { setGitHubToken(''); route(); }
     };
   }
+  const connectOpenAiBtn = document.getElementById('connectOpenAiBtn');
+  if (connectOpenAiBtn) {
+    connectOpenAiBtn.onclick = () => {
+      const val = document.getElementById('openaiKeyInput').value.trim();
+      if (val) { setOpenAIKey(val); route(); }
+    };
+  }
+  const disconnectOpenAiBtn = document.getElementById('disconnectOpenAiBtn');
+  if (disconnectOpenAiBtn) {
+    disconnectOpenAiBtn.onclick = () => {
+      if (confirm('Disconnect AI translation regeneration on this device?')) { setOpenAIKey(''); route(); }
+    };
+  }
 }
 
 async function renderEpisodes(app, showId) {
@@ -348,11 +485,12 @@ async function renderEpisodes(app, showId) {
     const blocks = full ? full.blocks : [];
     const { done, total } = episodeDoneCount(showId, ep.id, blocks);
     const pct = total ? Math.round((done / total) * 100) : 0;
+    const reviewed = isEpisodeReviewed(showId, ep.id, ep);
     rows += `
       <button class="episode-row" style="width:100%" onclick="go('#/show/${showId}/${ep.id}')">
         <div class="episode-index">${i + 1}</div>
         <div class="episode-meta">
-          <p class="episode-title">${escapeHtml(ep.title)}</p>
+          <p class="episode-title">${escapeHtml(ep.title)}${reviewed ? ' <span class="reviewed-badge">&#10003; Reviewed</span>' : ''}</p>
           <div class="episode-progress-track"><div class="episode-progress-fill" style="width:${pct}%"></div></div>
           <p class="episode-sub">${blocks.length} block${blocks.length === 1 ? '' : 's'} · ${done}/${total} studied</p>
         </div>
@@ -370,6 +508,9 @@ async function renderEpisodes(app, showId) {
 async function renderBlocks(app, showId, episodeId) {
   const full = await loadEpisode(showId, episodeId);
   if (!full) { app.innerHTML = '<div class="empty-state">Episode not found.</div>'; return; }
+  const eps = await loadEpisodes(showId);
+  const epSummary = eps.find(e => e.id === episodeId);
+  const reviewed = isEpisodeReviewed(showId, episodeId, epSummary);
   let tiles = '';
   full.blocks.forEach((b, i) => {
     const done = blockDoneCount(showId, episodeId, b);
@@ -388,10 +529,15 @@ async function renderBlocks(app, showId, episodeId) {
   app.innerHTML = `
     ${topbar({ left: backBtn(`#/show/${showId}`), title: full.title })}
     <div class="scroll-area">
+      <button class="reviewed-row ${reviewed ? 'checked' : ''}" id="reviewedBtn">
+        <span class="dot">${reviewed ? '&#10003;' : ''}</span>
+        ${reviewed ? 'Checked by a native speaker' : 'Mark as checked by a native speaker'}
+      </button>
       <div class="section-label">5-minute blocks</div>
       <div class="block-grid">${tiles}</div>
       ${full.sourceUrl ? `<div class="section-label">Source</div><a class="source-link" href="${full.sourceUrl}" target="_blank" rel="noopener">${full.sourceUrl}</a>` : ''}
     </div>`;
+  document.getElementById('reviewedBtn').onclick = () => toggleReviewed(showId, episodeId, !reviewed);
 }
 
 let audioEl = null;
@@ -426,6 +572,7 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
 
   function fieldBlock(field, text, hasFieldEdit) {
     if (state.editingField === field) {
+      const hasGhToken = !!getGitHubToken();
       return `
         <div class="edit-block">
           <textarea id="editTextarea" class="edit-textarea" rows="${field === 'italian' ? 6 : 5}">${escapeHtml(text)}</textarea>
@@ -433,7 +580,9 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
             <button class="edit-btn save" id="saveEditBtn">Save</button>
             <button class="edit-btn cancel" id="cancelEditBtn">Cancel</button>
             ${hasFieldEdit ? '<button class="edit-btn revert" id="revertEditBtn">Revert to original</button>' : ''}
+            ${field === 'english' && getOpenAIKey() ? '<button class="edit-btn regen" id="regenEditBtn">Regenerate from Italian (AI)</button>' : ''}
           </div>
+          ${!hasGhToken ? '<p class="edit-local-hint">No GitHub sync connected on this device — this correction (including any regenerated translation) will only save locally here until you connect sync or copy it to Claude from "My Corrections."</p>' : ''}
         </div>`;
     }
     const isItalian = field === 'italian';
@@ -594,6 +743,25 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   }
   if (cancelEditBtn) {
     cancelEditBtn.onclick = () => { state.editingField = null; route(); };
+  }
+  const regenEditBtn = document.getElementById('regenEditBtn');
+  if (regenEditBtn) {
+    regenEditBtn.onclick = async () => {
+      regenEditBtn.disabled = true;
+      const prevLabel = regenEditBtn.textContent;
+      regenEditBtn.textContent = 'Regenerating…';
+      try {
+        // Always regenerate from the currently-displayed Italian (including any unsaved
+        // edit already applied to it), not the shipped original.
+        const newText = await regenerateTranslation(italianText);
+        document.getElementById('editTextarea').value = newText;
+      } catch (err) {
+        alert(`Couldn't regenerate translation:\n${err.message}`);
+      } finally {
+        regenEditBtn.disabled = false;
+        regenEditBtn.textContent = prevLabel;
+      }
+    };
   }
   if (revertEditBtn) {
     revertEditBtn.onclick = () => {
