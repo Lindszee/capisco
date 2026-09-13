@@ -12,6 +12,8 @@ const state = {
   editingCardKey: null,  // which card the above applies to (editing auto-cancels if you navigate away)
   tab: 'audio',           // current card tab: text | translation | audio
   speed: 1,
+  autoAdvance: false,     // "Play All" toggle — when on, finishing a card's audio auto-advances to the next
+  autoAdvancePlayNext: false, // one-shot flag: the card we're about to render should auto-play (set by autoAdvance)
 };
 
 const SPEEDS = [0.75, 1, 1.25, 1.5];
@@ -630,6 +632,7 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
         <button class="control-btn secondary" id="speedBtn">${state.speed}x<div style="font-size:11px;font-weight:500">Speed</div></button>
         <button class="play-btn" id="playBtn">&#9658;</button>
         <button class="control-btn secondary" id="loopBtn">&#8635;<div style="font-size:11px;font-weight:500">Loop</div></button>
+        <button class="control-btn secondary" id="autoBtn">&#9193;<div style="font-size:11px;font-weight:500">Play All</div></button>
       </div>
       <div class="tab-bar">
         <button class="tab-btn ${state.tab === 'text' ? 'active' : ''}" data-tab="text">Text</button>
@@ -656,6 +659,7 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   const remTime = document.getElementById('remTime');
   const speedBtn = document.getElementById('speedBtn');
   const loopBtn = document.getElementById('loopBtn');
+  const autoBtn = document.getElementById('autoBtn');
 
   function fmt(t) {
     if (!isFinite(t) || t < 0) t = 0;
@@ -675,10 +679,23 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   audioEl.onpause = () => { playBtn.innerHTML = '&#9658;'; };
   audioEl.onended = () => {
     playBtn.innerHTML = '&#9658;';
-    if (!done) { setCardDone(showId, episodeId, block.id, card.id, true); route(); }
+    if (!done) setCardDone(showId, episodeId, block.id, card.id, true);
+    if (state.autoAdvance && hasNextInBlock) {
+      // Advance straight into the next card and have it start playing on its own —
+      // that's the whole point of "Play All": no manual "Next" tap between cards.
+      state.autoAdvancePlayNext = true;
+      go(`#/show/${showId}/${episodeId}/${block.id}/${cardIndex + 1}`);
+    } else {
+      route();
+    }
   };
   refreshTimes();
   loopBtn.style.color = audioEl.loop ? 'var(--purple)' : 'var(--text-gray)';
+  autoBtn.style.color = state.autoAdvance ? 'var(--purple)' : 'var(--text-gray)';
+  if (state.autoAdvancePlayNext) {
+    state.autoAdvancePlayNext = false;
+    audioEl.play().catch(() => {});
+  }
 
   playBtn.onclick = () => { audioEl.paused ? audioEl.play() : audioEl.pause(); };
   seekBar.oninput = () => { audioEl.currentTime = parseFloat(seekBar.value); };
@@ -692,6 +709,10 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
     state.loop = !state.loop;
     audioEl.loop = state.loop;
     loopBtn.style.color = state.loop ? 'var(--purple)' : 'var(--text-gray)';
+  };
+  autoBtn.onclick = () => {
+    state.autoAdvance = !state.autoAdvance;
+    autoBtn.style.color = state.autoAdvance ? 'var(--purple)' : 'var(--text-gray)';
   };
 
   document.getElementById('markDoneBtn').onclick = () => {
