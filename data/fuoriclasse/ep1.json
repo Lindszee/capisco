@@ -1,0 +1,1605 @@
+{
+  "id": "ep1",
+  "title": "La Sorpresa",
+  "sourceUrl": "",
+  "blocks": [
+    {
+      "id": "block-1",
+      "label": "0:00–5:00",
+      "cards": [
+        {
+          "italian": "Ciao! Ciao! Tu sei Stefania, l'ex moglie di Enzo. Esatto, sono la Stefi. Cosa leggi? Ah, bello! Te l'ha regalato Enzo. Tu come lo sai?",
+          "start": 23.68,
+          "end": 41.12,
+          "id": "card-1",
+          "english": "Hi! Hi! You're Stefania, Enzo's ex-wife. That's right, I'm Stefi. What are you reading? Oh, nice! Enzo gave it to you. How do you know that?",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-1.mp3"
+        },
+        {
+          "italian": "Perché l'ha regalato anche a me qualche anno fa. Enzo non cambia mai. Non è vero. Invece facciamo un sacco di cose nuove. Tipo? Tipo andiamo a camminare in montagna.",
+          "start": 41.68,
+          "end": 51.9,
+          "id": "card-2",
+          "english": "Because he gave me the same one a few years ago. Enzo never changes. That's not true. Actually we do lots of new things together. Like what? Like going hiking in the mountains.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-2.mp3"
+        },
+        {
+          "italian": "Mangiamo il pollo tandoori. Ecco. E andiamo ai concerti jazz. Cosa c'è da ridere, scusa? Oddio! Il più solido piacere di questa vita è il piacere vano delle illusioni.",
+          "start": 53.56,
+          "end": 69.14,
+          "id": "card-3",
+          "english": "We eat tandoori chicken. There you go. And we go to jazz concerts. What's so funny, may I ask? Oh my God! \"The most solid pleasure in this life is the vain pleasure of illusions.\"",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-3.mp3"
+        },
+        {
+          "italian": "Leopardi. Zibaldone. Non lo vuoi? No! E questo? È il tuo cavallo di battaglia, eh? Chissà quanto le hai regalato. Ma cosa dici? Questo l'ho regalato a Michele.",
+          "start": 73.86,
+          "end": 101.24,
+          "id": "card-4",
+          "english": "Leopardi. Zibaldone. Don't you want it? No! And this one? That's your go-to move, huh? Who knows how many times you've given that as a gift. What are you talking about? I gave this one to Michele.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-4.mp3"
+        },
+        {
+          "italian": "Sei tu che ti ostina leggero senza capirci nulla. Invece Stefania capiva tutto, eh? Stefania? Che ne sono? Oddio, l'hai sognata! Ma guarda che l'ho sentita solo perché stiamo divorziando.",
+          "start": 101.44,
+          "end": 114.3,
+          "id": "card-5",
+          "english": "You're the one who insists on staying shallow without understanding anything. Whereas Stefania understood everything, huh? Stefania? What do I know? Oh my God, you dreamed about her! I only heard from her because we're getting divorced.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-5.mp3"
+        },
+        {
+          "italian": "È arrivata la lettera dell'avvocato, lo sai? Sono le sette, sveglia! Chiamami tra un minuto. Va bene. Tra un minuto? No, le tue battute di prima mattina no.",
+          "start": 115.2,
+          "end": 129.76,
+          "id": "card-6",
+          "english": "The lawyer's letter arrived, you know? It's seven o'clock, wake up! Call me in a minute. Okay. In a minute? No, not your first-thing-in-the-morning jokes.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-6.mp3"
+        },
+        {
+          "italian": "Michele, tu lo sai di avere un armadio? Michele! E quando sei in ammeddore d'Aosta, prendi il... Il? Il 71. No, il 71. Il 21. Il 71 ti porta a Rivoli.",
+          "start": 130.7,
+          "end": 147.74,
+          "id": "card-7",
+          "english": "Michele, do you know you have a wardrobe? Michele! And when you're on Ammeddore d'Aosta, take the... The what? The 71. No, the 71. The 21. The 71 takes you to Rivoli.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-7.mp3"
+        },
+        {
+          "italian": "Io non capisco questo qua, c'ha una sorella che vive da un anno in Canada e ancora non si è rientrato a Torino. Meno male che non ti è iscritta al Caravaggio.",
+          "start": 148.24,
+          "end": 154.42,
+          "id": "card-8",
+          "english": "I don't get this guy, he has a sister who's been living in Canada for a year and he still hasn't gone back to Turin. Thank goodness she isn't enrolled at Caravaggio.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-8.mp3"
+        },
+        {
+          "italian": "Pensa che figura che avrei fatto. E è sbagliato pure tu a iscriverla al Newton. Lo dovevamo mandare a una scuola professionale, anzi direttamente a zappare la terra.",
+          "start": 154.64,
+          "end": 161.82,
+          "id": "card-9",
+          "english": "Just imagine what a bad impression I'd have made. And you were wrong too, enrolling her at Newton. We should have sent him to a vocational school — or better, straight out to till the fields.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-9.mp3"
+        },
+        {
+          "italian": "E invece no, abbiamo fatto benissimo andare al liceo, vero Ettore? Che faremo una bella sorpresa a papà? Eh sì, basta che mangia zuppe, zuppe come i vicini, come i bambini.",
+          "start": 162.02,
+          "end": 171.6,
+          "id": "card-10",
+          "english": "But no, we did the right thing sending him to high school, right Ettore? We're going to give Dad a nice surprise? Oh yes, as long as he eats soup — soup like the neighbors, like the kids.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-10.mp3"
+        },
+        {
+          "italian": "Ma piacevano anche a te una volta, prima di ridurti così per la tua collega Iris Tablò. No, non hai capito. Tra di noi non c'è stato niente.",
+          "start": 171.8,
+          "end": 179.84,
+          "id": "card-11",
+          "english": "But you used to like them too, before you let yourself get like this over your colleague Iris Tablò. No, you don't understand. Nothing happened between us.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-11.mp3"
+        },
+        {
+          "italian": "Non certo per scelta tua. Isa! Ma l'avete visto anche voi, no? Si è inventata la cintura di sicurezza, dovrebbero beatificarlo. Ah guarda, questa è la soda.",
+          "start": 181.5,
+          "end": 195.16,
+          "id": "card-12",
+          "english": "Certainly not by your choice. Isa! You saw it too, didn't you? He invented the seatbelt, they should canonize him. Oh look, this is the baking soda.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-12.mp3"
+        },
+        {
+          "italian": "Quando sto con tua madre mi sono informato. Si chiamava Nilsi Warbolin e non credo che si sia mai sposato. Ah, che palle che siete però voi due, eh.",
+          "start": 195.32,
+          "end": 203.1,
+          "id": "card-13",
+          "english": "When I'm with your mother I did some digging. His name was Nilsi Warbolin and I don't think he was ever married. Ugh, you two are such a pain, honestly.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-13.mp3"
+        },
+        {
+          "italian": "È rosso! Arancione! Io da domani vengo in bici, eh. Ma sei in bici? Un biglietto dell'autobus per favore. Un euro e cinquanta. Mi mancano venticentesimi, ho cinquanta euro.",
+          "start": 203.3,
+          "end": 227.5,
+          "id": "card-14",
+          "english": "It's red! Orange! Starting tomorrow I'm coming by bike, you know. But are you on a bike? One bus ticket please. One-fifty. I'm twenty cents short, I have a fifty-euro bill.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-14.mp3"
+        },
+        {
+          "italian": "Non ho resto. Ma non è vero, ho la cassa piena. Per un biglietto dell'autobus non cambio cinquanta euro. Se hai la moneta bene, se no pazienza.",
+          "start": 227.96,
+          "end": 235.24,
+          "id": "card-15",
+          "english": "I don't have change. That's not true, the register's full. I'm not breaking a fifty-euro bill for one bus ticket. If you've got the coins, fine — if not, too bad.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-15.mp3"
+        },
+        {
+          "italian": "Pazienza cosa vuol dire? Andare a piedi? Io ho fretta, devo prendere l'autobus. Si, anche io ho fretta. Vabbè, ce li metto io venticentesimi, ok?",
+          "start": 235.92,
+          "end": 243.16,
+          "id": "card-16",
+          "english": "What do you mean, too bad? Walk there? I'm in a hurry, I have to catch the bus. Yeah, I'm in a hurry too. Fine, I'll cover the twenty cents myself, okay?",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-16.mp3"
+        },
+        {
+          "italian": "Grazie, sei molto gentile. Prego. Permesso. Buongiorno, buongiorno signora. Due biglietti per l'autobus per favore. Subito. Ecco lì. Ciao! Ma dove siete stati eh quest'estate?",
+          "start": 245.4,
+          "end": 269.98,
+          "id": "card-17",
+          "english": "Thanks, that's very kind of you. You're welcome. Excuse me. Good morning, good morning ma'am. Two bus tickets please. Right away. There you go. Hi! So where were you this summer?",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-17.mp3"
+        },
+        {
+          "italian": "A un centro benessere. Eh, centro benessere, zaino, scarponi e vesciche. Il giro delle Dolomiti, una meraviglia. Così bella che io il prossimo anno ho già prenotato una crociera.",
+          "start": 270.08,
+          "end": 278.18,
+          "id": "card-18",
+          "english": "At a wellness resort. Ha, some \"wellness resort\" — backpack, hiking boots, and blisters. The Dolomites loop, gorgeous. So gorgeous that next year I've already booked a cruise instead.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-18.mp3"
+        },
+        {
+          "italian": "E tu invece Tina dove sei stata? Io a un centro diagnostico all'avanguardia. Tra un minuto suona la campanella. Ho fatto la moc, la tac, la pet.",
+          "start": 278.46,
+          "end": 286.12,
+          "id": "card-19",
+          "english": "And you, Tina, where were you? I was at a state-of-the-art diagnostic center. The bell's about to ring. I had a bone density scan, a CT scan, a PET scan.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-19.mp3"
+        },
+        {
+          "italian": "Chi sono i nipoti di Pappiorino? Ma quando fanno il nuovo preside, lo sai? Ma che ti interessa a te del preside se ormai sei in pensione?",
+          "start": 286.34,
+          "end": 293.3,
+          "id": "card-20",
+          "english": "Who are Pappiorino's grandkids? So when's the new principal starting, do you know? Why do you even care about the principal now that you're retired?",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-20.mp3"
+        },
+        {
+          "italian": "Lo bascio, ma quanto sei dimagrito. Beh, un bel uomo non sei mai stato eh. Ad ogni modo io sono qui perché ho una grande responsabilità.",
+          "start": 293.48,
+          "end": 300.4,
+          "id": "card-21",
+          "english": "Lo Bascio, you've lost so much weight. Well, you were never a good-looking man anyway. Anyway, I'm here because I have a great responsibility.",
+          "audio": "audio/fuoriclasse/ep1/block-1/card-21.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-2",
+      "label": "5:00–10:00",
+      "cards": [
+        {
+          "italian": "Il disagio giovanile è un grosso problema, lo bascio. Hai perfettamente ragione su tutto. Anche tu hai fatto la dieta Broccoletti vedo? Un etto? Ieri sei meravigliosa.",
+          "start": 300.98,
+          "end": 311.16,
+          "id": "card-1",
+          "english": "Youth hardship is a big problem, Lo Bascio. You're absolutely right about everything. Looks like you went on the Broccoletti diet too? A hundred grams? You look gorgeous today.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-1.mp3"
+        },
+        {
+          "italian": "Come stai? Benissimo quando ti vedo. Pure io. Sai domani dovrò forse aver bisogno di una mattinata libera, mi fa comodo. Ma che problemi ci sono?",
+          "start": 312.58,
+          "end": 320.32,
+          "id": "card-2",
+          "english": "How are you? Wonderful, now that I see you. Me too. You know, tomorrow I might need a free morning, it'd really help me out. What's going on?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-2.mp3"
+        },
+        {
+          "italian": "Domani mattina c'è una mattinata libera. Grazie, sei sempre un tesoro di vicepresidente. Avanti, forza, forza! Muoversi, andiamo! Tutte le prime in Aulamania, andiamo! Perché no?",
+          "start": 320.6,
+          "end": 333.26,
+          "id": "card-3",
+          "english": "Tomorrow morning there's a free morning. Thank you, you're always such a gem of a vice principal. Come on, hurry, hurry! Get moving, let's go! All the freshmen to the auditorium, let's go! Why not?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-3.mp3"
+        },
+        {
+          "italian": "Perché no, perché sta con me. Andiamo dai miei, ho già preso i biglietti. Ma come? Ma scusi, sei tu che mi hai chiesto di invertire il weekend?",
+          "start": 334.1,
+          "end": 340.06,
+          "id": "card-4",
+          "english": "Why not, because he's with me. We're going to my parents', I already bought the tickets. But how? Excuse me, weren't you the one who asked me to swap weekends?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-4.mp3"
+        },
+        {
+          "italian": "Perché tu avevi da fare delle cose. Mi hai anche mandato una mail, guarda ce l'ho anche qui. Sai che c'è? Che con queste cose sei rincoglionito e hai rincoglionito pure lui.",
+          "start": 340.24,
+          "end": 348.22,
+          "id": "card-5",
+          "english": "Because you had things to do. You even sent me an email, look, I still have it right here. You know what? You've gone soft in the head over this stuff, and you've made him soft in the head too.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-5.mp3"
+        },
+        {
+          "italian": "Come rincoglionito? Prima di comprare un telefonino da 800 euro a un bambino dovevi chiedere a me. Ah, a te, sì, perché io non sono il padre invece.",
+          "start": 348.26,
+          "end": 354.54,
+          "id": "card-6",
+          "english": "What do you mean, soft in the head? Before buying an 800-euro phone for a kid you should have asked me. Oh, ask you, right, because I'm not his father or anything.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-6.mp3"
+        },
+        {
+          "italian": "Io non posso decidere che cosa regalare a mio figlio. No, non può essere alcuna cosa che è diseducativa. Diseducativa lo decidi tu. Ma certo, ma certo, ma lo dicono tutti quanti.",
+          "start": 354.64,
+          "end": 362.62,
+          "id": "card-7",
+          "english": "I can't decide what to give my own son as a gift? No, not if it's something that sends the wrong message. You're the one who decides what sends the wrong message. Oh, of course, of course, that's what everyone says.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-7.mp3"
+        },
+        {
+          "italian": "Non si apre? Aspetta Marcella. Non ci riesco. Aspetta Marcella, che lo faccio io. Vieni, provaci tu. Prego. No, prova a mezzo giro di chiave.",
+          "start": 364.86,
+          "end": 379.64,
+          "id": "card-8",
+          "english": "It won't open? Wait, Marcella. I can't get it. Wait, Marcella, let me do it. Come on, you try. Go ahead. No, try turning the key halfway.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-8.mp3"
+        },
+        {
+          "italian": "Se lo vuoi fare tu. Vai tu che fai benissimo. No, no, no, non spingere troppo che si rompe. Ogni anno è la stessa cosa.",
+          "start": 380.42,
+          "end": 386.38,
+          "id": "card-9",
+          "english": "If you want to do it. Go ahead, you're doing great. No, no, no, don't push too hard, you'll break it. It's the same thing every year.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-9.mp3"
+        },
+        {
+          "italian": "Mi fa male la mano. Permettete? Ecco fatto. Buongiorno a tutti. Sono Gianrico Dastolfo, il nuovo preside. È un piacere essere qui. So che siete tutte persone di gran valore.",
+          "start": 386.84,
+          "end": 404.18,
+          "id": "card-10",
+          "english": "My hand hurts. May I? There we go. Good morning, everyone. I'm Gianrico Dastolfo, the new principal. It's a pleasure to be here. I know you're all people of great worth.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-10.mp3"
+        },
+        {
+          "italian": "Perciò sarà un anno ricco di soddisfazioni. Salvatore Lombascio, vicepreside. Piacere. Ci tengo a precisare che questo è il mio primo incarico. Ma siccome siamo in una scuola, come io imparerò a fare il preside, ognuno di voi potrà imparare a fare il vicepreside.",
+          "start": 404.82,
+          "end": 422.06,
+          "id": "card-11",
+          "english": "So this will be a rewarding year. Salvatore Lo Bascio, vice principal. Pleased to meet you. I want to point out that this is my first appointment. But since we're in a school, just as I'll be learning to be principal, each of you can learn to be vice principal.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-11.mp3"
+        },
+        {
+          "italian": "Quindi siete tutti elegibili. Ovviamente anche lei, professore Lombascio. E adesso che ne dite se andiamo tutti insieme ad accogliere i ragazzi delle prime? È un'idea bellissima.",
+          "start": 422.48,
+          "end": 432.86,
+          "id": "card-12",
+          "english": "So you're all eligible. Obviously you too, Professor Lo Bascio. So now, how about we all go welcome the incoming freshmen together? What a wonderful idea.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-12.mp3"
+        },
+        {
+          "italian": "Ma bellissima? Sì, volentieri. Che bella idea. Tutti insieme appassionatamente. Sei svegliato un po' acida stamattina? No, stamattina. Io sono così. Per le carinerie devi rivolgerti a Stefania.",
+          "start": 433.18,
+          "end": 447.76,
+          "id": "card-13",
+          "english": "Wonderful, you say? Yes, gladly. What a lovely idea. All together now. Did you wake up a bit sour this morning? No, this morning I'm just like this. For the sweet talk you'll have to go to Stefania.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-13.mp3"
+        },
+        {
+          "italian": "Dai, diamo. Buongiorno a tutti ragazzi. Siamo qui per dare il benvenuto alle prime classi. Silenzio per favore. Silenzio! Fermatevi. Miau. Miau. Miau. Miau. Che animale è?",
+          "start": 448.52,
+          "end": 486.94,
+          "id": "card-14",
+          "english": "Come on, let's go. Good morning everyone. We're here to welcome the incoming classes. Quiet please. Quiet! Stop. Meow. Meow. Meow. Meow. What animal is this?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-14.mp3"
+        },
+        {
+          "italian": "Gatto. Ma di che colore? Nero. Bianco. Rosso. Eccolo, vedete? Ognuno di voi ha immaginato un gatto differente dall'altro. Per cinque anni la scuola insegnerà a tutti voi che cos'è un gatto.",
+          "start": 487.62,
+          "end": 504.9,
+          "id": "card-15",
+          "english": "A cat. But what color? Black. White. Red. There you go, see? Each of you imagined a different cat. For the next five years, school will teach all of you what a cat is.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-15.mp3"
+        },
+        {
+          "italian": "Ma nessuno verrà a dirvi come deve essere il vostro gatto. Non siamo qui per appiattire le vostre idee, le vostre differenti personalità. Siamo qui per valorizzarle e farle crescere.",
+          "start": 506.0,
+          "end": 519.34,
+          "id": "card-16",
+          "english": "But no one is going to tell you what your cat should look like. We're not here to flatten your ideas, your different personalities. We're here to bring them out and help them grow.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-16.mp3"
+        },
+        {
+          "italian": "Ma non voglio perdere altro tempo e annoiarvi con lunghi discorsi, quindi non mi resta altro da dirvi che... Benvenuti ragazzi. Ma che è? Dopo ne parliamo.",
+          "start": 520.12,
+          "end": 532.66,
+          "id": "card-17",
+          "english": "But I don't want to waste any more time boring you with long speeches, so all that's left for me to say is... Welcome, kids. What is that? We'll talk about it later.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-17.mp3"
+        },
+        {
+          "italian": "Ma cinque minuti zitti? Bene, proseguiamo all'appello della prima A. Tutti i ragazzi che chiamerò adesso vanno da quella parte con la professoressa Zana, per favore, grazie.",
+          "start": 533.06,
+          "end": 545.8,
+          "id": "card-18",
+          "english": "Can't you be quiet for five minutes? Alright, let's move on to roll call for class 1A. All the students I call now, please head over there with Professor Zana, thank you.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-18.mp3"
+        },
+        {
+          "italian": "Baldini, Andrea. Cinquini, Elena. Ci vediamo a casa. Onasio, Paolo. Cenni, Luca. Gironi, Federico. La gioia, Carolina. Lo basso, Ettore. Ah, ecco, sei tu. Puoi continuare, per favore?",
+          "start": 546.62,
+          "end": 564.74,
+          "id": "card-19",
+          "english": "Baldini, Andrea. Cinquini, Elena. See you at home. Onasio, Paolo. Cenni, Luca. Gironi, Federico. La Gioia, Carolina. Lo Basso, Ettore. Ah, there you are. Can you continue, please?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-19.mp3"
+        },
+        {
+          "italian": "Sì, sì. Scusate, continua la professoressa. Salve, piacere, mi presento. Sono la vostra professoressa di educazione fisica, Iris Tablo. Cosa ci fa, Ettore? Non è mia scuola.",
+          "start": 565.62,
+          "end": 577.2,
+          "id": "card-20",
+          "english": "Yes, yes. Sorry, please continue, Professor. Hello, nice to meet you, let me introduce myself. I'm your P.E. teacher, Iris Tablò. What is he doing here, Ettore? This isn't my school.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-20.mp3"
+        },
+        {
+          "italian": "Ettore, vai che ti hanno chiamato, vai. Prima prova a spiegarmi cosa ci fa lei nella tua scuola. Non doveva essere a Palermo? C'è stato un problema con il provveditorato.",
+          "start": 577.32,
+          "end": 584.28,
+          "id": "card-21",
+          "english": "Ettore, go, they called your name, go. First try explaining to me what she's doing at your school. Wasn't she supposed to be in Palermo? There was a problem with the education board.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-21.mp3"
+        },
+        {
+          "italian": "Cose tecniche che tu non puoi capire. Io invece capisco benissimo, ma io lo sapevo e ho provveduto. Ah, quindi lo hai scritto qua per controllarmi.",
+          "start": 584.56,
+          "end": 591.02,
+          "id": "card-22",
+          "english": "Technical stuff you wouldn't understand. Actually I understand perfectly, and I knew about it, so I took care of it. Ah, so you put this here just to keep tabs on me.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-22.mp3"
+        },
+        {
+          "italian": "Lo metti in mezzo a queste cose e non ti vergogni? Eh, quello sarebbe il genio o hai un altro figlio maschio nascosto da qualche parte?",
+          "start": 591.34,
+          "end": 598.1,
+          "id": "card-23",
+          "english": "You drag him into this and you're not ashamed? Oh, is that the genius, or do you have another son hidden away somewhere?",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-23.mp3"
+        },
+        {
+          "italian": "Con rispetto parlando, signora, per quello ti sparisci. Guarda che non sei più il vicepreside. Che vuol dire? Vuol dire che quest'anno siamo tutti in competizione, cara signore, come ha ben sentito.",
+          "start": 598.4,
+          "end": 610.3,
+          "id": "card-24",
+          "english": "With all due respect, ma'am, that's why you should disappear. Look, you're not the vice principal anymore. What does that mean? It means this year we're all in competition, my dear sir, as you just heard.",
+          "audio": "audio/fuoriclasse/ep1/block-2/card-24.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-3",
+      "label": "10:00–15:00",
+      "cards": [
+        {
+          "italian": "Qui si fa a chi miagola di più. Ottimo, complimenti. E io che pensavo che per una volta avresti potuto dare una mano a tuo figlio.",
+          "start": 610.76,
+          "end": 621.06,
+          "id": "card-1",
+          "english": "Here it's about who meows the loudest. Great, congratulations. And here I thought that just once you might actually help your son out.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-1.mp3"
+        },
+        {
+          "italian": "Cos'è sta storia del genio? Niente, ho detto quel cretino che Ettore era il primo della classe. Ah, se l'anno scorso rischiava di rimanerci. Appunto, l'avevo scritta al Newton per evitare di fare figure di merda qui con i miei colleghi.",
+          "start": 621.24,
+          "end": 633.2,
+          "id": "card-2",
+          "english": "What's this business about a genius? Nothing, I just told that idiot that Ettore was top of the class. Oh, last year he nearly had to repeat the year. Exactly, that's why I enrolled him at Newton — to avoid looking like an idiot here in front of my colleagues.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-2.mp3"
+        },
+        {
+          "italian": "Dunque, o io o lui. Staremo a vedere. Ciao, venirci ragazzi. Ehi, come sono quelli di terza? Con tutti gli altri. Normali? Ah, meno male.",
+          "start": 635.7,
+          "end": 650.5,
+          "id": "card-3",
+          "english": "So, it's either me or him. We'll see about that. Hi, come on kids. Hey, what are the third-years like? Same as everyone else. Normal? Oh, thank goodness.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-3.mp3"
+        },
+        {
+          "italian": "Ti piacciono strani? Eh, se no ti pare che starei con uno come te? Ah, senti, mi sono informata, ho guardato su internet, quello lì delle cinture di sicurezza bowling era sposato e pare che sua moglie fosse una sua grandissima ispiratrice.",
+          "start": 651.0,
+          "end": 663.92,
+          "id": "card-4",
+          "english": "You like them weird? Well, otherwise, why would I be with someone like you? Oh, listen, I did some digging, I looked it up online — that seatbelt guy was married and apparently his wife was a huge inspiration to him.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-4.mp3"
+        },
+        {
+          "italian": "Beh, si vede che guidava come te. Ma dai! Dai ragazzi, dentro! Aspetta, fammi vedere. Allora, sentiamo che cosa mi hanno raccontato di me. Che sono severa? Una iene, una sadica, cosa sono?",
+          "start": 664.22,
+          "end": 681.06,
+          "id": "card-5",
+          "english": "Well, clearly he drove like you. Oh come on! Come on kids, get inside! Wait, let me see. Alright, let's hear what they've been telling you about me. That I'm strict? A hyena, a sadist — what am I?",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-5.mp3"
+        },
+        {
+          "italian": "Oppure che sono una babbione? Che non si accorge che copiate fatti furbi. Dai, voglio sapere, sono curiosissima. No, allora, tu no. Chiariamo subito lui e Dario, il miglior amico di mio figlio.",
+          "start": 681.56,
+          "end": 694.06,
+          "id": "card-6",
+          "english": "Or that I'm an old fool who doesn't notice when you cheat, so clever about it? Come on, I want to know, I'm dying of curiosity. No, well, not you. Let's get this straight right away — him and Dario, my son's best friend.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-6.mp3"
+        },
+        {
+          "italian": "Ma io non farò favoritismi, anzi, ti tratterò peggio. Grazie però. Niente, tranquillo. No, e comunque, per fortuna, è l'unica persona che conosco. Io sono la cugina di Emanuele Epinaider, ha detto di salutarla tanto.",
+          "start": 694.36,
+          "end": 708.6,
+          "id": "card-7",
+          "english": "But I won't play favorites — if anything, I'll treat you worse. Thanks anyway. No worries. And besides, luckily, he's the only person I know here. I'm Emanuele Pinaider's cousin, he said to say hi.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-7.mp3"
+        },
+        {
+          "italian": "Ah, Emanuele, e che cosa fa? Fa un master alla London School of Economics. London School of Economics? Rilassati, guarda che insegna italiano, mica inglese.",
+          "start": 708.88,
+          "end": 717.92,
+          "id": "card-8",
+          "english": "Oh, Emanuele, what's he up to? He's doing a master's at the London School of Economics. London School of Economics? Relax, she teaches Italian, not English.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-8.mp3"
+        },
+        {
+          "italian": "Quella nervosetta mi sembri tu qui, ti brucia così tanto per tutto quello che non sai fare? Io quello che non so me lo studio.",
+          "start": 718.46,
+          "end": 723.62,
+          "id": "card-9",
+          "english": "Seems like you're the nervous one here — does it really bother you that much, all the things you don't know how to do? What I don't know, I go and study.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-9.mp3"
+        },
+        {
+          "italian": "Tu invece? Senza le date di Cambridge che te lo spiegano, cosa fai? Veramente l'inglese me l'ha insegnato mia madre. Ah, la barbierota di club, certo.",
+          "start": 723.96,
+          "end": 731.22,
+          "id": "card-10",
+          "english": "And you? Without some Cambridge tutor explaining it to you, what do you do? Actually, my mother taught me English. Oh right, the club bartender, sure.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-10.mp3"
+        },
+        {
+          "italian": "Ma tu cos'è che ti ha insegnato? Ragazze, stop, eh. Io queste scene non le voglio vedere, soprattutto il primo giorno. Allora, poi c'è Mernissi.",
+          "start": 731.96,
+          "end": 741.82,
+          "id": "card-11",
+          "english": "And what exactly did she teach you? Girls, stop it. I don't want to see these scenes, especially not on the first day. Alright, then there's Mernissi.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-11.mp3"
+        },
+        {
+          "italian": "Mernissi non ti ho mai vista, sei nuova di questa scuola. Sì, vengo dal Da Vinci. Come mai, ti sei trasferita in zona? No, non mi trovavo bene.",
+          "start": 741.9,
+          "end": 749.58,
+          "id": "card-12",
+          "english": "Mernissi, I've never seen you before, you're new to this school. Yes, I came from Da Vinci. How come, did you move to the area? No, I just wasn't happy there.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-12.mp3"
+        },
+        {
+          "italian": "Ma col professore o coi compagni? Tutto. Capito, questa l'hanno beccata in bagno col bidello. E a te hanno scoperto una malattia da poco o ci sei nato così scemo?",
+          "start": 749.94,
+          "end": 759.7,
+          "id": "card-13",
+          "english": "With the teachers or with your classmates? Both. Got it — this one got caught in the bathroom with the janitor. And you — did they just diagnose you recently, or were you born this stupid?",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-13.mp3"
+        },
+        {
+          "italian": "Molto bene, allora ho capito che siete una classe interessante. Allora, vogliamo fare un po' in fretta qua? Che cosa prendiamo, signorina? Tu che prendi?",
+          "start": 760.64,
+          "end": 768.44,
+          "id": "card-14",
+          "english": "Very well, so I can see you're an interesting class. Alright, shall we hurry it up a bit? What are we having, miss? What are you getting?",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-14.mp3"
+        },
+        {
+          "italian": "Sì, un panino e la cioccolata. Un cioccolata, ecco. Cos'hai? Fatto tardi con le pizza anche ieri sera? Ci sei? Sì, sì. È che ho conosciuto una.",
+          "start": 768.6,
+          "end": 779.06,
+          "id": "card-15",
+          "english": "Yeah, a sandwich and a hot chocolate. One hot chocolate, here you go. What's up with you? Out late with pizza again last night? You with us? Yeah, yeah. It's just, I met someone.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-15.mp3"
+        },
+        {
+          "italian": "Fica? Un'angelo. Aiaiai, le peggiori. Quando la rivedi? Non lo so, non so neanche come si chiama. Vabbè, c'è solo una cosa da fare in questi casi.",
+          "start": 779.8,
+          "end": 788.5,
+          "id": "card-16",
+          "english": "Hot? An angel. Uh-oh, those are the worst kind. When are you seeing her again? I don't know, I don't even know her name. Well, there's only one thing to do in cases like this.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-16.mp3"
+        },
+        {
+          "italian": "Cosa? Dimenticala. Tanto non la rivedremo più. Facci una bella cresce sopra. Come te con la Pinaider, eh? Che ci hai messo due anni a scordartela.",
+          "start": 789.18,
+          "end": 798.96,
+          "id": "card-17",
+          "english": "What? Forget about her. We're never going to see her again anyway. Just put it behind you. Like you did with Pinaider, huh? It only took you two years to get over her.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-17.mp3"
+        },
+        {
+          "italian": "Sì. Perché te la sei scordata, vero? Sì. In realtà è una cosa che la Pinaider piace a mezza scuola. Appunto, non sei nemmeno originale.",
+          "start": 799.02,
+          "end": 805.66,
+          "id": "card-18",
+          "english": "Yeah. Because you're totally over her, right? Yeah. Actually, half the school has a crush on Pinaider. Exactly, so you're not even original.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-18.mp3"
+        },
+        {
+          "italian": "Questo costa 15 euro. Lo vuoi? Ciao. Ciao. 18 euro? Sì. C'è la tua firma. Facciamo 15. Vabbè no, facciamo 10. Davvero? Sì. Grazie. Grazie a te.",
+          "start": 806.78,
+          "end": 831.64,
+          "id": "card-19",
+          "english": "This one costs 15 euros. Do you want it? Hi. Hi. 18 euros? Yes. It's got your signature on it. Let's say 15. Actually, let's say 10. Really? Yes. Thanks. Thank you.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-19.mp3"
+        },
+        {
+          "italian": "Certo che gli uomini non capiscono proprio niente, eh? Però poteva vendere al doppio. Cosa vorresti dire? L'hanno capito tutti che gli muori dietro. Io non muoio dietro a nessuno.",
+          "start": 834.7,
+          "end": 844.58,
+          "id": "card-20",
+          "english": "Boys really don't understand anything at all, huh? Still, he could've sold it for double. What are you trying to say? Everyone can tell you're crazy about him. I'm not crazy about anyone.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-20.mp3"
+        },
+        {
+          "italian": "E quale chi è? È Barbara Pinaider. Lo so chi è Barbara Pinaider, dico l'altra. E l'altra è nuova, è appena arrivata. È carina. Vuoi un po'?",
+          "start": 848.54,
+          "end": 860.88,
+          "id": "card-21",
+          "english": "Which one is who? That's Barbara Pinaider. I know who Barbara Pinaider is, I mean the other one. The other one is new, she just arrived. She's cute. Want some?",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-21.mp3"
+        },
+        {
+          "italian": "No, grazie. Perché non ti piace? Preferisco panini fatti da altre persone. Quanto avrai? Talente è così simpatico. Ti prego, scopri qualcosa. Eh? Scopri qualcosa.",
+          "start": 861.78,
+          "end": 875.36,
+          "id": "card-22",
+          "english": "No thanks. Why, don't you like it? I prefer sandwiches made by other people. How much do you weigh? Talente is so nice. Please, find out something. What? Find out something.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-22.mp3"
+        },
+        {
+          "italian": "Scopri! Allora facciamo così. Se non mi aiuti, la prossima volta che sbircio il computer di mia madre non ti dico le tracce dei temi.",
+          "start": 876.34,
+          "end": 883.86,
+          "id": "card-23",
+          "english": "Find out! Alright, here's the deal. If you don't help me, next time I sneak a look at my mom's computer I won't tell you the essay topics.",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-23.mp3"
+        },
+        {
+          "italian": "Quando mai mi hai detto le tracce dei temi? Vabbè, quando dovevo farlo. Sei suo alunno da due ore. Ok, a fare quanto? Forza ragazzi!",
+          "start": 884.74,
+          "end": 898.62,
+          "id": "card-24",
+          "english": "When have you ever told me the essay topics? Well, whenever I needed to. You've been his student for two hours. Okay, for how much? Come on, kids!",
+          "audio": "audio/fuoriclasse/ep1/block-3/card-24.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-4",
+      "label": "15:00–20:00",
+      "cards": [
+        {
+          "italian": "Vieni su, in classe. Cosa fai, vuoi dormire lì? Dai! Sai dove ho passato la seconda ora? No. In prima, già che ero lì, ho fatto due domandine ad Ettore.",
+          "start": 900.0,
+          "end": 909.08,
+          "id": "card-1",
+          "english": "Come on up, to class. What are you doing, sleeping there? Come on! You know where I spent second period? No. In the freshman class — since I was there anyway, I asked Ettore a couple of quick questions.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-1.mp3"
+        },
+        {
+          "italian": "Il vuoto siderale! Non ti avrà sentito, quest'estate ha avuto una brutta tite. Poi tu spieghi da che è. Sarà, ma mi sembrava Forrest Gump.",
+          "start": 909.34,
+          "end": 916.6,
+          "id": "card-2",
+          "english": "Total blank space! Maybe he didn't hear you, he had a bad case of tonsillitis this summer. Then you go explain it. Maybe, but he seemed like Forrest Gump to me.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-2.mp3"
+        },
+        {
+          "italian": "Comunque, Salvatore, credimi, o lui si libera da questo tite o qui dentro non arriva a Natale. Non ti preoccupare perché lui a Natale sarà già in un'altra scuola, in una di quelle dove ci sono i professori veri.",
+          "start": 917.2,
+          "end": 926.52,
+          "id": "card-3",
+          "english": "Anyway, Salvatore, trust me, either he shakes off this tonsillitis or he won't make it to Christmas here. Don't worry, by Christmas he'll already be at a different school — one of those with real teachers.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-3.mp3"
+        },
+        {
+          "italian": "Sta arrivando il trasferimento. Bene, meno capre, meno lavoro. Permesso? Permesso? Lovesturno Bascio. Venga, venga. Si metta quel segno, per favore. Lì? Quello lì. Ascolti questa, Lo Bascio.",
+          "start": 926.72,
+          "end": 945.2,
+          "id": "card-4",
+          "english": "The transfer is coming through. Good, fewer idiots, less work. Excuse me? Excuse me? Lo Bascio. Come in, come in. Stand right there, please. There? Right there. Listen to this, Lo Bascio.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-4.mp3"
+        },
+        {
+          "italian": "Che voce meravigliosa. È l'aria della sonnambula. Ogni volta che la sento, mi si spacca il cuore. Bellissima. La voce della Shostamesca, eh? Dai. Le piace?",
+          "start": 945.88,
+          "end": 957.04,
+          "id": "card-5",
+          "english": "What a marvelous voice. It's the aria from La Sonnambula. Every time I hear it, my heart breaks. Beautiful. That's the sound of the Shostamesca, huh? Come on. Do you like it?",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-5.mp3"
+        },
+        {
+          "italian": "Molto, molto. Come si sente? Un pochino di acidità, come il polpettone ieri sera. No, dicevo come si sente l'impianto, perché l'ho messo in quadrifonia.",
+          "start": 957.04,
+          "end": 967.2,
+          "id": "card-6",
+          "english": "Very much, very much. How does it feel? A little bit of acid reflux, like the meatloaf last night. No, I meant how does the sound system sound, I set it up in quadraphonic.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-6.mp3"
+        },
+        {
+          "italian": "Bellissimo, bellissimo. Molto bene. Io lo so perché lei è qui. Appunto... Ma non deve preoccuparsi di nulla. In che senso? Ho parlato con sua moglie.",
+          "start": 967.94,
+          "end": 976.2,
+          "id": "card-7",
+          "english": "Beautiful, beautiful. Very good. I know why you're here. Exactly... But you don't need to worry about anything. What do you mean? I spoke with your wife.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-7.mp3"
+        },
+        {
+          "italian": "Ah. Mi ha detto delle sue remore. Io apprezzo la sua onestà, ma il problema non si pone. Suo figlio non è suo alunno. Certo.",
+          "start": 977.08,
+          "end": 985.96,
+          "id": "card-8",
+          "english": "Ah. She told me about your reservations. I appreciate your honesty, but there's no problem here. Your son isn't your student. Of course.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-8.mp3"
+        },
+        {
+          "italian": "Voglio dire, io mi impegno a garantire il massimo dell'imparzialità. Del resto, diciamo, c'è anche il figlio della passamaglia qui a scuola, quindi... ...è un precedente.",
+          "start": 985.96,
+          "end": 994.98,
+          "id": "card-9",
+          "english": "I mean, I'm committed to guaranteeing complete impartiality. Besides, well, there's also Passamaglia's son here at school, so... ...there's a precedent.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-9.mp3"
+        },
+        {
+          "italian": "Basta scrupoli, eh? Però, vedi, signor Preside... Donizzetti. Una fortiva lacrima. Le piace? Fantastico. Vada, perché se non lo bacio è tutto a posto, guarda.",
+          "start": 995.5,
+          "end": 1007.94,
+          "id": "card-10",
+          "english": "Enough with the second thoughts, huh? But you see, Mr. Principal... Donizetti. \"Una furtiva lagrima.\" Do you like it? Fantastic. Go on, because if I don't kiss you, everything's fine, look.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-10.mp3"
+        },
+        {
+          "italian": "Arrivederci. Ma fa un culo, signor Preside. Eh? Oddio, Donizzetti. Bellissimo. Non so. Ok, un bellissimo scherzo, molto originale. Adesso conto fino a dieci, poi vi metto tutti assenti.",
+          "start": 1011.38,
+          "end": 1052.38,
+          "id": "card-11",
+          "english": "Goodbye. What a pain in the ass, Mr. Principal. Huh? Oh my God, Donizetti. Beautiful. I don't know. Okay, a lovely joke, very original. Now I'm counting to ten, then I'm marking all of you absent.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-11.mp3"
+        },
+        {
+          "italian": "Ecco qua. Dai, venite dentro. Sorate, c'hai ventun anni, ma quando è che cresci? Più di così, prof. Avanti, prof. Ci faccia un bel pistolotto sull'immaturità delle nuove generazioni.",
+          "start": 1054.92,
+          "end": 1069.88,
+          "id": "card-12",
+          "english": "Here we go. Come on, get inside. Sorate, you're twenty-one, when are you going to grow up? More than this, prof? Come on, prof, give us a nice speech about how immature the younger generation is.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-12.mp3"
+        },
+        {
+          "italian": "Non ce l'hai bisogno, basta guardare le unghie di Teresa. Bella, eh? Moltissimo. Allora, ragazzi, devo darvi una brutta notizia. Quest'anno metto l'esame di statua.",
+          "start": 1070.5,
+          "end": 1083.88,
+          "id": "card-13",
+          "english": "You don't need one, just look at Teresa's nails. Nice, huh? Very much so. Alright, kids, I have bad news for you. This year I'm introducing the \"statue exam.\"",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-13.mp3"
+        },
+        {
+          "italian": "Batte cinque. Cioè, non sai battere cinque? Non te l'hanno insegnata la SELU? Vabbè, dai, ti faccio vedere. Su. Eh? Facile, no? Dai, riproviamo. Lo basso.",
+          "start": 1092.86,
+          "end": 1119.56,
+          "id": "card-14",
+          "english": "High five. Wait, you don't know how to high five? Didn't they teach you at SELU? Whatever, come on, I'll show you. Up. See? Easy, right? Come on, let's try again. Lo Basso.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-14.mp3"
+        },
+        {
+          "italian": "Cosa, sei parente del vicepreside? Figlio. Che sfiga. Non dirlo a me. Vabbè, dai, ci si vede. Muoviti! Vado, vado. Ah! A che giochi? Star Wander 3, online.",
+          "start": 1120.86,
+          "end": 1140.08,
+          "id": "card-15",
+          "english": "What, are you related to the vice principal? His son. Tough break. Tell me about it. Alright, see you around. Move it! I'm going, I'm going. Ah! What are you playing? Star Wander 3, online.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-15.mp3"
+        },
+        {
+          "italian": "Lo so cos'è. Schermo Super Amold, quad core. Quanto, 14 anni? Puoi vedere? Sei su internet. Diamo... Paolo Masotti. Figlio di nessun prof. Me lo ridai?",
+          "start": 1140.26,
+          "end": 1159.66,
+          "id": "card-16",
+          "english": "I know what that is. Super Amold screen, quad core. How old, 14? Can I see? You're online. Let's see... Paolo Masotti. Son of no teacher in particular. Can I have it back?",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-16.mp3"
+        },
+        {
+          "italian": "Aspetta, ridammelo, per favore. È il mio cellulare. Ridammi il telefono, per favore, ti prego. Poi mia madre non vuole nemmeno che lo porti a scuola.",
+          "start": 1162.06,
+          "end": 1170.2,
+          "id": "card-17",
+          "english": "Wait, give it back, please. It's my phone. Give me back my phone, please, I'm begging you. Besides, my mother doesn't even want me bringing it to school.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-17.mp3"
+        },
+        {
+          "italian": "E infatti tu le dici che l'hai perso, va bene? Manue! Oh, vieni qua! Ahia! E domani mi porti anche il caricabatterie. Ti muovi, vieni qua!",
+          "start": 1170.72,
+          "end": 1180.24,
+          "id": "card-18",
+          "english": "And in fact you tell her you lost it, got it? Manu! Hey, come here! Ouch! And tomorrow bring me the charger too. Move it, come here!",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-18.mp3"
+        },
+        {
+          "italian": "So, tu fai tutto Corso Francia senza saltare una macchina, hai capito? Papà, se mi vedono i vigili? Ma tu non ti fai beccare, no?",
+          "start": 1184.8,
+          "end": 1193.08,
+          "id": "card-19",
+          "english": "So, you go all the way down Corso Francia without cutting off a single car, understood? Dad, what if the traffic cops see me? Just don't get caught, alright?",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-19.mp3"
+        },
+        {
+          "italian": "Minchia, pure il figlio Opicio ci voleva. Spostati! Vediamo domani. Sì! Oh, allora? Allora lasciala perdere che è una stronza. Perché? Ciao, Aida! Oggi a lezione si parlava delle crociate.",
+          "start": 1193.3,
+          "end": 1212.34,
+          "id": "card-20",
+          "english": "Damn, of course, the Opicio kid too, just what we needed. Move it! We'll see tomorrow. Yeah! So? So forget about her, she's a bitch. Why? Bye, Aida! Today in class we were talking about the Crusades.",
+          "audio": "audio/fuoriclasse/ep1/block-4/card-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-5",
+      "label": "20:00–25:00",
+      "cards": [
+        {
+          "italian": "Cioè, non sai cosa ha detto quella. Ma contro i crociati? A favore dei crociati. Quella è una nazista. Quella ce l'ha con gli immigrati, con i neri.",
+          "start": 1212.6,
+          "end": 1221.62,
+          "id": "card-1",
+          "english": "I mean, you don't know what she said. Against the Crusaders? In favor of the Crusaders. She's a Nazi. She's got it in for immigrants, for Black people.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-1.mp3"
+        },
+        {
+          "italian": "Ce l'ha con gli arabi, pure con gli omosessuali. Anzi vado che ce l'ho andata a mettere al sicuro. Ci vediamo dopo. Ciao! Ciao! Ciao papà!",
+          "start": 1222.46,
+          "end": 1232.94,
+          "id": "card-2",
+          "english": "She's got it in for Arabs too, and gay people. Actually I'm off, I need to go put it somewhere safe. See you later. Bye! Bye! Bye, Dad!",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-2.mp3"
+        },
+        {
+          "italian": "Ciao! Ciao babbo! Ciao! Allora, com'è andato il primo giorno di scuola? Normale. Bene, bene. Papà, ma che stai facendo? Un po' di ciclette. Guarda!",
+          "start": 1233.24,
+          "end": 1248.36,
+          "id": "card-3",
+          "english": "Hi! Bye, Dad! Bye! So, how did the first day of school go? Fine. Good, good. Dad, what are you doing? A little exercise bike. Look!",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-3.mp3"
+        },
+        {
+          "italian": "L'ha regalata Martina. E tu? Ti sei iscritto in piscina? Non ancora. Oh, guarda che fare sport alla tua età è importante, eh? Mi senti un po'?",
+          "start": 1249.9,
+          "end": 1260.1,
+          "id": "card-4",
+          "english": "Martina gave it to me. And you? Did you sign up for the pool? Not yet. Oh, you know, exercising at your age is important, right? Are you listening to me?",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-4.mp3"
+        },
+        {
+          "italian": "Per quanto riguarda... Oddio papà! No, no, nessuna, nessuna. Ma nessuna, nessuna, nessuna? Senti, se c'è qualcosa te lo dico io, eh? Ma non qualcosa.",
+          "start": 1260.1,
+          "end": 1269.8,
+          "id": "card-5",
+          "english": "As for... Oh my God, Dad! No, no, no one, no one. What, really no one at all? Listen, if there's something I'll tell you myself, okay? But there's nothing.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-5.mp3"
+        },
+        {
+          "italian": "Qualcuna. Ciao! Ciao, ciao, ciao. A presto, ciao. Chi era? Martina. Venti minuti di telefonata a parlare del preside. È proprio partita. Dice che è come suo marito.",
+          "start": 1270.16,
+          "end": 1282.12,
+          "id": "card-6",
+          "english": "Someone. Bye! Bye, bye, bye. See you soon, bye. Who was that? Martina. Twenty minutes on the phone talking about the principal. She's really gone for him. She says he's like her husband.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-6.mp3"
+        },
+        {
+          "italian": "Cioè è morto? No. Affascinante, colto e amante dell'opera. Allora sai che stamattina dal laboratorio di fisica si sentiva tutto ad altissimo volume? Sembrava di essere al reggio.",
+          "start": 1282.58,
+          "end": 1291.62,
+          "id": "card-7",
+          "english": "You mean he's dead? No. Charming, cultured, and an opera lover. Anyway, you know this morning you could hear everything blasting from the physics lab? It felt like being at the Regio.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-7.mp3"
+        },
+        {
+          "italian": "Sai che cosa mi ha detto da scolfo? No. Che somiglio alla fanciulla del West dei Puccini. Energica e tenace. Una perfetta vicepreside. Io l'unica cosa che voglio è svuotarmi la vita.",
+          "start": 1292.84,
+          "end": 1304.28,
+          "id": "card-8",
+          "english": "You know what he told me? No. That I resemble Puccini's Girl of the Golden West. Energetic and tenacious. The perfect vice principal. All I want is to empty out my life.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-8.mp3"
+        },
+        {
+          "italian": "Ah, io lo so perché. Per passare più tempo con me. No, per viaggiare. Perfetto, io sto divorziando proprio per fare il giro del mondo insieme a te.",
+          "start": 1304.92,
+          "end": 1313.3,
+          "id": "card-9",
+          "english": "Ah, I know why. To spend more time with me. No, to travel. Perfect, I'm getting divorced specifically so I can travel around the world with you.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-9.mp3"
+        },
+        {
+          "italian": "Mi saluta papà. Il prossimo weekend è qui. Bene, gli hai detto che ho comprato un biglietto anche per lui? Certo. Figurati se quello si perde il derby.",
+          "start": 1313.86,
+          "end": 1322.08,
+          "id": "card-10",
+          "english": "Say hi to Dad for me. He's here next weekend. Good, did you tell him I bought a ticket for him too? Of course. As if he'd ever miss the derby.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-10.mp3"
+        },
+        {
+          "italian": "Certo, no, ma organizzatevi pure. Io mi organizzo per conto mio. Mamma, non è mica colpa nostra se non ti piace il calcio. Tu puoi sempre andare all'opera con Dastolfo.",
+          "start": 1322.58,
+          "end": 1330.08,
+          "id": "card-11",
+          "english": "Sure, no, go ahead and make your plans. I'll make mine on my own. Mom, it's not our fault you don't like soccer. You can always go to the opera with Dastolfo.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-11.mp3"
+        },
+        {
+          "italian": "Quindi non è una cliente abituale. No, te l'ho detto. Non so neanche di chi stai parlando. Ma la signora se la ricorderà, quella dei venticentesimi?",
+          "start": 1331.2,
+          "end": 1339.12,
+          "id": "card-12",
+          "english": "So she's not a regular customer. No, I told you. I don't even know who you're talking about. But you must remember the lady, the one with the twenty cents?",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-12.mp3"
+        },
+        {
+          "italian": "Chi? Una ragazza bionda. Sì, con gli occhi marroni, il giubbotto rosso e l'accento dell'est. No, non l'ho vista. Se dovesse ritornare. Non la riconoscerei.",
+          "start": 1340.84,
+          "end": 1350.8,
+          "id": "card-13",
+          "english": "Who? A blonde girl. Yes, with brown eyes, a red jacket, and an Eastern European accent. No, I haven't seen her. If she comes back. I wouldn't recognize her.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-13.mp3"
+        },
+        {
+          "italian": "Posso lasciarle un biglietto? Ma a chi? A lei. Così magari se torna… Senti, questo non è il muro del pianto. È tardi e dobbiamo chiudere.",
+          "start": 1352.28,
+          "end": 1361.78,
+          "id": "card-14",
+          "english": "Can I leave her a note? For who? For her. So maybe if she comes back... Look, this isn't the Wailing Wall. It's late and we have to close up.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-14.mp3"
+        },
+        {
+          "italian": "Giacomo, per favore, spegni le insegne. Bene, dopo mi racconti tutto. Ciao mamma. Ciao, dopo. Ma cosa fai? Ti porti a scuola anche il caricabatteria adesso?",
+          "start": 1362.5,
+          "end": 1376.44,
+          "id": "card-15",
+          "english": "Giacomo, please turn off the signs. Good, you can tell me all about it later. Bye Mom. Bye, later. What are you doing? Are you bringing the charger to school now too?",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-15.mp3"
+        },
+        {
+          "italian": "Ma sembri un maniaco tutto il giorno con questo cellulare in mano. Ma adesso basta. Tuo padre fa i danni e io faccio i rimedi.",
+          "start": 1377.22,
+          "end": 1383.48,
+          "id": "card-16",
+          "english": "You look like an obsessive all day long with that phone in your hand. That's enough now. Your father does the damage and I have to fix it.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-16.mp3"
+        },
+        {
+          "italian": "Dammi qua e il cellulare. Mamma, ti prego, solo oggi, per favore. No, solo per oggi non esiste. Adesso si fa quello che dico io e senza discutere.",
+          "start": 1383.9,
+          "end": 1391.62,
+          "id": "card-17",
+          "english": "Give me the phone right now. Mom, please, just for today, please. No, \"just for today\" doesn't exist. From now on we do what I say, no arguing.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-17.mp3"
+        },
+        {
+          "italian": "Ma non ce l'ho, l'ho perso. Ma senti che storia. L'ho prestato a un amico. L'hai perso, poi l'hai prestato. Ma io lo so chi c'è dietro a tutte queste balle.",
+          "start": 1391.98,
+          "end": 1401.62,
+          "id": "card-18",
+          "english": "But I don't have it, I lost it. Oh, listen to this story. I lent it to a friend. First you lost it, now you lent it. I know exactly who's behind all these lies.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-18.mp3"
+        },
+        {
+          "italian": "Noi facciamo i conti a casa. Ecco, senti, sì, volevo dirti che la devi smettere di rovinare la vita a tua figlia, hai capito? Gli impegni che ci aspettano sono tanti.",
+          "start": 1402.0,
+          "end": 1413.44,
+          "id": "card-19",
+          "english": "We'll settle this at home. Right, listen, yes, I wanted to tell you that you need to stop ruining your daughter's life, understood? We have a lot ahead of us.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-19.mp3"
+        },
+        {
+          "italian": "Già, con il nuovo preside. E allora, ti candidi? Ma va, con tutte le cose che ho da fare, ci manca solo un momento a pensare alla vicepresidenza, ma no.",
+          "start": 1413.44,
+          "end": 1420.8,
+          "id": "card-20",
+          "english": "Right, with the new principal. So, are you putting yourself forward? Oh please, with everything I have to do, the last thing I need is to think about being vice principal, no way.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-20.mp3"
+        },
+        {
+          "italian": "E tu la scherzi, sono solo rogna. Oh, anch'io, assolutamente no. Parigi. Lo sai che ho dovuto lottare, lottare per portargli al centro Pompidou. Lo sai, mio marito e io a Parigi abbiamo un sacco di amici scrittori, giornalisti.",
+          "start": 1421.1,
+          "end": 1438.68,
+          "id": "card-21",
+          "english": "And you joke about it, it's nothing but trouble. Oh, me neither, absolutely not. Paris. You know I had to fight, really fight, to get him to the Pompidou Center. You know, my husband and I have tons of writer and journalist friends in Paris.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-21.mp3"
+        },
+        {
+          "italian": "Io, in qualità di vicepreside, potrei organizzare tutta una serie di incontri qui a scuola. Molto interessante, professoressa. Bene. Preside, ho appena parlato con il vescovo, che è un mio grande amico.",
+          "start": 1438.68,
+          "end": 1453.58,
+          "id": "card-22",
+          "english": "As vice principal, I could organize a whole series of talks here at school. Very interesting, professor. Good. Principal, I just spoke with the bishop, who's a great friend of mine.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-22.mp3"
+        },
+        {
+          "italian": "Ha detto che verrà lui qui in persona a dare la sua benedizione. Perfetto. Signor preside, un giorno. Pensavo di iscrivere i ragazzi al torneo di interistituto.",
+          "start": 1454.0,
+          "end": 1463.68,
+          "id": "card-23",
+          "english": "He said he'll come here in person to give his blessing. Perfect. Mr. Principal, one day. I was thinking of signing the students up for the inter-school tournament.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-23.mp3"
+        },
+        {
+          "italian": "Ottima idea. Allora posso aspettarvi dal suo ufficio a portargli tutti i moduli per l'iscrizione? L'aspetto. Grazie. A me questi documenti li devo portare con le spedie dal preside.",
+          "start": 1464.74,
+          "end": 1476.22,
+          "id": "card-24",
+          "english": "Great idea. So can I expect you at your office to bring all the enrollment forms? I'll be waiting. Thank you. I need to rush these documents to the principal myself.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-24.mp3"
+        },
+        {
+          "italian": "Ma perché, che ci fai se li porto io? Dobbiamo fare il gioco di squadra, Iris. Ma è un gioco di squadra, è un torneo di pallavolo.",
+          "start": 1476.7,
+          "end": 1484.28,
+          "id": "card-25",
+          "english": "Why, what does it matter if I bring them? We need to play as a team, Iris. But it is teamwork, it's a volleyball tournament.",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-25.mp3"
+        },
+        {
+          "italian": "Tramette. Salvatore, i giochi sono cambiati, ognuno gioca per sé. Preside, ma che bella giacca che ha. Ma perché non obblighiamo tutti i ragazzi di questa scuola a portare la giacca?",
+          "start": 1484.8,
+          "end": 1496.22,
+          "id": "card-26",
+          "english": "Trust me. Salvatore, the game has changed, now it's every man for himself. Principal, what a lovely jacket you have. Why don't we make all the students at this school wear a jacket?",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-26.mp3"
+        },
+        {
+          "italian": "Come lo smoking a canna. Bella idea. Dai, dai. Ho letto tutto Guerra e Pace questo fine settimana, lo sai? Ma tutto tutto o solo uno dei due volumi?",
+          "start": 1496.62,
+          "end": 1508.86,
+          "id": "card-27",
+          "english": "Like a slim-cut tuxedo. Great idea. Come on, come on. I read all of War and Peace this weekend, you know that? All of it, or just one of the two volumes?",
+          "audio": "audio/fuoriclasse/ep1/block-5/card-27.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-6",
+      "label": "25:00–30:00",
+      "cards": [
+        {
+          "italian": "No, no, entrambi i volumi. Dopo la lezione di Lo Bascio non ho potuto farne a meno. Come ti capisco, un vero padre spirituale quello Bascio.",
+          "start": 1508.9,
+          "end": 1517.9,
+          "id": "card-1",
+          "english": "No, no, both volumes. After Lo Bascio's lesson, I couldn't help myself. I know exactly how you feel, that Lo Bascio is a true spiritual father.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-1.mp3"
+        },
+        {
+          "italian": "Certo. Come è andata, prof, otto? No, no, no, sei immenso, sei immenso. A te senti che ha detto padre spirituale? Marco? Cuneo no. Dove sono gli altri?",
+          "start": 1518.82,
+          "end": 1533.28,
+          "id": "card-2",
+          "english": "Of course. How did it go, prof, an eight? No, no, no, you're immense, you're immense. Did you hear that, he said \"spiritual father\"? Marco? Cuneo, no. Where's everyone else?",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-2.mp3"
+        },
+        {
+          "italian": "A casa. Il prof di religione ha detto di fare piano per non svegliarti. Sei stravolto, la notte devi dormire. Ma Cuneo? Cosa c'entra? Mio zio si è trasferito lì per stare con i suoi figli.",
+          "start": 1533.7,
+          "end": 1546.02,
+          "id": "card-3",
+          "english": "At home. The religion teacher said to keep it down so as not to wake you. You're wiped out, you need to sleep at night. But Cuneo? What's that got to do with it? My uncle moved there to be with his kids.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-3.mp3"
+        },
+        {
+          "italian": "Voleva che anch'io ci andassi, ma io da qui non mi muovo. E con i soldi come fai? Di notte consegno le pizze e di giorno dormo.",
+          "start": 1546.54,
+          "end": 1553.94,
+          "id": "card-4",
+          "english": "He wanted me to move there too, but I'm not going anywhere. And how do you manage for money? At night I deliver pizzas and during the day I sleep.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-4.mp3"
+        },
+        {
+          "italian": "Ecco fatto. Le ho ridato i soldi e mi sono ripreso il libro. Ivaldi è tanto bravo, ma su certe cose. Ma ti pare che in Quinta ci serve il libro di Terza?",
+          "start": 1554.18,
+          "end": 1561.78,
+          "id": "card-5",
+          "english": "There, done. I gave her back the money and took back the book. Ivaldi is very good, but on certain things... Does it make sense that in fifth year we still need the third-year textbook?",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-5.mp3"
+        },
+        {
+          "italian": "Il libro di Terza? Ma io l'ho venduto l'anno scorso. Serve una mano? Sono sbagliato, scusami, non è colpa mia. M'hanno costretto. Chi ti ha costretto?",
+          "start": 1562.18,
+          "end": 1585.32,
+          "id": "card-6",
+          "english": "The third-year textbook? I sold mine last year. Need a hand? I messed up, sorry, it's not my fault. They forced me to. Who forced you?",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-6.mp3"
+        },
+        {
+          "italian": "Non te lo posso dire. Non posso? Se volevi dire non posso dovevi pensarci prima. Lasciami per favore. Tanto lo trovo comunque. Però non puoi fare così.",
+          "start": 1585.94,
+          "end": 1596.76,
+          "id": "card-7",
+          "english": "I can't tell you. You can't? If you wanted to say \"I can't\" you should've thought of that earlier. Please, let me go. I'll find out anyway. But you can't act like this.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-7.mp3"
+        },
+        {
+          "italian": "Guarda che non ti puoi tenere tutto dentro. A qualcuno questa storia la devi raccontare. Vabbè. Dai, datti un'aria pulita. Continua a piangere e raccontami tutto.",
+          "start": 1597.42,
+          "end": 1613.02,
+          "id": "card-8",
+          "english": "Look, you can't keep it all bottled up inside. You need to tell someone this story. Fine. Come on, wipe your face. Keep crying and tell me everything.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-8.mp3"
+        },
+        {
+          "italian": "Dai. Scordatelo, io non ce la faccio. Ma fanno bene le scale? Sì, fanno bene se non ti viene un colpo la terza rampa, altrimenti fanno malissimo.",
+          "start": 1615.68,
+          "end": 1624.12,
+          "id": "card-9",
+          "english": "Come on. Forget it, I can't do it. But are stairs good for you? Yeah, they're good, as long as you don't have a heart attack on the third flight — otherwise they're terrible.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-9.mp3"
+        },
+        {
+          "italian": "Ah, va bene. È un periodo che mi sento spussata. Più che dinamica mi sento anemica. Forse è colpa mia che ti faccio fare troppe cose.",
+          "start": 1625.9,
+          "end": 1635.54,
+          "id": "card-10",
+          "english": "Ah, okay. It's a phase, I've been feeling worn out. Rather than dynamic I feel anemic. Maybe it's my fault for making you do too much.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-10.mp3"
+        },
+        {
+          "italian": "Stefania è dinamica, scommetto. Attento a come parli, se non vuoi rischiare di cenare sul pionerottolo. Allora, diciamo che è dinamica, ma non ha il tuo adorabile carattere.",
+          "start": 1637.68,
+          "end": 1648.18,
+          "id": "card-11",
+          "english": "Stefania is dynamic, I bet. Watch how you talk, unless you want to risk having dinner out on the balcony ledge. Alright, let's say she's dynamic, but she doesn't have your adorable character.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-11.mp3"
+        },
+        {
+          "italian": "Mi scusi. Saprebbe indicarmi dov'è la presidenza? Sono la nuova insegnante d'inglese. Ho provato a chiedere a Bidello. Perché scusi, lei non... Io sono docente.",
+          "start": 1671.4,
+          "end": 1683.44,
+          "id": "card-12",
+          "english": "Excuse me. Could you tell me where the principal's office is? I'm the new English teacher. I tried asking the janitor. Why, excuse me, aren't you... I'm a teacher.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-12.mp3"
+        },
+        {
+          "italian": "Mi scusi. I Bidelli sono tenuti ad avere una targhetta identificativa, come da regolamento, e sono stati determinati da me. Ah, anche io con i regolamenti sono...",
+          "start": 1684.64,
+          "end": 1694.34,
+          "id": "card-13",
+          "english": "Excuse me. Janitors are required to wear an ID badge, as per the regulations, and that's been decided by me. Oh, I'm also quite particular about regulations...",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-13.mp3"
+        },
+        {
+          "italian": "Capisco. Non è l'unica in questo paese ad avere problemi con le regole. No, io le regole le rispetto, solo che un conto sono le regole e un conto i regolamenti.",
+          "start": 1694.2,
+          "end": 1701.86,
+          "id": "card-14",
+          "english": "I understand. You're not the only one in this country who has trouble with rules. No, I do follow the rules, it's just that rules are one thing and regulations are another.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-14.mp3"
+        },
+        {
+          "italian": "Buongiorno, sono la professoressa Passamaglia. Buongiorno. Siete i genitori di Fiano Luca della terza B? No. Giulie Jordan? No, no. Sanso è Cecilia? No, non siamo proprio genitori e basta.",
+          "start": 1703.58,
+          "end": 1716.54,
+          "id": "card-15",
+          "english": "Good morning, I'm Professor Passamaglia. Good morning. Are you the parents of Fiano Luca from 3B? No. Giulie Jordan? No, no. Sanso, Cecilia? No, we're actually not parents at all.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-15.mp3"
+        },
+        {
+          "italian": "Io sono il nuovo supplento incaricato di storia e filosofia. Si vede. Io sono solo la supplente d'inglese. Allora benvenuti a bordo. Adesso non ho snack salati o dolci da offrirvi, però posso accompagnarvi in sala professori.",
+          "start": 1716.94,
+          "end": 1727.86,
+          "id": "card-16",
+          "english": "I'm the new substitute teacher for history and philosophy. Figures. I'm just the substitute English teacher. Well then, welcome aboard. I don't have any savory or sweet snacks to offer you right now, but I can walk you to the teachers' lounge.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-16.mp3"
+        },
+        {
+          "italian": "Grazie. Prego. Espedito! Eh? Faccio vedere i cassetti ai nuovi professori. Sì. Ciao. Ah, nuovi professori. Questa è la lista dei panini. Per i pregari c'è il 20% di sconto.",
+          "start": 1727.94,
+          "end": 1740.82,
+          "id": "card-17",
+          "english": "Thanks. You're welcome. Espedito! Yeah? I'm showing the new teachers their lockers. Sure. Hi. Ah, new teachers. This is the sandwich menu. For teachers there's a 20% discount.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-17.mp3"
+        },
+        {
+          "italian": "Khaled, parcheggiati qua. Ehi! Andiamo, faccio vedere i cassetti. Isa, che cos'è? Sembra che sei caduta nella varechina. Tu non sei il padre più immediato!",
+          "start": 1741.06,
+          "end": 1750.12,
+          "id": "card-18",
+          "english": "Khaled, park it here. Hey! Come on, I'll show you the lockers. Isa, what's this? Looks like you fell into a vat of bleach. You're not exactly the most switched-on father!",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-18.mp3"
+        },
+        {
+          "italian": "Ma cos'è sto casino? Eh, il casino è che ci sono dentro due sociopatici che hanno un figlio in prima A. C'è un bullo che l'ha preso di mira.",
+          "start": 1750.66,
+          "end": 1757.56,
+          "id": "card-19",
+          "english": "What's all this chaos? Well, the chaos is there are two sociopaths in here who have a kid in class 1A. There's a bully who's targeting him.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-19.mp3"
+        },
+        {
+          "italian": "Gli ha rubato il telefono e il carica batterie. Lo vuol far diventare il suo schiavetto una carogna. E lui non dice il nome. E adesso il presidente come fa?",
+          "start": 1757.7,
+          "end": 1765.48,
+          "id": "card-20",
+          "english": "He stole his phone and charger. He wants to turn him into his little slave, the scumbag. And he won't give up the name. So now what does the principal do?",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-20.mp3"
+        },
+        {
+          "italian": "Cerca di capire, ma se lui non parla... Ma tu cosa fai qui? La verità è che io e Gianrico prendiamo il cattà insieme tutte le mattine.",
+          "start": 1765.8,
+          "end": 1773.22,
+          "id": "card-21",
+          "english": "Try to understand, but if he won't talk... What are you even doing here? The truth is Gianrico and I get coffee together every morning.",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-21.mp3"
+        },
+        {
+          "italian": "È il genere che avrei sempre desiderato. Se non hai figli. Appunto, almeno un genero. Perché non è possibile! Usi solo i soldi, ma usa la parola una volta!",
+          "start": 1773.9,
+          "end": 1786.34,
+          "id": "card-22",
+          "english": "He's the son-in-law I always wanted. If you don't have kids. Exactly, at least a son-in-law. Why is that not possible! You only ever use money, try using words for once!",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-22.mp3"
+        },
+        {
+          "italian": "La prego, Isa, ma... E allora? Adesso che fai, eh? Provaci con me ora. Fammi capire. Te la volevi pregare la marmitta, vero? Dai! Quell'idiota che ha sbagliato!",
+          "start": 1786.56,
+          "end": 1796.9,
+          "id": "card-23",
+          "english": "Please, Isa, but... So what? What are you going to do now, huh? Try it with me now. Help me understand. You wanted to beg for the muffler, didn't you? Come on! That idiot who messed up!",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-23.mp3"
+        },
+        {
+          "italian": "Non era il tuo motorino! Il mio è quello di un altro, non ha importanza. A te! Lascialo andare, dai! Ma questo qui è un vigliacco senza palle, se lo prende con i più deboli!",
+          "start": 1797.46,
+          "end": 1805.0,
+          "id": "card-24",
+          "english": "That wasn't your scooter! Mine belongs to someone else, it doesn't matter. You! Let him go, come on! This guy's a spineless coward, picking on people weaker than him!",
+          "audio": "audio/fuoriclasse/ep1/block-6/card-24.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-7",
+      "label": "30:00–35:00",
+      "cards": [
+        {
+          "italian": "Ma tu che sei il doppio di lui, lascialo! Vabbè, ma con sto ragionamento Hulk sarebbe disoccupato! Tu non sei Hulk, mollalo! Questo è uno stronzo garantito, eh!",
+          "start": 1805.2,
+          "end": 1815.6,
+          "id": "card-1",
+          "english": "You're twice his size, let him go! Well, by that logic, Hulk would be unemployed! You're not Hulk, let him go! This guy's a certified asshole, I swear!",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-1.mp3"
+        },
+        {
+          "italian": "Avanti, in classe tutti! Tu, come stai? Bene? Respira! Noi ci vediamo a ricevimento, eh! Alla terza ora! Forza ragazzi, è posto! Mi scusi se glielo dico, prof, ma stavolta Soratti ha tutte le ragioni!",
+          "start": 1817.44,
+          "end": 1842.52,
+          "id": "card-2",
+          "english": "Come on, everyone into class! You, how are you? Okay? Breathe! We'll see each other at office hours, right! Third period! Come on kids, take your seats! Sorry to say this, prof, but this time Soratti's completely right!",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-2.mp3"
+        },
+        {
+          "italian": "Eh sì, ai prepotenti bisogna dare una lezione! C'è qualcuno che vuole ancora aggiungere qualcosa? Bene, seduti! Avanti, cosa significa? Diritto! Bene, ius, e ci aggiungo tus, uguale?",
+          "start": 1842.76,
+          "end": 1864.7,
+          "id": "card-3",
+          "english": "Yeah, bullies need to be taught a lesson! Does anyone else want to add anything? Alright, sit down! Come on, what does it mean? Law! Good, \"ius\" — and I add \"tus\" — equals?",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-3.mp3"
+        },
+        {
+          "italian": "Giusto! Iustus uguale giusto, da cui giustizia. Cos'è secondo voi la giustizia? Un ideale? Un ideale è un valore a cui tutti dovremmo aspirare. Solo che l'uomo non è un essere, è un essere ideale, per cui ha stabilito una serie di norme che regolano le relazioni tra gli individui.",
+          "start": 1865.32,
+          "end": 1887.26,
+          "id": "card-4",
+          "english": "Right! \"Iustus\" equals \"just,\" from which we get justice. What is justice, in your view? An ideal? An ideal is a value we should all aspire to. Except man is not an ideal being, so he's established a set of rules that govern relationships between individuals.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-4.mp3"
+        },
+        {
+          "italian": "Marco, cosa stavi facendo prima? Non so dove vuole arrivare, prof! Allora, se sai dove voglio arrivare, spiegalo anche ai tuoi compagni! Che non stiamo nella giungla e che uno non si può fare giustizia da solo, giusto?",
+          "start": 1887.94,
+          "end": 1897.94,
+          "id": "card-5",
+          "english": "Marco, what were you doing earlier? I don't know what you're getting at, prof! Well, if you do know what I'm getting at, explain it to your classmates too! That we're not in the jungle and that no one can take justice into their own hands, right?",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-5.mp3"
+        },
+        {
+          "italian": "Bravo! E sai che cosa è un giustiziere? Uno che si fa giustizia! Anche il Boia faceva giustizia, eh! Beh, che c'entra! C'entra, c'entra! Riflettici!",
+          "start": 1898.22,
+          "end": 1909.92,
+          "id": "card-6",
+          "english": "Well done! And do you know what a vigilante is? Someone who takes justice into his own hands! The executioner did justice too, you know! Well, what's that got to do with it! It's got everything to do with it! Think about it!",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-6.mp3"
+        },
+        {
+          "italian": "Riflettiamoci tutti! Adesso prendete Lucrezia. E il piccolo Lobascio come va? Mi ha aperto la parentesi graffa, la quadra e la tonda. Gli ho dovuto mettere due.",
+          "start": 1911.34,
+          "end": 1924.8,
+          "id": "card-7",
+          "english": "Let's all think about it! Now take Lucrezia. And how's little Lo Bascio doing? He opened the curly bracket, the square bracket, and the round bracket for me. I had to give him a two.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-7.mp3"
+        },
+        {
+          "italian": "E' imbarazzante con il figlio di un collega. Ma è imbarazzante avere un figlio scemo, questo! Di che state parlando? Mo' niente, del più e del meno!",
+          "start": 1925.34,
+          "end": 1932.48,
+          "id": "card-8",
+          "english": "It's awkward with a colleague's son. What's awkward is having a stupid son, that's what! What are you talking about? Oh, nothing, this and that!",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-8.mp3"
+        },
+        {
+          "italian": "Comunque tuo figlio mi piace perché non si scoraggia, eh! Con me oggi ha fatto dei progressi. Gli ho messo quattro! Ettore, ha bisogno di tempo, si sta ambientando.",
+          "start": 1933.84,
+          "end": 1941.68,
+          "id": "card-9",
+          "english": "Anyway, I like your son because he doesn't get discouraged! He made progress with me today. I gave him a four! Ettore just needs time, he's still settling in.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-9.mp3"
+        },
+        {
+          "italian": "No, di tempo ne ha. In questa scuola si può bocciare tre volte di seguito. La mia broccoletta! Vuoi vedere che a Natale c'è la media del lotto in tutte le materie?",
+          "start": 1941.9,
+          "end": 1948.48,
+          "id": "card-10",
+          "english": "No, he's got plenty of time. At this school you can be held back three years in a row. My little broccoli! Watch, by Christmas his average in every subject will be about as good as winning the lottery.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-10.mp3"
+        },
+        {
+          "italian": "Cinquecento euri? Andata? Allora? Vale olico? No, fammi capire. Che nella preistoria esisteva la corrente olica? Sì, cioè, no. Lo basso due cose abbiamo fatto, almeno quelle.",
+          "start": 1948.98,
+          "end": 1976.0,
+          "id": "card-11",
+          "english": "Five hundred euros? Deal? So? Is that valid? No, wait, help me understand. That in prehistory there was an \"olic\" current? Yes, well, no. Lo Basso, we've covered two things, at least those.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-11.mp3"
+        },
+        {
+          "italian": "Almeno ho azzeccato a chi fare la domanda sull'età della pietra. Allo studente più di coccio di tutta la scuola. Vabbè, vabbè, vabbè. Sediti. Allora.",
+          "start": 1980.26,
+          "end": 1996.52,
+          "id": "card-12",
+          "english": "At least I got it right, asking the Stone Age question to the densest student in the whole school. Alright, alright, alright. Sit down. So.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-12.mp3"
+        },
+        {
+          "italian": "Cinquini, Elena. Alzati. Non vuoi dire tu in quante parti si divide l'età della pietra? Niente. Un'altra statua di pietra. Elena, Ettore. Ma con questi due nomi così carichi di storia dovreste evitare di fare certe figuracce, no ragazzi?",
+          "start": 1997.6,
+          "end": 2021.58,
+          "id": "card-13",
+          "english": "Cinquini, Elena. Stand up. Won't you tell us how many parts the Stone Age is divided into? Nothing. Another stone statue. Elena, Ettore. But with names so steeped in history, you two really should avoid embarrassing yourselves like this, don't you think?",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-13.mp3"
+        },
+        {
+          "italian": "Vabbè, sediti, sediti. Portatemi il diario tutte e due. Avanti. Allora, l'abbiamo sentita sta campanella? Aspetta, aspetta, aspetta che in movimento vi fate male. Ciao, tesoro.",
+          "start": 2024.28,
+          "end": 2041.04,
+          "id": "card-14",
+          "english": "Alright, sit down, sit down. Bring me both your notebooks. Come on. So, did we all hear that bell? Wait, wait, wait, you'll hurt yourselves rushing like that. Hi, sweetheart.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-14.mp3"
+        },
+        {
+          "italian": "Ciao. No, grazie. Non mi sento tanto bene. Ma cos'hai? Ma che ne so, sarà l'età. Se continuo così fra un po' mi verranno le vampate.",
+          "start": 2041.4,
+          "end": 2051.82,
+          "id": "card-15",
+          "english": "Hi. No, thanks. I'm not feeling too well. What's wrong? I don't know, must be my age. If I keep this up I'll be getting hot flashes soon.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-15.mp3"
+        },
+        {
+          "italian": "Ottimo, così almeno che si sbrinano i piedi che la notte a letto ce li hai sempre gelati. Senti, ho visto i due nuovi arrivati.",
+          "start": 2052.3,
+          "end": 2058.2,
+          "id": "card-16",
+          "english": "Great, at least that'll thaw out your feet, since they're always freezing in bed at night. Listen, I saw the two new arrivals.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-16.mp3"
+        },
+        {
+          "italian": "No. Se li vedono così spaesati, fiduciosi, non gli fanno sempre un po' di come eravamo? Sempre meglio di come saremmo che un po' l'effetto che facciamo noi a loro.",
+          "start": 2058.5,
+          "end": 2067.7,
+          "id": "card-17",
+          "english": "No. Seeing them so lost, so trusting, doesn't it always remind you a bit of how we used to be? Always better to think of how we were than of what impression we make on them.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-17.mp3"
+        },
+        {
+          "italian": "Comunque lei non mi sembra per niente spaesata. Ah, no? Piuttosto lui. Vabbè, del resto noi uomini siamo sempre più spaesati, no? Questo me la sento.",
+          "start": 2068.84,
+          "end": 2078.12,
+          "id": "card-18",
+          "english": "Anyway, she doesn't seem lost at all to me. Oh, no? More like him, maybe. Well, after all, us men are always more lost, aren't we? This one I can feel.",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-18.mp3"
+        },
+        {
+          "italian": "Vado perché ho una questione da risolvere. Calè, davanti, dove stai? Con ste lattine, forza! Se no qua bevono soltanto acqua del robinetto. E vabbè, addio aranciata, ma chi lo smuove quello?",
+          "start": 2078.82,
+          "end": 2090.2,
+          "id": "card-19",
+          "english": "I'm going because I have an issue to sort out. Khaled, up front, where are you? Come on with those cans! Otherwise everyone here just drinks tap water. Well, so much for the orange soda — who's going to get him moving?",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-19.mp3"
+        },
+        {
+          "italian": "Nessuno. La lentezza ce l'hanno nel sangue. Nel momento in cui noi facciamo dieci cose, loro ne fanno una e male. Scusa, che c'è di male?",
+          "start": 2090.68,
+          "end": 2100.9,
+          "id": "card-20",
+          "english": "No one. Slowness is in their blood. In the time it takes us to do ten things, they do one, and badly. Excuse me, what's wrong with that?",
+          "audio": "audio/fuoriclasse/ep1/block-7/card-20.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-8",
+      "label": "35:00–40:00",
+      "cards": [
+        {
+          "italian": "La lentezza è anche un valore, no? E che valore è? Ti dà la possibilità di apprezzare di più quello che ti circonda, per esempio.",
+          "start": 2101.9,
+          "end": 2108.72,
+          "id": "card-1",
+          "english": "Slowness is a virtue too, isn't it? And what virtue is that? It gives you the chance to appreciate what's around you more, for example.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-1.mp3"
+        },
+        {
+          "italian": "Io da quando vengo in bicicletta a scuola mi accorgo di un sacco di cose a cui non facevo caso prima, tipo, non so, gli alberi, le persone, i bambini, i profumi.",
+          "start": 2109.3,
+          "end": 2117.48,
+          "id": "card-2",
+          "english": "Ever since I started riding my bike to school, I've noticed a lot of things I didn't pay attention to before, like, I don't know, the trees, the people, the kids, the smells.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-2.mp3"
+        },
+        {
+          "italian": "Avete sentito? Abbiamo un poeta a scuola. Ora sua madre ci fa lezioni anche su di lui. Ma in realtà il punto non è questo.",
+          "start": 2118.04,
+          "end": 2125.38,
+          "id": "card-3",
+          "english": "Did you hear that? We have a poet at school. Now his mother's even lecturing us about him. But actually that's not the point.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-3.mp3"
+        },
+        {
+          "italian": "E qual è? È che non ha senso prendersela con gli stranieri. Voglio dire, Khaled è anche nato in Italia, è italiano. E guarda, lo dice in italiano.",
+          "start": 2125.54,
+          "end": 2138.02,
+          "id": "card-4",
+          "english": "Then what is? It's that it makes no sense to go after foreigners. I mean, Khaled was even born in Italy, he's Italian. And look, he's saying it in Italian.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-4.mp3"
+        },
+        {
+          "italian": "Ok, ho scelto un momento sbagliato, ma ti assicuro che quando Khaled parla italiano sembra mio nonno. Dice anche «né» alla fine delle frasi. Ora sta parlando con uno dei suoi e...",
+          "start": 2138.28,
+          "end": 2146.96,
+          "id": "card-5",
+          "english": "Okay, I picked a bad moment, but I promise you when Khaled speaks Italian he sounds just like my grandfather. He even says \"né\" at the end of sentences. Now he's talking to one of his own...",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-5.mp3"
+        },
+        {
+          "italian": "Appunto, dei suoi. L'hai detto te, mica io. Dai, andiamo. È nazista. Te l'ho detto, è nazista. Dov'è? Chi l'ha fatto? Vai! Ciao. Ho trovato questo nel libro di matematica.",
+          "start": 2147.52,
+          "end": 2173.84,
+          "id": "card-6",
+          "english": "Exactly, \"his own.\" You said it, not me. Come on, let's go. She's a Nazi. I told you, she's a Nazi. Where is it? Who did this? Go! Hi. I found this in the math book.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-6.mp3"
+        },
+        {
+          "italian": "Non è mio. Non l'ho scritto io. No, non l'ho scritto io. Tranquilla, ma tanto la scuola è piena di gente che fa scherzi cretini.",
+          "start": 2174.54,
+          "end": 2185.72,
+          "id": "card-7",
+          "english": "It's not mine. I didn't write it. No, I didn't write it. Relax, the school's full of people who pull stupid pranks anyway.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-7.mp3"
+        },
+        {
+          "italian": "Sì, ma questo io so chi l'ha fatto, però. Questo l'hai scritto tu? Sì, ma è vero, è uno scherzo. Ma è uno scherzo del cazzo.",
+          "start": 2185.72,
+          "end": 2195.04,
+          "id": "card-8",
+          "english": "Yeah, but I actually know who did this one. Did you write this? Yes, but it's true, it's a joke. It's a shitty joke.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-8.mp3"
+        },
+        {
+          "italian": "Sei una deficiente viziata che crede di potersi permettere tutto. Tu sei una frustrata complessata. Gli sbavi dietro da due anni, volevo smuoverti un po'.",
+          "start": 2195.5,
+          "end": 2201.6,
+          "id": "card-9",
+          "english": "You're a spoiled idiot who thinks she can get away with anything. You're a frustrated, insecure mess. You've been drooling over him for two years, I just wanted to shake you up a bit.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-9.mp3"
+        },
+        {
+          "italian": "Ma smuovi tua sorella! Lascia me! Ma no! Fermatevi! Fermatevi! Fermatevi! Manuel, tu hai 16 anni e Paolo ne deve ancora compiere 14. I suoi genitori sono andati dal preside ora.",
+          "start": 2201.6,
+          "end": 2231.18,
+          "id": "card-10",
+          "english": "Go shake up your own sister! Let me go! Come on! Stop it! Stop it! Stop it! Manuel, you're 16 and Paolo isn't even 14 yet. His parents just went to see the principal.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-10.mp3"
+        },
+        {
+          "italian": "Lui non ha fatto nomi, però ormai lo sanno tutti. Guarda che rischi l'espulsione. Perché lo fai? Perché c'è che è tutto chi niente. Che significa?",
+          "start": 2231.3,
+          "end": 2247.24,
+          "id": "card-11",
+          "english": "He didn't name names, but everyone knows by now anyway. You're risking expulsion, you know. Why do you do it? Because it's all or nothing. What does that mean?",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-11.mp3"
+        },
+        {
+          "italian": "Che adesso hai il tuo. Io non voglio l'elemosina di nessuno. Come va con tuo padre? Cosa c'entra mio padre? Invece c'entra come. Tra l'altro ho bisogno di parlargli.",
+          "start": 2248.14,
+          "end": 2260.56,
+          "id": "card-12",
+          "english": "That now you've got yours. I don't want anyone's charity. How are things with your father? What's my father got to do with anything? Actually, it's got everything to do with it. Besides, I need to talk to him.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-12.mp3"
+        },
+        {
+          "italian": "Non verrò mai. Beh, allora vorrà dire che parlerò con te. Ogni settimana ci vediamo qua, ci facciamo una bella chiacchierata. Io non ho niente da dire.",
+          "start": 2261.34,
+          "end": 2269.72,
+          "id": "card-13",
+          "english": "I'll never come. Well then, I guess I'll talk with you instead. Every week we'll meet here, have a nice chat. I have nothing to say.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-13.mp3"
+        },
+        {
+          "italian": "Eh, vorrà dire che staremo in silenzio. Posso andare ora? Vai. Avanti. Professoressa Passamaglia, complimenti. Per che cosa? Si lo so, non si fa. Ma ho rigliato.",
+          "start": 2270.46,
+          "end": 2288.92,
+          "id": "card-14",
+          "english": "Well then, we'll just sit in silence. Can I go now? Go ahead. Come in. Professor Passamaglia, congratulations. For what? Yes, I know, it's not proper, but I peeked.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-14.mp3"
+        },
+        {
+          "italian": "E quindi so come ha brillantemente risolto la situazione. Beh, diciamo che conosco i miei polli. Anche se ogni pollo è un mondo a sé.",
+          "start": 2290.58,
+          "end": 2297.7,
+          "id": "card-15",
+          "english": "So I know how brilliantly you handled the situation. Well, let's say I know my chickens. Although every chicken is a world of its own.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-15.mp3"
+        },
+        {
+          "italian": "Ma questo cellulare? E questo l'ho preso in prova al negozio qua sotto. Se lo restituisco entro oggi mi ridanno i soldi. Cioè, lei ha scommesso metà del suo stipendio su uno studente che conosce da pochi giorni?",
+          "start": 2298.88,
+          "end": 2309.6,
+          "id": "card-16",
+          "english": "But this phone? Oh, I got this on a trial basis from the shop downstairs. If I return it today they'll give me my money back. So you bet half your salary on a student you've only known for a few days?",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-16.mp3"
+        },
+        {
+          "italian": "Eh, non me lo dica. Mi trema ancora il portafoglio. Ci vediamo alle tre al collegio dei docenti. Presidente, scusi, io sono proprio indispensabile perché ho un po' male di testa e anche un filino di nausea.",
+          "start": 2309.8,
+          "end": 2320.22,
+          "id": "card-17",
+          "english": "Don't remind me. My wallet's still trembling. See you at three at the faculty meeting. Principal, excuse me, but am I really indispensable? I've got a bit of a headache and a touch of nausea.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-17.mp3"
+        },
+        {
+          "italian": "Mi appello al suo senso di responsabilità. Ehi. Ehi, aspetta, aspetta. Ascolta. Senti, grazie che me l'hai prestato, ok? Guarda, non ci ho fatto nemmeno una telefonata.",
+          "start": 2320.48,
+          "end": 2344.66,
+          "id": "card-18",
+          "english": "I'm appealing to your sense of responsibility. Hey. Hey, wait, wait. Listen. Look, thanks for lending it to me, okay? Look, I didn't even make a single call with it.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-18.mp3"
+        },
+        {
+          "italian": "Ok, forse un paio. Ma nel caso ti rido i soldi, va bene? Manuel. Sali, dai. No. Cosa? No, papà, mi sono rotto i coglioni.",
+          "start": 2345.78,
+          "end": 2362.36,
+          "id": "card-19",
+          "english": "Okay, maybe a couple. But if it comes to that I'll pay you back, alright? Manuel. Get in, come on. No. What? No, Dad, I'm sick of this shit.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-19.mp3"
+        },
+        {
+          "italian": "Cosa?! Cosa dici no a un tuo padre, dici? Se ti dico sali, tu devi salire. Hai capito? Hai capito? Se ti dico sali, tu sali.",
+          "start": 2363.36,
+          "end": 2370.8,
+          "id": "card-20",
+          "english": "What?! What do you mean, saying no to your own father? When I say get in, you get in. Understand? Understand? When I say get in, you get in.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-20.mp3"
+        },
+        {
+          "italian": "Ma mettiti in quella zucca. Ti dico una cosa, lo devi fare. Guardami negli occhi. Guardami negli occhi. Lo vuoi perdere? Calma. Calma lo dici a tua sorella.",
+          "start": 2371.02,
+          "end": 2381.36,
+          "id": "card-21",
+          "english": "Get that through your thick skull. I'm telling you, you have to do it. Look me in the eyes. Look me in the eyes. Do you want to lose it? Calm down. Tell your sister to calm down.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-21.mp3"
+        },
+        {
+          "italian": "Levati dalle palle, sto parlando con mio figlio. Levati dalle palle lo dici a qualcun altro. E non me ne frega anche tuo figlio. Se lo tocchi ancora, ti faccio male.",
+          "start": 2381.56,
+          "end": 2390.7,
+          "id": "card-22",
+          "english": "Get out of my face, I'm talking to my son. You go get out of someone else's face. And I don't give a damn if he's your son too. If you touch him again, I'll hurt you.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-22.mp3"
+        },
+        {
+          "italian": "Va bene che ho un sacco di cose da fare oggi, va? E tu muoviti, dai. Vabbè, ciao. Senti, mi daresti un passaggio? Dove devi andare.",
+          "start": 2392.5,
+          "end": 2415.02,
+          "id": "card-23",
+          "english": "Fine, I've got a ton of things to do today, alright? And you, get moving, come on. Okay, bye. Hey, could you give me a ride? Where do you need to go.",
+          "audio": "audio/fuoriclasse/ep1/block-8/card-23.mp3"
+        }
+      ]
+    },
+    {
+      "id": "block-9",
+      "label": "40:00–45:00",
+      "cards": [
+        {
+          "italian": "Molti di voi potrebbero degnamente ricoprire il ruolo di vicepreside. Infatti sono stato a lungo indeciso. Poi è successa una cosa che ha fugato ogni mio dubbio.",
+          "start": 2422.62,
+          "end": 2434.96,
+          "id": "card-1",
+          "english": "Many of you could worthily fill the role of vice principal. In fact, I was undecided for a long time. Then something happened that dispelled all my doubts.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-1.mp3"
+        },
+        {
+          "italian": "Stamattina sono venuto a conoscenza di uno degli eventi più odiosi che possa accadere in una scuola. Un episodio di bullismo. Ma mentre io mi interrogavo su come intervenire, qualcuno aveva già risolto il caso.",
+          "start": 2436.34,
+          "end": 2450.12,
+          "id": "card-2",
+          "english": "This morning I learned of one of the most despicable things that can happen at a school. A case of bullying. But while I was still wondering how to intervene, someone had already resolved it.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-2.mp3"
+        },
+        {
+          "italian": "Così in un attimo ho capito che la persona giusta da avere al mio fianco è la professoressa Passamaglia. Dica. Hai sentito? No, non ho sentito.",
+          "start": 2451.74,
+          "end": 2466.44,
+          "id": "card-3",
+          "english": "So in an instant I understood that the right person to have by my side is Professor Passamaglia. Go ahead. Did you hear that? No, I didn't hear.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-3.mp3"
+        },
+        {
+          "italian": "Scusi, ma oggi ho un gran mal di testa. Cosa succede? Succede che sei vicepreside. Io? No, ci deve essere un errore. Brava, Isa. No, scusate, io sono molto lusignata, preside, ma non posso accettare.",
+          "start": 2466.82,
+          "end": 2482.18,
+          "id": "card-4",
+          "english": "Sorry, I have a terrible headache today. What's going on? What's going on is that you're vice principal. Me? No, there must be some mistake. Well done, Isa. No, sorry, I'm very flattered, Principal, but I can't accept.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-4.mp3"
+        },
+        {
+          "italian": "È pieno di miei colleghi che sono molto più bravi di me. Io poi di gestione non ci capisco niente. Questo è poco, ma sicuro, signor preside.",
+          "start": 2482.98,
+          "end": 2490.94,
+          "id": "card-5",
+          "english": "There are plenty of colleagues far better than me. Besides, I don't understand the first thing about management. That much is certain, Mr. Principal.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-5.mp3"
+        },
+        {
+          "italian": "Passamaglia, si tratta soltanto di un anno e me lo lasci dire, lei è perfettamente adatta. Io difficilmente mi sbaglio sulle persone. Grazie. Che cosa ti senti esattamente?",
+          "start": 2491.34,
+          "end": 2505.08,
+          "id": "card-6",
+          "english": "Passamaglia, it's only for one year, and let me say, you're perfectly suited for it. I'm rarely wrong about people. Thank you. What exactly are you feeling?",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-6.mp3"
+        },
+        {
+          "italian": "Non lo so, mi sveglio la mattina con un senso di nausea e poi mi viene da vomitare. E poi mal di testa, l'umore, per carità.",
+          "start": 2505.08,
+          "end": 2514.68,
+          "id": "card-7",
+          "english": "I don't know, I wake up in the morning feeling nauseous and then I feel like throwing up. And then headaches, my mood, don't even get me started.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-7.mp3"
+        },
+        {
+          "italian": "Comunque, se mi dici che questo Melidol funziona, io mi fido, eh. No, non credo che vada bene. E allora cosa mi consigli? Questo. Guarda, ti sei finita.",
+          "start": 2515.68,
+          "end": 2527.64,
+          "id": "card-8",
+          "english": "Anyway, if you tell me this Melidol works, I trust you. No, I don't think that's the right one. So what do you recommend? This one. Look, you've finished it.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-8.mp3"
+        },
+        {
+          "italian": "Io ci aggiungo anche un prosecco perché un bel brindisi ci sta benissimo. Andiamo? No. Ti raggiungo là. Ho bisogno di farmi una doccia. Va bene, ci vediamo là.",
+          "start": 2528.34,
+          "end": 2538.52,
+          "id": "card-9",
+          "english": "I'll add a prosecco too, since a nice toast never hurts. Shall we go? No. I'll catch up with you there. I need to take a shower. Alright, see you there.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-9.mp3"
+        },
+        {
+          "italian": "Ciao. E dai, quanto ci vuole? Dai, suballora. Cina.",
+          "start": 2540.12,
+          "end": 2552.1,
+          "id": "card-10",
+          "english": "Bye. Come on, how long does it take? Come on, alright then. China.",
+          "audio": "audio/fuoriclasse/ep1/block-9/card-10.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -23,5 +23,10 @@
     "id": "i-barbari",
     "title": "I Barbari",
     "color": "#3D8B7D"
+  },
+  {
+    "id": "fuoriclasse",
+    "title": "Fuoriclasse",
+    "color": "#C9A227"
   }
 ]
