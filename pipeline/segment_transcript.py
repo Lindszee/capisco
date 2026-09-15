@@ -52,7 +52,48 @@ def make_cards(segments, min_duration, ideal_min, ideal_max, max_duration, min_l
         dur = group[-1]["end"] - group[0]["start"]
         ends_sentence = TERMINAL_PUNCT.search(seg["text"].strip()) is not None
 
-        if ideal_min <= dur < ideal_max and ends_sentence:
+        if dur >= max_duration:
+            # Hard ceiling reached — handle this FIRST, before the looser
+            # "ends_sentence" rules below. Otherwise a group that overshot
+            # max_duration because it found no terminal punctuation for a
+            # long stretch gets taken whole the moment it finally hits one
+            # (dur >= ideal_max and ends_sentence would match unconditionally,
+            # regardless of how far past max_duration dur has drifted).
+            # Forced cut: look back within the group for the latest point
+            # that both clears min_duration and ends on terminal punctuation.
+            split_at = None
+            # Fallback for dense, punctuation-poor dialogue (fast banter,
+            # overlapping lines) where no clean sentence break clears the
+            # floor: the latest point that's still within [min_duration,
+            # max_duration), regardless of punctuation. Without this,
+            # max_duration isn't actually a hard ceiling — a run with no
+            # terminal punctuation just grows unboundedly (seen on I Soliti
+            # Ignoti: 50-65s cards despite --max-duration 55).
+            fallback_at = None
+            running = []
+            for idx, s in enumerate(group):
+                running.append(s)
+                rdur = running[-1]["end"] - running[0]["start"]
+                # Both candidates must land BELOW max_duration — a split
+                # point has to actually be short of the ceiling, not just
+                # be the segment that happened to cross it (that segment
+                # ending on a period doesn't make the whole overlong group
+                # a valid "sentence break" cut).
+                if min_duration <= rdur < max_duration:
+                    if TERMINAL_PUNCT.search(s["text"].strip()):
+                        split_at = idx
+                    fallback_at = idx
+            if split_at is None:
+                split_at = fallback_at
+            if split_at is not None:
+                good_group = group[:split_at + 1]
+                cards.append(finalize(good_group))
+                group = group[split_at + 1:]
+            else:
+                # no point even clears min_duration — hard cut here
+                cards.append(finalize(group))
+                group = []
+        elif ideal_min <= dur < ideal_max and ends_sentence:
             # In the ideal window and landed on a clean sentence break —
             # good cut point. Take it now rather than waiting, so cards
             # land close to the ideal range instead of drifting toward
@@ -62,24 +103,6 @@ def make_cards(segments, min_duration, ideal_min, ideal_max, max_duration, min_l
         elif dur >= ideal_max and ends_sentence:
             cards.append(finalize(group))
             group = []
-        elif dur >= max_duration:
-            # Forced cut: look back within the group for the latest point
-            # that both clears min_duration and ends on terminal punctuation.
-            split_at = None
-            running = []
-            for idx, s in enumerate(group):
-                running.append(s)
-                rdur = running[-1]["end"] - running[0]["start"]
-                if rdur >= min_duration and TERMINAL_PUNCT.search(s["text"].strip()):
-                    split_at = idx
-            if split_at is not None:
-                good_group = group[:split_at + 1]
-                cards.append(finalize(good_group))
-                group = group[split_at + 1:]
-            else:
-                # no clean sentence break found — hard cut here
-                cards.append(finalize(group))
-                group = []
     if group:
         dur = group[-1]["end"] - group[0]["start"]
         if dur >= min_leftover_duration or not cards:
