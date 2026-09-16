@@ -8,8 +8,8 @@
       "label": "0:00–5:00",
       "cards": [
         {
-          "italian": "Pronto adesso! Riposo! Eccomi! Quanto ci avete messo! Sì? Bella negozio tua! Sei bella, no? Bene! Avvocata, ma dove andiamo? Bene? Proietti mio, io al massimo le posso fatte il minimo! Ma che scherziamo? E mica ho confessato ancora, no? Avvocata, io ho bisogno che esco! Che esco subito!",
-          "start": 90.0,
+          "italian": "Pronto adesso! Riposo! Eccomi! Quanto ci avete messo! Ciao, Norma ! Sei bella, no? Bene! Avvoca', ma dove andiamo? Bene? Proietti mio, io al massimo le posso fatte il minimo! Ma che scherziamo? E mica ho confessato ancora, no? Avvoca', io ho bisogno che esco! Che esco subito!",
+          "start": 90,
           "end": 121.46,
           "id": "card-1",
           "english": "Ready now! At ease! Here I am! What took you so long! Yes? Nice shop you've got! You're pretty, aren't you! Good! Counselor, but where are we going? Good? My dear Proietti, at most I can do you a small favor! Are you kidding me? And I still haven't confessed, right? Counselor, I need to get out! I need out right now!",
@@ -79,7 +79,7 @@
         },
         {
           "italian": "Amici, Mario di Capannelle! Salutamo! Possiamo entrare un momento? Non si può, c'è mia sorella! Non deve sapere gli affari miei, non se' minore ne' e' fidanzata! E quando si' sposa? Questione di corredo, con grandissimo onore deve sposarsi e nulla ci deve mancare! Hai visto? Ferrimotte e' l'uomo nostro! Boh, ma allora ti farebbero comodo centomila lire di dote? Non qui! Carmelina, Iuscino!",
-          "start": 351.0,
+          "start": 351,
           "end": 381.64,
           "id": "card-2",
           "english": "Friends, it's Mario from Capannelle! Greetings! Can we come in for a moment? You can't, my sister's here! She mustn't know my business — she's not a minor and she's not engaged! And when's she getting married? It's a matter of the dowry — she has to marry with the greatest honor, and lack nothing! You see? Ferribotte's our man! Well, would a hundred thousand lire dowry come in handy? Not here! Carmelina, go on inside!",
