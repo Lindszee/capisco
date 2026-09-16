@@ -631,8 +631,8 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
       <div class="controls-row">
         <button class="control-btn secondary" id="speedBtn">${state.speed}x<div style="font-size:11px;font-weight:500">Speed</div></button>
         <button class="play-btn" id="playBtn">&#9658;</button>
-        <button class="control-btn secondary" id="loopBtn">&#8635;<div style="font-size:11px;font-weight:500">Loop</div></button>
-        <button class="control-btn secondary" id="autoBtn">&#9193;<div style="font-size:11px;font-weight:500">Play All</div></button>
+        <button class="control-btn secondary ${state.loop ? 'active' : ''}" id="loopBtn"><span class="ctrl-icon">&#8635;</span><div style="font-size:11px;font-weight:500">Loop</div></button>
+        <button class="control-btn secondary ${state.autoAdvance ? 'active' : ''}" id="autoBtn"><span class="ctrl-icon">&#9193;</span><div style="font-size:11px;font-weight:500">Play All</div></button>
       </div>
       <div class="tab-bar">
         <button class="tab-btn ${state.tab === 'text' ? 'active' : ''}" data-tab="text">Text</button>
@@ -690,8 +690,8 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
     }
   };
   refreshTimes();
-  loopBtn.style.color = audioEl.loop ? 'var(--purple)' : 'var(--text-gray)';
-  autoBtn.style.color = state.autoAdvance ? 'var(--purple)' : 'var(--text-gray)';
+  loopBtn.classList.toggle('active', !!audioEl.loop);
+  autoBtn.classList.toggle('active', !!state.autoAdvance);
   if (state.autoAdvancePlayNext) {
     state.autoAdvancePlayNext = false;
     audioEl.play().catch(() => {});
@@ -708,11 +708,11 @@ async function renderCard(app, showId, episodeId, blockId, cardIndex) {
   loopBtn.onclick = () => {
     state.loop = !state.loop;
     audioEl.loop = state.loop;
-    loopBtn.style.color = state.loop ? 'var(--purple)' : 'var(--text-gray)';
+    loopBtn.classList.toggle('active', state.loop);
   };
   autoBtn.onclick = () => {
     state.autoAdvance = !state.autoAdvance;
-    autoBtn.style.color = state.autoAdvance ? 'var(--purple)' : 'var(--text-gray)';
+    autoBtn.classList.toggle('active', state.autoAdvance);
   };
 
   document.getElementById('markDoneBtn').onclick = () => {

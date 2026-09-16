@@ -540,6 +540,27 @@ button {
   font-size: 13px;
 }
 .control-btn.secondary { color: var(--text-gray); font-weight: 500; }
+.control-btn .ctrl-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 15px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+/* Loop / Play All: filled pill + bold purple label when ON, so the
+   on/off state reads at a glance instead of relying on a subtle
+   text-color-only change. */
+.control-btn.secondary.active {
+  color: var(--purple);
+  font-weight: 700;
+}
+.control-btn.secondary.active .ctrl-icon {
+  background: var(--purple-light);
+  color: var(--purple);
+}
 .play-btn {
   width: 60px;
   height: 60px;
